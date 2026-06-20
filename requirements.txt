@@ -1,4 +1,5 @@
 requests
 beautifulsoup4
+cloudscraper
 # Optionnel — seulement si tu actives le tri par Claude :
 # anthropic
