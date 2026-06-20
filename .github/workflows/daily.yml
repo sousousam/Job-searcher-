@@ -25,6 +25,11 @@ jobs:
         env:
           # Optionnel : ajoute ce secret dans Settings > Secrets pour activer le tri Claude
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Notification Telegram (optionnelle) : ajoute ces 2 secrets pour l'activer
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Optionnel : lien vers ta page GitHub Pages, ajouté en bas du message
+          PAGES_URL: ${{ vars.PAGES_URL }}
         run: python watcher.py
 
       - name: Sauvegarder les résultats

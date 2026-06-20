@@ -16,6 +16,8 @@ import json
 import datetime
 from pathlib import Path
 
+import requests
+
 import config
 from sources import ADAPTERS
 
@@ -137,6 +139,44 @@ def write_output(new_offers, all_results, first_run):
     )
 
 
+def notify_telegram(results, new_offers, first_run):
+    """Envoie un récap sur Telegram. Actif seulement si les variables
+    d'environnement TELEGRAM_TOKEN et TELEGRAM_CHAT_ID existent."""
+    token = os.environ.get("TELEGRAM_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        return
+
+    when = datetime.datetime.now().strftime("%d/%m %H:%M")
+    # combien de NOUVELLES par site (new_offers porte o["source"])
+    new_by_src = {}
+    for o in new_offers:
+        new_by_src[o["source"]] = new_by_src.get(o["source"], 0) + 1
+
+    lines = [f"🔔 Veille emploi — {when}"]
+    if first_run:
+        lines.append("Premier passage (baseline). Tout listé.")
+    lines.append(f"{len(new_offers)} nouvelle(s) offre(s)\n")
+    lines.append("Par site (trouvées / nouvelles) :")
+    for name, offers in results.items():
+        lines.append(f"• {name}: {len(offers)} / {new_by_src.get(name, 0)}")
+    page = os.environ.get("PAGES_URL")
+    if page:
+        lines.append(f"\n👉 {page}")
+    text = "\n".join(lines)
+
+    try:
+        r = requests.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            data={"chat_id": chat_id, "text": text, "disable_web_page_preview": "true"},
+            timeout=20,
+        )
+        if not r.ok:
+            print(f"  [Telegram] échec {r.status_code} : {r.text[:200]}")
+    except requests.RequestException as e:
+        print(f"  [Telegram] erreur réseau : {e}")
+
+
 def main():
     print("Veille emploi —", datetime.datetime.now().strftime("%d/%m %H:%M"))
     seen = load_seen()
@@ -147,6 +187,7 @@ def main():
     new_offers.sort(key=lambda o: o.get("score") or -1, reverse=True)
     save_seen(seen)
     write_output(new_offers, results, first_run)
+    notify_telegram(results, new_offers, first_run)
 
     if first_run:
         print(f"Premier passage : {sum(len(v) for v in results.values())} offres "
