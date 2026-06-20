@@ -77,12 +77,13 @@ def diff(results, seen):
         current_ids = []
         for o in offers:
             current_ids.append(o["id"])
-            if source_known and o["id"] not in known:
-                o["source"] = name
+            o["source"] = name
+            # 1er passage global (seen vide) : on remonte TOUT, pour pouvoir
+            # trier le backlog existant. Ensuite, seules les offres jamais vues
+            # d'une source déjà suivie sont signalées comme nouvelles.
+            if global_first or (source_known and o["id"] not in known):
                 o["is_new"] = True
                 new_offers.append(o)
-            else:
-                o["source"] = name
         seen[name] = current_ids
     return new_offers, global_first
 
