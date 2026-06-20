@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Outils locaux / éditeurs (ne pas publier)
+.claude/
+.antigravitycli/
+.vscode/
+.idea/
+
+# Secrets éventuels (ne JAMAIS committer une clé API)
+.env
+*.key
+
+# NOTE : data/ est volontairement SUIVI par git.
+# GitHub Pages le sert en ligne et data/seen.json garde la mémoire
+# des offres déjà vues entre deux exécutions du workflow.

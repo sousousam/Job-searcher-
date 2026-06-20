@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+# Optionnel — seulement si tu actives le tri par Claude :
+# anthropic

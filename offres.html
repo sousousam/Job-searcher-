@@ -1,0 +1,651 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mes offres</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<!-- Données produites par watcher.py -->
+<script src="./data/offers.js" onerror="window.__noData=true"></script>
+
+<style>
+  :root{
+    --bg:#0C0E13; --surface:#14171F; --surface-hi:#1B1F29; --line:#23272F;
+    --text:#ECEEF2; --muted:#7A828F; --muted-2:#565D69;
+    --green:#34C77B; --red:#E5604D; --accent:#6E8BFF;
+    /* statuts */
+    --st-postuler:#6E8BFF; --st-envoye:#E0A33C; --st-entretien:#B07CF0; --st-refuse:#E5604D;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:radial-gradient(1100px 600px at 80% -10%,#181C26 0,transparent 60%),var(--bg);
+    color:var(--text);font-family:"Inter",system-ui,sans-serif;
+    min-height:100vh;padding:clamp(20px,4vw,52px);-webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1080px;margin:0 auto}
+  a{color:inherit}
+
+  h1{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;
+     font-size:clamp(1.9rem,5vw,2.8rem);letter-spacing:-.02em;line-height:1}
+  .sub{color:var(--muted);margin-top:8px;font-size:.95rem}
+
+  /* ---- Icon Utility ---- */
+  .icon-inline {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.1em;
+    height: 1.1em;
+    vertical-align: -0.15em;
+  }
+  .icon-inline svg {
+    width: 100%;
+    height: 100%;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2.2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  .head-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .runlink{font-size:.85rem;color:var(--muted);text-decoration:none;white-space:nowrap;
+           border-bottom:1px dashed var(--muted-2);padding-bottom:1px;
+           display:inline-flex;align-items:center;gap:5px}
+  .runlink:hover{color:var(--text);border-color:var(--text)}
+
+  .refresh{background:var(--surface);border:1px solid var(--line);color:var(--text);
+           border-radius:10px;font:inherit;font-size:.9rem;font-weight:500;
+           padding:9px 15px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;transition:.15s}
+  .refresh:hover{border-color:#3a4150;background:var(--surface-hi)}
+  .refresh.spin .icon-inline{animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* ---- Notification ---- */
+  #toast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%) translateY(20px);
+         background:var(--surface-hi);border:1px solid var(--line);color:var(--text);
+         padding:11px 18px;border-radius:11px;font-size:.9rem;opacity:0;pointer-events:none;
+         transition:opacity .2s,transform .2s;box-shadow:0 8px 30px rgba(0,0,0,.45);z-index:30;
+         display:inline-flex;align-items:center;gap:8px}
+  #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  #toast.ok{border-color:var(--green)}
+  #toast.err{border-color:var(--red)}
+
+  /* ---- Onglets principaux ---- */
+  .maintabs{display:flex;gap:6px;margin:26px 0 22px;border-bottom:1px solid var(--line)}
+  .maintab{
+    background:none;border:0;border-bottom:2px solid transparent;margin-bottom:-1px;
+    color:var(--muted);font:inherit;font-size:1rem;font-weight:600;
+    padding:12px 16px;cursor:pointer;transition:.15s;display:flex;align-items:center;gap:9px;
+  }
+  .maintab:hover{color:var(--text)}
+  .maintab.on{color:var(--text);border-color:var(--accent)}
+  .pill{background:var(--surface-hi);color:var(--muted);border-radius:999px;
+        font-size:.72rem;font-weight:700;padding:2px 8px;min-width:22px;text-align:center}
+  .maintab.on .pill{background:var(--accent);color:#0b1020}
+
+  /* ---- Filtres ---- */
+  .chips{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+  .chip{background:var(--surface);border:1px solid var(--line);color:var(--muted);
+        border-radius:999px;padding:7px 14px;font:inherit;font-size:.85rem;cursor:pointer;transition:.15s}
+  .chip:hover{color:var(--text)}
+  .chip.on{background:var(--surface-hi);color:var(--text);border-color:#3a4150}
+  .chip b{color:var(--text)}
+
+  /* ---- Cartes du flux ---- */
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:16px;
+        padding:18px 20px;margin-bottom:12px}
+  .card .top{display:flex;justify-content:space-between;gap:14px;align-items:flex-start}
+  .title{font-weight:600;font-size:1.08rem;letter-spacing:-.01em;line-height:1.3}
+  .src{flex:none;font-size:.72rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;
+       color:var(--accent);border:1px solid color-mix(in srgb,var(--accent) 40%,var(--line));
+       border-radius:7px;padding:3px 8px}
+  .meta{color:var(--muted);font-size:.88rem;margin-top:7px;display:flex;gap:14px;flex-wrap:wrap}
+  .meta span{display:inline-flex;gap:5px;align-items:center}
+  .meta span .icon-inline {color:var(--muted-2)}
+  .score{margin-top:9px;font-size:.8rem;color:var(--muted-2)}
+  .score b{color:var(--green)}
+  .actions{display:flex;gap:10px;margin-top:16px;flex-wrap:wrap}
+  .btn{border:1px solid var(--line);background:var(--surface-hi);color:var(--text);
+       border-radius:10px;padding:9px 15px;font:inherit;font-size:.9rem;font-weight:500;
+       cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:7px;transition:.15s}
+  .btn:hover{border-color:#3a4150}
+  .btn.open{margin-right:auto}
+  .btn.yes:hover{border-color:var(--green);color:var(--green)}
+  .btn.no:hover{border-color:var(--red);color:var(--red)}
+
+  /* ---- Tableau ---- */
+  .tablewrap{border:1px solid var(--line);border-radius:16px;overflow:auto;background:var(--surface)}
+  table{width:100%;border-collapse:collapse;font-size:.9rem;min-width:860px}
+  thead th{position:sticky;top:0;background:var(--surface-hi);color:var(--muted);
+           text-align:left;font-weight:600;font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;
+           padding:13px 16px;border-bottom:1px solid var(--line);white-space:nowrap}
+  tbody td{padding:13px 16px;border-bottom:1px solid var(--line);vertical-align:middle}
+  tbody tr:last-child td{border-bottom:0}
+  tbody tr:hover{background:#171b24}
+  .t-title{font-weight:600;letter-spacing:-.01em}
+  .t-title a{text-decoration:none}
+  .t-title a:hover{color:var(--accent)}
+  .t-sub{color:var(--muted-2);font-size:.78rem;margin-top:2px}
+
+  /* selects éditables dans le tableau */
+  select{font:inherit;font-size:.84rem;color:var(--text);background:var(--surface-hi);
+         border:1px solid var(--line);border-radius:8px;padding:6px 9px;cursor:pointer;outline:none}
+  select:focus{border-color:#3a4150}
+  select.status{font-weight:600;border:0;padding:7px 11px;border-radius:999px}
+  select.status[data-v="À postuler"]{background:color-mix(in srgb,var(--st-postuler) 22%,var(--surface-hi));color:#c7d2ff}
+  select.status[data-v="Candidature envoyée"]{background:color-mix(in srgb,var(--st-envoye) 24%,var(--surface-hi));color:#f3d9a6}
+  select.status[data-v="Entretien prévu"]{background:color-mix(in srgb,var(--st-entretien) 24%,var(--surface-hi));color:#e3cdfa}
+  select.status[data-v="Refusé"]{background:color-mix(in srgb,var(--st-refuse) 22%,var(--surface-hi));color:#f3c2ba}
+  .contract{font-weight:600}
+  .openlink{color:var(--muted);text-decoration:none;border:1px solid var(--line);
+            border-radius:8px;padding:6px 10px;font-size:.82rem;white-space:nowrap;
+            display:inline-flex;align-items:center;gap:5px}
+  .openlink:hover{color:var(--text);border-color:#3a4150}
+  .del{background:none;border:0;color:var(--muted-2);cursor:pointer;padding:6px;border-radius:8px;
+       display:inline-flex;align-items:center;justify-content:center;transition:.15s}
+  .del:hover{color:var(--red);background:#1f1417}
+
+  .empty{text-align:center;color:var(--muted-2);padding:64px 0;font-size:.98rem}
+  footer{margin-top:34px;text-align:center;color:var(--muted-2);font-size:.78rem}
+
+  /* ---- Ajout manuel ---- */
+  .saved-head{display:flex;justify-content:flex-end;margin-bottom:14px}
+  .addbtn{background:var(--accent);color:#0b1020;border:0;border-radius:10px;
+          font:inherit;font-weight:600;font-size:.9rem;padding:10px 16px;cursor:pointer;transition:.15s;
+          display:inline-flex;align-items:center;gap:6px}
+  .addbtn:hover{filter:brightness(1.08)}
+  .modal-bg{position:fixed;inset:0;background:rgba(6,8,12,.72);backdrop-filter:blur(3px);
+            display:flex;align-items:center;justify-content:center;padding:20px;z-index:20}
+  .modal-card{background:var(--surface);border:1px solid var(--line);border-radius:18px;
+              padding:24px;width:100%;max-width:460px;max-height:90vh;overflow:auto}
+  .modal-card h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:1.4rem;margin-bottom:18px}
+  .fld{display:flex;flex-direction:column;gap:6px;font-size:.82rem;color:var(--muted);margin-bottom:14px}
+  .fld input,.fld select{font:inherit;font-size:.95rem;color:var(--text);background:var(--surface-hi);
+          border:1px solid var(--line);border-radius:10px;padding:10px 12px;outline:none;width:100%}
+  .fld input:focus,.fld select:focus{border-color:var(--accent)}
+  .fld input.err{border-color:var(--red)}
+  .req{color:var(--red)}
+  .fld-row{display:flex;gap:12px}
+  .fld-row .fld{flex:1}
+  .modal-actions{display:flex;justify-content:flex-end;gap:10px;margin-top:6px}
+  .btn.primary{background:var(--accent);color:#0b1020;border:0;font-weight:600}
+  .btn.primary:hover{filter:brightness(1.08)}
+
+  .tab-note{color:var(--muted);font-size:.86rem;margin-bottom:14px;line-height:1.5}
+  .hidden{display:none}
+</style>
+
+<div class="wrap">
+  <header class="head">
+    <div>
+      <h1>Mes offres</h1>
+      <div class="sub" id="sub">Chargement…</div>
+    </div>
+    <div class="head-actions">
+      <a id="run-link" class="runlink hidden" target="_blank" rel="noopener">Lancer le bot <span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M15 3h6v6M10 14 21 3M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></span></a>
+      <button class="refresh" id="refresh" title="Recharger les dernières offres trouvées par le bot"><span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8M3 3v5h5M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16M16 16h5v5"/></svg></span> Actualiser</button>
+    </div>
+  </header>
+
+  <div class="maintabs">
+    <button class="maintab on" data-tab="feed">
+      <span class="icon-inline"><svg viewBox="0 0 24 24"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275Z"/><path d="m5 3 1 2.5L8.5 6 6 7 5 9.5 4 7 1.5 6 4 5Z"/><path d="m19 17 1 2.5 2.5.5-2.5 1-1 2.5-1-2.5-2.5-1 2.5-1Z"/></svg></span>
+      Nouvelles offres
+      <span class="pill" id="pill-feed">0</span>
+    </button>
+    <button class="maintab" data-tab="prev">
+      <span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/></svg></span>
+      Offres précédentes
+      <span class="pill" id="pill-prev">0</span>
+    </button>
+    <button class="maintab" data-tab="saved">
+      <span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/><rect width="20" height="14" x="2" y="6" rx="2"/></svg></span>
+      Mes offres
+      <span class="pill" id="pill-saved">0</span>
+    </button>
+  </div>
+
+  <!-- Onglet 1 : flux des nouveautés -->
+  <section id="feed">
+    <div class="chips" id="feed-chips"></div>
+    <div id="feed-list"></div>
+  </section>
+
+  <!-- Onglet 2 : offres trouvées aux passages précédents (conservées) -->
+  <section id="prev" class="hidden">
+    <p class="tab-note">Offres repérées lors des passages précédents, pas encore triées. Elles restent ici tant que tu ne les as pas classées.</p>
+    <div class="chips" id="prev-chips"></div>
+    <div id="prev-list"></div>
+  </section>
+
+  <!-- Onglet 2 : tableau -->
+  <section id="saved" class="hidden">
+    <div class="saved-head">
+      <button class="addbtn" id="open-add"><span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5v14"/></svg></span> Ajouter une offre</button>
+    </div>
+    <div class="chips" id="saved-src-chips"></div>
+    <div class="chips" id="saved-chips"></div>
+    <div id="saved-area"></div>
+  </section>
+
+  <footer>Tes choix et statuts sont enregistrés dans ce navigateur.</footer>
+</div>
+
+<!-- Fenêtre d'ajout manuel -->
+<div id="modal" class="modal-bg hidden">
+  <div class="modal-card">
+    <h2><span class="icon-inline" style="margin-right:8px; vertical-align:middle; width:20px; height:20px;"><svg viewBox="0 0 24 24"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/><rect width="20" height="14" x="2" y="6" rx="2"/></svg></span>Ajouter une offre</h2>
+    <label class="fld">Titre <span class="req">*</span>
+      <input id="f-title" type="text" placeholder="Intitulé du poste">
+    </label>
+    <label class="fld">Société
+      <input id="f-company" type="text" placeholder="Nom de l'entreprise">
+    </label>
+    <label class="fld">Localisation
+      <input id="f-location" type="text" placeholder="Ville, Pays">
+    </label>
+    <div class="fld-row">
+      <label class="fld">Continent <select id="f-continent"></select></label>
+      <label class="fld">Contrat <select id="f-contract"></select></label>
+    </div>
+    <label class="fld">Lien vers l'offre
+      <input id="f-url" type="url" placeholder="https://…">
+    </label>
+    <label class="fld">Statut <select id="f-statut"></select></label>
+    <div class="modal-actions">
+      <button class="btn" id="cancel-add"><span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></svg></span> Annuler</button>
+      <button class="btn primary" id="confirm-add"><span class="icon-inline"><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></span> Ajouter</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+/* ====== RÉGLAGE ======
+   Pour activer le bouton « Lancer le bot », colle ci-dessous l'URL de l'onglet
+   Actions de ton dépôt GitHub. Un clic y ouvrira la page où tu lances le bot.
+   Exemple : "https://github.com/TON-PSEUDO/job-watcher/actions"            */
+const ACTIONS_URL = "";
+
+/* ---------------- Icones SVGs Modernes ---------------- */
+const ICONS = {
+  building: `<svg viewBox="0 0 24 24"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M8 10h.01"/><path d="M16 10h.01"/><path d="M8 14h.01"/><path d="M16 14h.01"/></svg>`,
+  mapPin: `<svg viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>`,
+  contract: `<svg viewBox="0 0 24 24"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>`,
+  calendar: `<svg viewBox="0 0 24 24"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>`,
+  thumbsUp: `<svg viewBox="0 0 24 24"><path d="M7 10v12"/><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h3l3.15-7.15a1 1 0 0 1 1.5.35l1.35 2.68Z"/></svg>`,
+  thumbsDown: `<svg viewBox="0 0 24 24"><path d="M17 14V2"/><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-3l-3.15 7.15a1 1 0 0 1-1.5-.35L11 15.32Z"/></svg>`,
+  externalLink: `<svg viewBox="0 0 24 24"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>`,
+  trash: `<svg viewBox="0 0 24 24"><path d="M3 6h18"/><path d="M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6"/><path d="M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2"/></svg>`,
+  x: `<svg viewBox="0 0 24 24"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>`,
+  check: `<svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg>`,
+  plus: `<svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M12 5v14"/></svg>`
+};
+
+function icon(name, extraClass = "") {
+  return `<span class="icon-inline ${extraClass}">${ICONS[name]}</span>`;
+}
+
+/* ---------------- Référentiels ---------------- */
+const STATUTS   = ["À postuler", "Candidature envoyée", "Entretien prévu", "Refusé"];
+const CONTRATS  = ["CDI", "CDD", "VIE", "Stage", "Alternance", "Autre"];
+const CONTINENTS= ["Europe", "Asie", "Amérique du Nord", "Amérique du Sud", "Afrique", "Océanie", "Moyen-Orient"];
+
+const PAYS_CONTINENT = {
+  "Europe": ["france","allemagne","espagne","italie","royaume-uni","angleterre","irlande","belgique","pays-bas","suisse","portugal","suède","norvège","danemark","finlande","pologne","autriche","grèce","roumanie","république tchèque","hongrie"],
+  "Amérique du Nord": ["états-unis","etats-unis","usa","canada","mexique"],
+  "Amérique du Sud": ["brésil","bresil","argentine","chili","colombie","pérou","perou","uruguay"],
+  "Afrique": ["maroc","tunisie","algérie","algerie","égypte","egypte","afrique du sud","sénégal","senegal","nigéria","nigeria","kenya","côte d'ivoire"],
+  "Asie": ["chine","japon","inde","singapour","thaïlande","thailande","malaisie","indonésie","indonesie","vietnam","corée du sud","coree du sud","corée","coree","hong kong","taïwan","taiwan","philippines"],
+  "Océanie": ["australie","nouvelle-zélande","nouvelle zelande"],
+  "Moyen-Orient": ["émirats","emirats","dubaï","dubai","qatar","arabie saoudite","israël","israel","turquie","koweït","koweit","oman","bahreïn","bahrein"],
+};
+
+function detectContinent(loc){
+  const s = (loc || "").toLowerCase();
+  for(const [cont, pays] of Object.entries(PAYS_CONTINENT))
+    if(pays.some(p => s.includes(p))) return cont;
+  return "";
+}
+function detectContract(o){
+  const s = ((o.title||"") + " " + (o.contract||"")).toLowerCase();
+  if(o.source === "VIE" || s.includes("vie") || s.includes("v.i.e")) return "VIE";
+  if(s.includes("alternance") || s.includes("apprentissage")) return "Alternance";
+  if(s.includes("stage")) return "Stage";
+  if(s.includes("cdd")) return "CDD";
+  if(s.includes("cdi")) return "CDI";
+  return "";
+}
+
+/* ---------------- Stockage local (protégé) ---------------- */
+const DB = (() => {
+  let saved = {}, dismissed = {}, archive = {};
+  try { saved = JSON.parse(localStorage.getItem("jobs_saved") || "{}"); } catch(e){}
+  try { dismissed = JSON.parse(localStorage.getItem("jobs_dismissed") || "{}"); } catch(e){}
+  try { archive = JSON.parse(localStorage.getItem("jobs_archive") || "{}"); } catch(e){}
+  const persist = () => {
+    try {
+      localStorage.setItem("jobs_saved", JSON.stringify(saved));
+      localStorage.setItem("jobs_dismissed", JSON.stringify(dismissed));
+      localStorage.setItem("jobs_archive", JSON.stringify(archive));
+    } catch(e){}
+  };
+  return {
+    saved, dismissed, archive,
+    isDecided: k => k in saved || k in dismissed,
+    // Mémorise toute offre trouvée par le bot pour ne JAMAIS la perdre,
+    // même quand elle disparaît du flux "nouvelles" au passage suivant.
+    seedNew(list){
+      let changed = false;
+      (list || []).forEach(o => {
+        const k = o.source + ":" + o.id;
+        if(!archive[k]){
+          archive[k] = Object.assign({}, o, { firstSeen: new Date().toISOString() });
+          changed = true;
+        }
+      });
+      if(changed) persist();
+    },
+    save(k, offer){
+      saved[k] = Object.assign({}, offer, {
+        continent: offer.continent || detectContinent(offer.location),
+        contract:  offer.contract  || detectContract(offer),
+        statut:    offer.statut    || "À postuler",
+      });
+      persist();
+    },
+    dismiss(k){ dismissed[k] = true; persist(); },
+    update(k, field, val){ if(saved[k]){ saved[k][field] = val; persist(); } },
+    remove(k){ delete saved[k]; persist(); },
+  };
+})();
+
+// Démo de secours : utilisée uniquement si data/offers.js n'est pas chargé
+// (aperçu). Sur ton site, window.OFFERS écrase toujours ceci.
+const DEMO = { generatedAt:"démo", firstRun:false, new:[
+  {source:"VIE", id:"d1", title:"VIE Ingénieur Support Client", company:"Thales", location:"Singapour", date:"2026-06-09", score:88, url:"#"},
+  {source:"Airbus", id:"d2", title:"Stress Engineer - Structures", company:"Airbus", location:"Toulouse, France", date:"2026-06-09", score:72, url:"#"},
+  {source:"Safran", id:"d3", title:"Production Engineer", company:"Safran Cabin", location:"Lamphun, Thaïlande", date:"2026-06-08", score:54, url:"#"},
+  {source:"VIE", id:"d4", title:"VIE Business Developer", company:"Air Liquide", location:"Sydney, Australie", date:"2026-06-07", score:63, url:"#"},
+]};
+const OFFERS_INIT = window.OFFERS || DEMO;
+let OFFERS = OFFERS_INIT;
+const keyOf = o => o.source + ":" + o.id;
+
+let feedSource = "Tous";
+let prevSource = "Tous";
+let savedStatut = "Tous";
+let savedSource = "Tous";
+
+/* ---------------- Onglets ---------------- */
+const SECTIONS = ["feed", "prev", "saved"];
+document.querySelectorAll(".maintab").forEach(btn=>{
+  btn.onclick = () => {
+    document.querySelectorAll(".maintab").forEach(b=>b.classList.toggle("on", b===btn));
+    SECTIONS.forEach(s => document.getElementById(s).classList.toggle("hidden", btn.dataset.tab!==s));
+  };
+});
+
+/* ---------------- Carte d'offre (partagée par les 2 onglets) ---------------- */
+function buildCard(o){
+  const k = keyOf(o);
+  const seen = o.firstSeen ? new Date(o.firstSeen).toLocaleDateString("fr-FR",{day:"numeric",month:"short"}) : "";
+  const metaBits = [
+    o.company && `<span>${icon('building')}${o.company}</span>`,
+    o.location && `<span>${icon('mapPin')}${o.location}</span>`,
+    detectContract(o) && `<span>${icon('contract')}${detectContract(o)}</span>`,
+    (o.date || seen) && `<span>${icon('calendar')}${o.date || seen}</span>`,
+  ].filter(Boolean).join("");
+  const card = document.createElement("div");
+  card.className = "card";
+  card.innerHTML = `
+    <div class="top">
+      <div class="title">${o.title}</div>
+      <div class="src">${o.source}</div>
+    </div>
+    ${metaBits ? `<div class="meta">${metaBits}</div>`:""}
+    ${o.score!=null ? `<div class="score">Pertinence : <b>${o.score}/100</b></div>`:""}
+    <div class="actions">
+      <a class="btn open" href="${o.url}" target="_blank" rel="noopener">Ouvrir l'offre ${icon('externalLink')}</a>
+      <button class="btn yes">${icon('thumbsUp')} Intéressé</button>
+      <button class="btn no">${icon('thumbsDown')} Pas intéressé</button>
+    </div>`;
+  card.querySelector(".yes").onclick = ()=>{ DB.save(k, o); refresh(); };
+  card.querySelector(".no").onclick  = ()=>{ DB.dismiss(k);  refresh(); };
+  return card;
+}
+
+/* rendu d'une liste de cartes avec filtre par site */
+function renderCardList(listId, chipsId, offers, currentSrc, onPick, emptyHtml){
+  const chips = document.getElementById(chipsId);
+  const sources = ["Tous", ...new Set(offers.map(o=>o.source))];
+  chips.innerHTML = "";
+  sources.forEach(s=>{
+    const c = s==="Tous" ? offers.length : offers.filter(o=>o.source===s).length;
+    const b = document.createElement("button");
+    b.className = "chip" + (s===currentSrc?" on":"");
+    b.innerHTML = `${s} <b>${c}</b>`;
+    b.onclick = ()=> onPick(s);
+    chips.appendChild(b);
+  });
+  const shown = offers.filter(o => currentSrc==="Tous" || o.source===currentSrc);
+  const list = document.getElementById(listId);
+  list.innerHTML = "";
+  if(!shown.length){ list.innerHTML = emptyHtml; return; }
+  shown.forEach(o => list.appendChild(buildCard(o)));
+}
+
+/* ---------------- Onglet « Nouvelles offres » (dernier passage) ---------------- */
+function feedOffers(){
+  if(!OFFERS || !OFFERS.new) return [];
+  return OFFERS.new.filter(o => !DB.isDecided(keyOf(o)));
+}
+function renderFeed(){
+  const all = feedOffers();
+  let empty = '<div class="empty">Rien à trier ici. 👌</div>';
+  if(OFFERS && OFFERS.firstRun && !all.length)
+    empty = '<div class="empty">Premier passage enregistré comme référence. Les nouveautés apparaîtront au prochain passage du bot.</div>';
+  renderCardList("feed-list", "feed-chips", all, feedSource, s=>{ feedSource=s; renderFeed(); }, empty);
+}
+
+/* ---------------- Onglet « Offres précédentes » (conservées) ---------------- */
+function previousOffers(){
+  // les offres déjà repérées avant, qui ne sont plus dans le dernier passage
+  // et que tu n'as pas encore triées → on ne les perd pas.
+  const currentIds = new Set((OFFERS && OFFERS.new ? OFFERS.new : []).map(keyOf));
+  return Object.keys(DB.archive)
+    .filter(k => !currentIds.has(k) && !DB.isDecided(k))
+    .map(k => DB.archive[k]);
+}
+function renderPrevious(){
+  const all = previousOffers();
+  renderCardList("prev-list", "prev-chips", all, prevSource, s=>{ prevSource=s; renderPrevious(); },
+    '<div class="empty">Aucune offre précédente en attente. 👌</div>');
+}
+
+/* ---------------- Tableau de suivi ---------------- */
+function renderSaved(){
+  const all = Object.entries(DB.saved);   // [ [key, offer], ... ]
+
+  // --- Filtre par site ---
+  const sources = ["Tous", ...new Set(all.map(([,o]) => o.source))];
+  const srcChips = document.getElementById("saved-src-chips");
+  srcChips.innerHTML = "";
+  sources.forEach(s => {
+    const c = s==="Tous" ? all.length : all.filter(([,o]) => o.source===s).length;
+    const b = document.createElement("button");
+    b.className = "chip" + (s===savedSource ? " on" : "");
+    b.innerHTML = `${s} <b>${c}</b>`;
+    b.onclick = () => { savedSource = s; renderSaved(); };
+    srcChips.appendChild(b);
+  });
+
+  // base après filtre site, sert aux compteurs de statut
+  const base = all.filter(([,o]) => savedSource==="Tous" || o.source===savedSource);
+
+  // --- Filtre par statut ---
+  const stChips = document.getElementById("saved-chips");
+  stChips.innerHTML = "";
+  ["Tous", ...STATUTS].forEach(s => {
+    const c = s==="Tous" ? base.length : base.filter(([,o]) => o.statut===s).length;
+    const b = document.createElement("button");
+    b.className = "chip" + (s===savedStatut ? " on" : "");
+    b.innerHTML = `${s} <b>${c}</b>`;
+    b.onclick = () => { savedStatut = s; renderSaved(); };
+    stChips.appendChild(b);
+  });
+
+  const rows = base.filter(([,o]) => savedStatut==="Tous" || o.statut===savedStatut);
+  const area = document.getElementById("saved-area");
+
+  if(!all.length){
+    area.innerHTML = '<div class="empty">Aucune offre retenue pour l\'instant. Mets 👍 sur une offre dans « Nouvelles offres », ou ajoute-en une à la main.</div>';
+    return;
+  }
+  if(!rows.length){ area.innerHTML = '<div class="empty">Aucune offre pour ce filtre.</div>'; return; }
+
+  const opts = (arr, sel) => arr.map(v=>`<option ${v===sel?"selected":""}>${v}</option>`).join("");
+  const optsBlank = (arr, sel) => `<option value="" ${!sel?"selected":""}>—</option>` + opts(arr, sel);
+
+  let html = `<div class="tablewrap"><table><thead><tr>
+      <th>Titre</th><th>Société</th><th>Localisation</th><th>Continent</th>
+      <th>Contrat</th><th>Lien</th><th>Statut</th><th></th>
+    </tr></thead><tbody>`;
+
+  rows.forEach(([k,o])=>{
+    html += `<tr data-k="${k}">
+      <td class="t-title"><a href="${o.url}" target="_blank" rel="noopener">${o.title}</a>
+          <div class="t-sub">${o.source}</div></td>
+      <td>${o.company || "—"}</td>
+      <td>${o.location || "—"}</td>
+      <td><select class="js-continent">${optsBlank(CONTINENTS, o.continent)}</select></td>
+      <td><select class="js-contract contract">${optsBlank(CONTRATS, o.contract)}</select></td>
+      <td><a class="openlink" href="${o.url}" target="_blank" rel="noopener">Ouvrir ${icon('externalLink')}</a></td>
+      <td><select class="js-statut status" data-v="${o.statut}">${opts(STATUTS, o.statut)}</select></td>
+      <td><button class="del" title="Retirer">${icon('trash')}</button></td>
+    </tr>`;
+  });
+  html += "</tbody></table></div>";
+  area.innerHTML = html;
+
+  area.querySelectorAll("tr[data-k]").forEach(tr=>{
+    const k = tr.dataset.k;
+    tr.querySelector(".js-continent").onchange = e => { DB.update(k,"continent",e.target.value); };
+    tr.querySelector(".js-contract").onchange  = e => { DB.update(k,"contract",e.target.value); };
+    const st = tr.querySelector(".js-statut");
+    st.onchange = e => { DB.update(k,"statut",e.target.value); e.target.dataset.v=e.target.value; renderSaved(); };
+    tr.querySelector(".del").onclick = () => { DB.remove(k); refresh(); };
+  });
+}
+
+/* ---------------- Ajout manuel d'une offre ---------------- */
+const modal = document.getElementById("modal");
+
+function fillSelect(id, arr, withBlank, def){
+  const sel = document.getElementById(id);
+  sel.innerHTML = (withBlank ? '<option value="">—</option>' : "")
+    + arr.map(v => `<option ${v===def?"selected":""}>${v}</option>`).join("");
+}
+
+function openAdd(){
+  ["f-title","f-company","f-location","f-url"].forEach(i => document.getElementById(i).value = "");
+  document.getElementById("f-title").classList.remove("err");
+  fillSelect("f-continent", CONTINENTS, true);
+  fillSelect("f-contract", CONTRATS, true);
+  fillSelect("f-statut", STATUTS, false, "À postuler");
+  modal.classList.remove("hidden");
+  document.getElementById("f-title").focus();
+}
+
+function closeAdd(){ modal.classList.add("hidden"); }
+
+function confirmAdd(){
+  const tEl = document.getElementById("f-title");
+  const title = tEl.value.trim();
+  if(!title){ tEl.classList.add("err"); tEl.focus(); return; }
+  const offer = {
+    source: "Manuel",
+    id: "m" + Date.now(),
+    title,
+    company:  document.getElementById("f-company").value.trim(),
+    location: document.getElementById("f-location").value.trim(),
+    url:      document.getElementById("f-url").value.trim() || "#",
+    continent:document.getElementById("f-continent").value,
+    contract: document.getElementById("f-contract").value,
+    statut:   document.getElementById("f-statut").value,
+  };
+  DB.save(keyOf(offer), offer);     // continent/contrat devinés si laissés vides
+  closeAdd();
+  savedStatut = "Tous";
+  refresh();
+}
+
+document.getElementById("open-add").onclick   = openAdd;
+document.getElementById("cancel-add").onclick  = closeAdd;
+document.getElementById("confirm-add").onclick = confirmAdd;
+modal.onclick = e => { if(e.target === modal) closeAdd(); };
+document.addEventListener("keydown", e => {
+  if(e.key === "Escape" && !modal.classList.contains("hidden")) closeAdd();
+});
+document.getElementById("f-title").addEventListener("input", e => e.target.classList.remove("err"));
+
+/* ---------------- Actualisation forcée ---------------- */
+let toastTimer;
+function toast(msg, kind){
+  const t = document.getElementById("toast");
+  let prefix = "";
+  if (kind === "ok") prefix = icon("check") + " ";
+  if (kind === "err") prefix = icon("x") + " ";
+  t.innerHTML = prefix + msg;
+  t.className = "show" + (kind ? " " + kind : "");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { t.className = t.className.replace("show", "").trim(); }, 2400);
+}
+
+function forceRefresh(){
+  const btn = document.getElementById("refresh");
+  btn.classList.add("spin");
+  // On recharge data/offers.js (avec anti-cache) en réinjectant le script :
+  const s = document.createElement("script");
+  s.src = "./data/offers.js?t=" + Date.now();
+  s.onload = () => {
+    OFFERS = window.OFFERS || OFFERS_INIT;
+    btn.classList.remove("spin");
+    refresh();
+    toast("Offres actualisées", "ok");
+    s.remove();
+  };
+  s.onerror = () => {
+    btn.classList.remove("spin");
+    toast("Pas de fichier à recharger (lance le bot d'abord)", "err");
+    s.remove();
+  };
+  document.body.appendChild(s);
+}
+document.getElementById("refresh").onclick = forceRefresh;
+
+const runLink = document.getElementById("run-link");
+if(ACTIONS_URL){ runLink.href = ACTIONS_URL; runLink.classList.remove("hidden"); }
+
+/* ---------------- Rendu global ---------------- */
+function refresh(){
+  DB.seedNew(OFFERS && OFFERS.new ? OFFERS.new : []);   // mémorise pour ne rien perdre
+  const prevCount = previousOffers().length;
+  document.getElementById("pill-feed").textContent  = feedOffers().length;
+  document.getElementById("pill-prev").textContent  = prevCount;
+  document.getElementById("pill-saved").textContent = Object.keys(DB.saved).length;
+  const sub = document.getElementById("sub");
+  sub.innerHTML = "Mis à jour le " + (OFFERS.generatedAt||"?") +
+       " · <b>" + feedOffers().length + "</b> à trier · <b>" +
+       prevCount + "</b> en attente · <b>" +
+       Object.keys(DB.saved).length + "</b> retenue(s)";
+  renderFeed();
+  renderPrevious();
+  renderSaved();
+}
+refresh();
+</script>
