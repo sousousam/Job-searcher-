@@ -39,8 +39,10 @@ TIMEOUT = 25
 def fetch_safran(cfg):
     from bs4 import BeautifulSoup
     offers, seen_ids = [], set()
-    # Motif d'un lien d'offre : /fr/offres/<pays>/<ville>/<slug>-<id>
-    pat = re.compile(r"/fr/offres/[^/]+/[^/]+/.+-(\d+)$")
+    # Motif d'un lien d'offre : /fr/offres/<chemin>/<slug>-<id>
+    # Le segment ville est parfois absent (france/slug-id), parfois présent
+    # (france/ville/slug-id) → on accepte une profondeur variable.
+    pat = re.compile(r"/fr/offres/[^?]+-(\d+)/?$")
 
     for page in range(cfg.get("max_pages", 20)):
         url = _with_query(cfg["url"], {"page": page})
