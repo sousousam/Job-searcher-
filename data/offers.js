@@ -1,15 +1,26 @@
 window.OFFERS = {
-  "generatedAt": "2026-06-21T10:07",
+  "generatedAt": "2026-06-21T20:05",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/ALT-2026---Apprenti-e--Data-Scientist--F-H-_JR10394399",
-      "title": "ALT 2026 - Apprenti(e) Implémentation IA & Data Science (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/ALT-2026---Apprenti-e--Data-Scientist--F-H-_JR10394399",
+      "id": "/job/Toulouse-Area/A220-Stress-Analyst-Specialist---Metallic-Structures--m-f-_JR10417031-1",
+      "title": "Ingénieur Calcul Réparation - Programme A220 (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/A220-Stress-Analyst-Specialist---Metallic-Structures--m-f-_JR10417031-1",
       "company": "Airbus",
-      "location": "Marseille Area",
+      "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée il y a 6 jours",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
+      "title": "#Propulsion - Pylon Engineering Continuous Development- Design Structure experienced Engineer - (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     }
