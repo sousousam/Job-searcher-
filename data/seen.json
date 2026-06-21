@@ -10,7 +10,6 @@
     "/job/Toulouse-Area/Head-Of-Export-Control---Sanctions-Regulatory--F-M-_JR10422862",
     "/job/Marseille-Area/Architecte-systmes-sur-le-primtre-Helionix--H-F-_JR10415684",
     "/job/Marseille-Area/UMB---Avionics-Systems-Architect--M-F-_JR10367435",
-    "/job/Toulouse-Area/ALT-2026---Apprenti-e--en-calcul-de-structures-primaires-fuselage--F-H-_JR10394741",
     "/job/Toulouse-Area/A321---PERMANENT---MECA-SYSTEME-WP_JR10421419-1",
     "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Mcanique-Conception-des-moyens-de-maintenance-sur-Hlicoptre--f-h-_JR10416514",
     "/job/Toulouse-Area/Head-Of-Digital-Software-Engineering-M-F_JR10386665-1",
@@ -39,7 +38,8 @@
     "/job/Marseille-Area/Offer-Evaluation-Manager--H-F-_JR10410564-1",
     "/job/Toulouse-Area/Export-Control-Projects---Solutions-Manager-M-F-_JR10414803",
     "/job/Marseille-Area/XMLNAME--ET19A-Responsable-Dveloppement-Systmes-lectroniques-Complexes--F-H-_JR10400105",
-    "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Systme-ECS-et-Analyse-Thermique--F-H-_JR10421089"
+    "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Systme-ECS-et-Analyse-Thermique--F-H-_JR10421089",
+    "/job/Marseille-Area/ALT-2026---Apprenti-e--Data-Scientist--F-H-_JR10394399"
   ],
   "Safran CDI": [],
   "Naval Group": [
@@ -327,11 +327,7 @@
     "243261",
     "243260",
     "243239",
-    "238365",
-    "243209",
-    "243197",
-    "242464",
-    "238004"
+    "238365"
   ],
   "Airbus VIE": [
     "/job/Roma-Area/VIE-2026---ITALY---TECHNICAL-SUPPORT---AIRWORTHINESS-DATA-SPECIALIST--H-F-_JR10411073",
