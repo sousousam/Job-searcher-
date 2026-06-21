@@ -2,7 +2,9 @@ name: Veille emploi quotidienne
 
 on:
   schedule:
-    - cron: "0 6 * * *"      # tous les jours à 06:00 UTC (08:00 en France l'été)
+    - cron: "5 6 * * *"      # tous les jours à 06:00 UTC (08:00 en France l'été)
+    - cron: "5 12 * * *"     # 12:00 UTC
+    - cron: "5 18 * * *"     # 18:00 UTC
   workflow_dispatch:           # + un bouton pour lancer à la main
 
 permissions:
