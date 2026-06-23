@@ -1,11 +1,44 @@
 window.OFFERS = {
-  "generatedAt": "2026-06-23T10:08",
+  "generatedAt": "2026-06-23T15:01",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/A220-Mtrologue-controleur-3D--H-F-_JR10382264",
-      "title": "A220_Métrologue controleur 3D (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/A220-Mtrologue-controleur-3D--H-F-_JR10382264",
+      "id": "/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423357",
+      "title": "Technicien Méthodes pièces élémentaires mécaniques (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423357",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423356",
+      "title": "Technicien Méthodes pièces élémentaires mécaniques (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423356",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Junior-en-Compatibilit-lectromagntique--CEM--et-Environnement-Gnral--F-H-_JR10422504",
+      "title": "#ET9A Ingénieur Junior Qualification en Compatibilité Electro Magnétique et Environnement Général (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Junior-en-Compatibilit-lectromagntique--CEM--et-Environnement-Gnral--F-H-_JR10422504",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Security-Engineer--m-f----Airbus-CERT_JR10368026",
+      "title": "Senior Cyber Security Engineer (m/f) - Airbus CERT",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Security-Engineer--m-f----Airbus-CERT_JR10368026",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,20 +47,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Robotic-Safety-Engineer_JR10407571-1",
-      "title": "Robotic Safety Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Robotic-Safety-Engineer_JR10407571-1",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/New-Programs-MFT-Leader-H-F_JR10410187-1",
-      "title": "New Programs MFT Leader H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/New-Programs-MFT-Leader-H-F_JR10410187-1",
+      "id": "/job/Toulouse-Area/OneSat-End-to-end-Engineering-manager--m-f-_JR10387954",
+      "title": "End-to-End System Lead Engineer - OneSat Program (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/OneSat-End-to-end-Engineering-manager--m-f-_JR10387954",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,9 +58,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/AVIATION-SAFETY-ENGINEER--f-m-_JR10411047-1",
-      "title": "AVIATION SAFETY ENGINEER (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AVIATION-SAFETY-ENGINEER--f-m-_JR10411047-1",
+      "id": "/job/Toulouse-Area/Dveloppeur-IHM---Front-End--f-h-_JR10407281-1",
+      "title": "Développeur IHM / Front-End (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Dveloppeur-IHM---Front-End--f-h-_JR10407281-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -47,9 +69,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Testia-SAS---Alternance-Ingnieur-en-Contrle-Non-Destructif---Tomographie--H-F----Toulouse_JR10423768",
-      "title": "Testia SAS - Alternance Ingénieur en Contrôle Non Destructif - Tomographie (H/F) - Toulouse",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Alternance-Ingnieur-en-Contrle-Non-Destructif---Tomographie--H-F----Toulouse_JR10423768",
+      "id": "/job/Marseille-Area/XMLNAME--ET19A-Responsable-quipements-lectroniques--F-H-_JR10403636",
+      "title": "Responsable équipements électroniques (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET19A-Responsable-quipements-lectroniques--F-H-_JR10403636",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/ERP-Specialist-Logistics-S-4----M-F_JR10403197-1",
+      "title": "ERP Specialist Logistics S/4  - M/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ERP-Specialist-Logistics-S-4----M-F_JR10403197-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -58,9 +91,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Concepteur-d-Essais-Avionique-Satellite--F-H-_JR10396513",
-      "title": "Concepteur d'Essais Avionique Satellite (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Concepteur-d-Essais-Avionique-Satellite--F-H-_JR10396513",
+      "id": "/job/Toulouse-Area/Procurement-Contract-Manager--m-f-_JR10415228-1",
+      "title": "Responsable Contrats Achats F/H",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Procurement-Contract-Manager--m-f-_JR10415228-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -69,36 +102,113 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "53215",
-      "title": "CDI-  DevSecOps Engineer - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-devsecops-engineer-h-f_53215.aspx",
+      "id": "52830",
+      "title": "CDI - Ingénieur Maintenance Navale SLI H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-ingenieur-maintenance-navale-sli-h-f_52830.aspx",
       "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
       "contract": "CDI",
       "date": "",
       "source": "Naval Group",
       "is_new": true
     },
     {
-      "id": "244020",
-      "title": "Chargé(e) de comptabilité et finance (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244020",
-      "company": "ECOMUNDO",
-      "location": "MONTREAL -QC, CANADA",
+      "id": "244029",
+      "title": "Marketing Coordinator (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244029",
+      "company": "PROVA",
+      "location": "NAPERVILLE   -IL-, ETATS-UNIS",
       "contract": "VIE",
-      "date": "2026-06-23T08:31:17Z",
+      "date": "2026-06-23T12:23:44Z",
       "source": "VIE",
       "is_new": true
     },
     {
-      "id": "242601",
-      "title": "RESPONSABLE STATION REPARATION AERONAUTIQUE MRO (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/242601",
-      "company": "CROUZET",
-      "location": "ALLEN -TX-, ETATS-UNIS",
+      "id": "244023",
+      "title": "Work & Experience Partner (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244023",
+      "company": "GRAITEC INNOVATION",
+      "location": "MONTREAL -QC, CANADA",
       "contract": "VIE",
-      "date": "2026-04-24T15:11:56Z",
+      "date": "2026-06-23T09:23:22Z",
       "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "244013",
+      "title": "Business Manager à Toronto (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244013",
+      "company": "FRATECH RP",
+      "location": "TORONTO, CANADA",
+      "contract": "VIE",
+      "date": "2026-06-22T16:22:38Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "243977",
+      "title": "CHEF DE PROJETS (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/243977",
+      "company": "PALAMATIC FRANCE",
+      "location": "SAINT HYACINTHE -QC, CANADA",
+      "contract": "VIE",
+      "date": "2026-06-22T07:58:52Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "243976",
+      "title": "CHARGÉ(E) D'AFFAIRES (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/243976",
+      "company": "PALAMATIC FRANCE",
+      "location": "SAINT HYACINTHE -QC, CANADA",
+      "contract": "VIE",
+      "date": "2026-06-22T07:53:58Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "243636",
+      "title": "Operations Leader (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/243636",
+      "company": "QIMA FRANCE",
+      "location": "DHAKA, BANGLADESH",
+      "contract": "VIE",
+      "date": "2026-06-09T04:52:08Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "/job/Canberra/VIE-2026---Australia---Sales---Marketing-Support---M-F_JR10414868",
+      "title": "VIE 2026 - Australia - Sales & Marketing Support - M/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Canberra/VIE-2026---Australia---Sales---Marketing-Support---M-F_JR10414868",
+      "company": "Airbus",
+      "location": "Canberra",
+      "contract": "VIE",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus VIE",
+      "is_new": true
+    },
+    {
+      "id": "/job/Donauwrth/VIE---PMO--Program-Management-Office---d-f-m-_JR10421994",
+      "title": "VIE - PMO (Program Management Office) (d/f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Donauwrth/VIE---PMO--Program-Management-Office---d-f-m-_JR10421994",
+      "company": "Airbus",
+      "location": "Donauwörth",
+      "contract": "VIE",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus VIE",
+      "is_new": true
+    },
+    {
+      "id": "/job/Bangalore-Area/VIE---India---Vulnerability-Management-Analyst--ALL-GENDER-_JR10403889",
+      "title": "VIE - India - Vulnerability Management Analyst (ALL GENDER)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Bangalore-Area/VIE---India---Vulnerability-Management-Analyst--ALL-GENDER-_JR10403889",
+      "company": "Airbus",
+      "location": "Bangalore Area",
+      "contract": "VIE",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus VIE",
       "is_new": true
     }
   ],
@@ -106,8 +216,8 @@ window.OFFERS = {
     "Airbus CDI": 40,
     "Safran CDI": 0,
     "Naval Group": 114,
-    "VIE": 175,
-    "Airbus VIE": 25,
+    "VIE": 178,
+    "Airbus VIE": 27,
     "Safran VIE": 0
   }
 };
