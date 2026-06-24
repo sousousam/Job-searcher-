@@ -1,5 +1,6 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Airbus-Protect---In-Service-Overall-A-C-Safety-Enhancement-Customer-Support-Engineer--All-Gender-_JR10424104",
     "/job/Toulouse-Area/Deputy-to-the-Head-of-Propulsion-Industrial---Quality-Business-Support--H-F-_JR10421052",
     "/job/Toulouse-Area/Purchasing-Manager---Buyer-for-Primary-Flight-Controls--m-f-_JR10405028",
     "/job/Toulouse-Area/Monteur-cbleur---Fabricant-Electricien---Ple-lectrique---F-H-_JR10423959",
@@ -38,8 +39,7 @@
     "/job/Marseille-Area/Architecte-lectrique--F-H-_JR10418144",
     "/job/Toulouse-Area/Ingnieur-d-Essais-Environnementaux-et-Thermiques--h-f-_JR10404718",
     "/job/Albacete/Ground-Support-Engineer_JR10375832-1",
-    "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-en-Arodynamique--F-H-_JR10422380",
-    "/job/Marseille-Area/XMLNAME--ET20-Assistant-de-Direction---Assistant-d-quipe---Ingnierie-Systme--F-H-_JR10382030"
+    "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-en-Arodynamique--F-H-_JR10422380"
   ],
   "Safran CDI": [],
   "Naval Group": [
@@ -70,7 +70,6 @@
     "52638",
     "52954",
     "53225",
-    "52810",
     "53334",
     "53337",
     "53342",
@@ -168,6 +167,10 @@
     "232703",
     "231468",
     "237924",
+    "244051",
+    "244049",
+    "244047",
+    "244046",
     "244029",
     "244023",
     "244020",
@@ -233,6 +236,7 @@
     "243723",
     "243512",
     "242590",
+    "244043",
     "243764",
     "243760",
     "243759",
@@ -324,12 +328,11 @@
     "243352",
     "243327",
     "243270",
-    "242977",
     "243325",
+    "244050",
     "243640",
     "243284",
     "243258",
-    "243120",
     "242910",
     "242545",
     "242448",
@@ -363,7 +366,6 @@
     "/job/Donauwrth/VIE---Configuration-Digital-Performance--d-f-m-_JR10380342-1",
     "/job/Donauwrth/VIE-for-Design-Management-System--d-f-m-_JR10395508",
     "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896",
-    "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Mnchen-Area/VIE-Germany---Quantum-Software-Development-Engineer--d-f-m-_JR10402194",
     "/job/Donauwrth/VIE-Connected-Services-Expert--d-f-m-_JR10399174"
   ],
