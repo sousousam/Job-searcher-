@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Digital---Data-Analysis-Referent--M-F-_JR10379308",
+    "/job/Marseille-Area/Business-Auditor--f-m-_JR10416231-1",
+    "/job/Toulouse-Area/System-Installation---Cabin-Industrial-Architect-for-future-aircraft_JR10410805-1",
+    "/job/Toulouse-Area/Lab-Test-Mean-Lead-Engineer--M-F-_JR10394090-1",
     "/job/Toulouse-Area/Experienced-Static--Metal---Composite--Stress-engineer--f-m-_JR10410253-1",
     "/job/Toulouse-Area/Software-Design-Assurance-Engineer--F-M-_JR10419827-1",
     "/job/Marseille-Area/O-G-architect-and-O-G-fleet-performance-coordinator---officer-for-S-S--F-H-_JR10414266-1",
@@ -18,7 +22,6 @@
     "/job/Toulouse-Area/Modeling---Simulation-ART-RTE--F-M-_JR10390440-1",
     "/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423357",
     "/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423356",
-    "/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Junior-en-Compatibilit-lectromagntique--CEM--et-Environnement-Gnral--F-H-_JR10422504",
     "/job/Toulouse-Area/Security-Engineer--m-f----Airbus-CERT_JR10368026",
     "/job/Toulouse-Area/OneSat-End-to-end-Engineering-manager--m-f-_JR10387954",
     "/job/Toulouse-Area/Dveloppeur-IHM---Front-End--f-h-_JR10407281-1",
@@ -36,13 +39,13 @@
     "/job/Toulouse-Area/Version-Manager-XLR--Lead-CFI--A320-Family-Complex-Cabin---A321XLR-_JR10401630-1",
     "/job/Marseille-Area/Engineering-Digital-Innovation-manager_JR10419229-2",
     "/job/Toulouse-Area/Concepteur-d-Essais-Avionique-Satellites---F-H-_JR10337319",
-    "/job/Toulouse-Area/Coordinateur-Interface-Cabine-A350--FAL---h-f-_JR10391176",
-    "/job/Toulouse-Area/Supply-Chain-Quality-Specialist--m-f-_JR10410673",
-    "/job/Toulouse-Area/Business-Development-Manager---Training-Center-H-F_JR10386907",
-    "/job/Marseille-Area/Ingnieur-dveloppement-logiciel--F-H-_JR10382640"
+    "/job/Toulouse-Area/Coordinateur-Interface-Cabine-A350--FAL---h-f-_JR10391176"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "53386",
+    "50020",
+    "52024",
     "53373",
     "53305",
     "53220",
@@ -166,6 +169,8 @@
     "232703",
     "231468",
     "237924",
+    "244096",
+    "244087",
     "244075",
     "244072",
     "244051",
@@ -239,7 +244,6 @@
     "243723",
     "243512",
     "242590",
-    "244043",
     "243764",
     "243760",
     "243759",
@@ -337,7 +341,6 @@
     "243258",
     "242910",
     "242545",
-    "242448",
     "236216",
     "229198",
     "244010",
@@ -345,7 +348,6 @@
   ],
   "Airbus VIE": [
     "/job/Donauwrth/VIE---PMO--Program-Management-Office---d-f-m-_JR10421994",
-    "/job/Herndon-VA/VIE-2026-USA-TechData-proximity-support-for-US-customers--ALL-GENDER-_JR10406571",
     "/job/Bangalore-Area/VIE---India---Vulnerability-Management-Analyst--ALL-GENDER-_JR10403889",
     "/job/Hamburg-Area/VIE--d-f-m--Germany-Assembly-specialist_JR10401171",
     "/job/Albacete/VIE-2026-SP-PMO-Insourcing-project-CORE-H-F_JR10408837",
