@@ -1,5 +1,8 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/Data-Analyst---Export-Control---National-Security--M-F-_JR10423093",
+    "/job/Marseille-Area/National-Security-Compliance-Manager--M-F-_JR10422733",
+    "/job/Toulouse-Area/Business-Accountant--h-f-_JR10411427",
     "/job/Marseille-Area/XMLNAME--ET18---Experienced-Weight---Balance-Engineer---Shape-the-Future-of-Airbus-Helicopters--F-H-_JR10361820",
     "/job/Marseille-Area/Prparateur-Mthodes-Pices-Elmentaires-Mecaniques-H-F_JR10411917",
     "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Scurit-et-Fiabilit-Senior--F-H-_JR10415563",
@@ -31,15 +34,12 @@
     "/job/Marseille-Area/Technicien-Mthodes-pices-lmentaires-mcaniques--h-f-_JR10423356",
     "/job/Toulouse-Area/Security-Engineer--m-f----Airbus-CERT_JR10368026",
     "/job/Toulouse-Area/OneSat-End-to-end-Engineering-manager--m-f-_JR10387954",
-    "/job/Toulouse-Area/Dveloppeur-IHM---Front-End--f-h-_JR10407281-1",
     "/job/Marseille-Area/XMLNAME--ET19A-Responsable-quipements-lectroniques--F-H-_JR10403636",
     "/job/Toulouse-Area/ERP-Specialist-Logistics-S-4----M-F_JR10403197-1",
     "/job/Toulouse-Area/Procurement-Contract-Manager--m-f-_JR10415228-1",
     "/job/Toulouse-Area/POA-DOA-Control-improvement-manager-for-Suppliers-of-non-flying-services-and-products_JR10415293-1",
     "/job/Toulouse-Area/A220-Mtrologue-controleur-3D--H-F-_JR10382264",
-    "/job/Toulouse-Area/Robotic-Safety-Engineer_JR10407571-1",
-    "/job/Toulouse-Area/New-Programs-MFT-Leader-H-F_JR10410187-1",
-    "/job/Toulouse-Area/AVIATION-SAFETY-ENGINEER--f-m-_JR10411047-1"
+    "/job/Toulouse-Area/Robotic-Safety-Engineer_JR10407571-1"
   ],
   "Safran CDI": [],
   "Naval Group": [
@@ -167,7 +167,13 @@
     "232703",
     "231468",
     "237924",
+    "244103",
+    "244102",
+    "244101",
     "244070",
+    "244066",
+    "244062",
+    "244036",
     "243913",
     "243893",
     "243845",
