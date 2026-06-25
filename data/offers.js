@@ -1,33 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-06-25T14:43",
+  "generatedAt": "2026-06-25T20:26",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/Data-Analyst---Export-Control---National-Security--M-F-_JR10423093",
-      "title": "Data Analyst - Export Control & National Security (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Data-Analyst---Export-Control---National-Security--M-F-_JR10423093",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/National-Security-Compliance-Manager--M-F-_JR10422733",
-      "title": "National Security Compliance Manager (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/National-Security-Compliance-Manager--M-F-_JR10422733",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Business-Accountant--h-f-_JR10411427",
-      "title": "Business Accountant (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Business-Accountant--h-f-_JR10411427",
+      "id": "/job/Toulouse-Area/Supply-Chain---Quality-Manager--f-h-_JR10399465",
+      "title": "Supply Chain & Quality Manager (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Supply-Chain---Quality-Manager--f-h-_JR10399465",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,68 +14,79 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "244103",
-      "title": "Quality Control Analyst (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244103",
+      "id": "/job/Toulouse-Area/Standardisation-Engineer--m-f-_JR10363653-1",
+      "title": "Standardisation Engineer (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Standardisation-Engineer--m-f-_JR10363653-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "244125",
+      "title": "Commercial Development (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244125",
+      "company": "CEVA FRANCE",
+      "location": "SINGAPOUR, SINGAPOUR",
+      "contract": "VIE",
+      "date": "2026-06-25T14:34:50Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "244124",
+      "title": "HR INNOVATION AND CONTINUS IMPROVEMENT SPECIALIST (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244124",
+      "company": "CEVA FRANCE",
+      "location": "SINGAPOUR, SINGAPOUR",
+      "contract": "VIE",
+      "date": "2026-06-25T14:22:37Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "244121",
+      "title": "Chargé(e) de Développement Commercial, Marketing et Communication (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244121",
+      "company": "TOTALENERGIES MARKETING SERVICES",
+      "location": "TOKYO, JAPON",
+      "contract": "VIE",
+      "date": "2026-06-25T13:52:53Z",
+      "source": "VIE",
+      "is_new": true
+    },
+    {
+      "id": "244105",
+      "title": "Formulation Engineer (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244105",
       "company": "BIOMERIEUX SA",
       "location": "SALT LAKE CITY -UT-, ETATS-UNIS",
       "contract": "VIE",
-      "date": "2026-06-24T20:14:39Z",
+      "date": "2026-06-24T20:22:19Z",
       "source": "VIE",
       "is_new": true
     },
     {
-      "id": "244102",
-      "title": "Pouch Manufacturing Specialist (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244102",
+      "id": "244104",
+      "title": "Template Control Biotechnology Engineer (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244104",
       "company": "BIOMERIEUX SA",
       "location": "SALT LAKE CITY -UT-, ETATS-UNIS",
       "contract": "VIE",
-      "date": "2026-06-24T20:10:05Z",
+      "date": "2026-06-24T20:18:42Z",
       "source": "VIE",
       "is_new": true
     },
     {
-      "id": "244101",
-      "title": "Array Manufacturing Specialist (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244101",
-      "company": "BIOMERIEUX SA",
-      "location": "SALT LAKE CITY -UT-, ETATS-UNIS",
+      "id": "244003",
+      "title": "PROJECT COORDINATOR (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244003",
+      "company": "CEVA FRANCE",
+      "location": "SYDNEY, AUSTRALIE",
       "contract": "VIE",
-      "date": "2026-06-24T20:05:22Z",
-      "source": "VIE",
-      "is_new": true
-    },
-    {
-      "id": "244066",
-      "title": "V.I.E SANTÉ, SÉCURITÉ ET ENVIRONNEMENT H/F (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244066",
-      "company": "SAFRAN LANDING SYSTEMS",
-      "location": "MIRABEL -QC, CANADA",
-      "contract": "VIE",
-      "date": "2026-06-24T09:31:56Z",
-      "source": "VIE",
-      "is_new": true
-    },
-    {
-      "id": "244062",
-      "title": "Responsable Commercial Airlines Wheels & Brakes à Pékin (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244062",
-      "company": "SAFRAN LANDING SYSTEMS",
-      "location": "PEKIN, CHINE",
-      "contract": "VIE",
-      "date": "2026-06-24T09:14:57Z",
-      "source": "VIE",
-      "is_new": true
-    },
-    {
-      "id": "244036",
-      "title": "Business Manager (Montréal) (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244036",
-      "company": "FRATECH RP",
-      "location": "MONTREAL -QC, CANADA",
-      "contract": "VIE",
-      "date": "2026-06-23T13:45:30Z",
+      "date": "2026-06-22T14:12:05Z",
       "source": "VIE",
       "is_new": true
     }
@@ -106,7 +95,7 @@ window.OFFERS = {
     "Airbus CDI": 40,
     "Safran CDI": 0,
     "Naval Group": 113,
-    "VIE": 190,
+    "VIE": 195,
     "Airbus VIE": 24,
     "Safran VIE": 0
   }
