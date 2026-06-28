@@ -1,19 +1,7 @@
 window.OFFERS = {
-  "generatedAt": "2026-06-28T13:58",
+  "generatedAt": "2026-06-28T19:49",
   "firstRun": false,
-  "new": [
-    {
-      "id": "/job/Toulouse-Area/Business-Support-Manager-F-M_JR10405100",
-      "title": "1YYRC - Business Support Manager M/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Business-Support-Manager-F-M_JR10405100",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    }
-  ],
+  "new": [],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 72,
