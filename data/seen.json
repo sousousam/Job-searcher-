@@ -1,5 +1,7 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/MPS-Planner----All-Gender-_JR10386235-1",
+    "/job/Marseille-Area/Architecte-systmes-junior--F-H-_JR10425460",
     "/job/Toulouse-Area/XMLNAME--Join-the-Finance-Management-Program-at-Airbus--f-m-_JR10423980",
     "/job/Paris-Area/Consultant-SAP-PP-ME--F-H-_JR10405378",
     "/job/Toulouse-Area/Supply-Chain-and-Quality-Manager-M-F_JR10416595-1",
@@ -37,9 +39,7 @@
     "/job/Marseille-Area/Business-Auditor--f-m-_JR10416231-1",
     "/job/Toulouse-Area/System-Installation---Cabin-Industrial-Architect-for-future-aircraft_JR10410805-1",
     "/job/Toulouse-Area/Lab-Test-Mean-Lead-Engineer--M-F-_JR10394090-1",
-    "/job/Toulouse-Area/Experienced-Static--Metal---Composite--Stress-engineer--f-m-_JR10410253-1",
-    "/job/Toulouse-Area/Software-Design-Assurance-Engineer--F-M-_JR10419827-1",
-    "/job/Marseille-Area/O-G-architect-and-O-G-fleet-performance-coordinator---officer-for-S-S--F-H-_JR10414266-1"
+    "/job/Toulouse-Area/Experienced-Static--Metal---Composite--Stress-engineer--f-m-_JR10410253-1"
   ],
   "Safran CDI": [
     "172628",
@@ -93,7 +93,6 @@
     "171952",
     "177351",
     "173574",
-    "172413",
     "177018",
     "180823",
     "178883",
@@ -306,7 +305,6 @@
     "243940",
     "243938",
     "243936",
-    "243935",
     "243934",
     "243673",
     "243362",
