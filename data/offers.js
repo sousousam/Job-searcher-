@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-06-30T14:31",
+  "generatedAt": "2026-06-30T20:20",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/Process-Improver---Project-Manager-for-Material-Support---Logistics_JR10400112-1",
-      "title": "Process Improver & Project Manager for Material Support & Logistics",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Process-Improver---Project-Manager-for-Material-Support---Logistics_JR10400112-1",
+      "id": "/job/Marseille-Area/Responsable-Integration-Process-Building--H-F-_JR10416342",
+      "title": "Responsable Integration Process Building (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Responsable-Integration-Process-Building--H-F-_JR10416342",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -14,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Procurement-Hazmat-Leader_JR10353769-1",
-      "title": "Procurement Hazmat Leader",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Procurement-Hazmat-Leader_JR10353769-1",
+      "id": "/job/Marseille-Area/Leader--F-H---Quality-Manufacturing-Engineering-pice-lmentaire-mca_JR10421459-1",
+      "title": "Leader (F/H)  Quality Manufacturing Engineering pièce élémentaire méca",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Leader--F-H---Quality-Manufacturing-Engineering-pice-lmentaire-mca_JR10421459-1",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -25,9 +25,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "173829",
-      "title": "Référent-e Processus et Méthodes Qualité SI F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/blagnac/quality-leader-digital-factory-fh-173829",
+      "id": "183072",
+      "title": "Ingénieur-e Industrialisation F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/toulouse/ingenieur-e-industrialisation-fh-183072",
       "company": "Safran",
       "location": "",
       "contract": "CDI",
@@ -36,9 +36,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "183047",
-      "title": "Contrôleur Qualité F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/colomiers/controleur-qualite-fh-183047",
+      "id": "183048",
+      "title": "Technical Leader Middleware F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/blagnac/technical-leader-middleware-fh-183048",
       "company": "Safran",
       "location": "",
       "contract": "CDI",
@@ -47,87 +47,32 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "181423",
-      "title": "PILOTE RISQUES SOCIETE ET INITIATIVES QUALITE F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/blagnac/pilote-risques-societe-initiatives-qualite-fh-181423",
-      "company": "Safran",
-      "location": "",
-      "contract": "CDI",
-      "date": "",
-      "source": "Safran CDI",
-      "is_new": true
-    },
-    {
-      "id": "51383",
-      "title": "CDI - Work Package Manager Système d'Arme Tactique - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-work-package-manager-systeme-d-arme-tactique-h-f-_51383.aspx",
+      "id": "53490",
+      "title": "CDI - Responsable du service Ingénierie Logiciel (H/F)",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-du-service-ingenierie-logiciel-h-f-_53490.aspx",
       "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
       "date": "",
       "source": "Naval Group",
       "is_new": true
     },
     {
-      "id": "53360",
-      "title": "CDI - Directeur de Programme armes légères et contre-mesures H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-directeur-de-programme-armes-legeres-et-contre-mesures-h-f_53360.aspx",
+      "id": "52884",
+      "title": "CDI - Data Platform Engineer - F/H",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-data-platform-engineer-f-h_52884.aspx",
       "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Saint-Tropez",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
       "date": "",
       "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "52591",
-      "title": "CDI - Responsable des Ventes H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-des-ventes-h-f_52591.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "244242",
-      "title": "Technicien Support IT en VIE. (H/F) – New York, NY",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244242",
-      "company": "ADVANCY GROUPE",
-      "location": "NEW-YORK  -NY-, ETATS-UNIS",
-      "contract": "VIE",
-      "date": "2026-06-30T12:43:21Z",
-      "source": "VIE",
-      "is_new": true
-    },
-    {
-      "id": "244229",
-      "title": "Chargé.e QSE (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244229",
-      "company": "SOLETANCHE BACHY INTERNATIONAL",
-      "location": "HO CHI MINH, VIET NAM",
-      "contract": "VIE",
-      "date": "2026-06-30T08:03:19Z",
-      "source": "VIE",
-      "is_new": true
-    },
-    {
-      "id": "244152",
-      "title": "VIE Data Engineer (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244152",
-      "company": "ASK LOCALA",
-      "location": "MONTREAL -QC, CANADA",
-      "contract": "VIE",
-      "date": "2026-06-26T16:14:21Z",
-      "source": "VIE",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
-    "Safran CDI": 71,
-    "Naval Group": 113,
+    "Safran CDI": 72,
+    "Naval Group": 115,
     "VIE": 189,
     "Airbus VIE": 22,
     "Safran VIE": 15
