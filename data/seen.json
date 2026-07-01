@@ -1,5 +1,8 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Primary-Flight-Control-System-Designer--m-f-_JR10423719",
+    "/job/Toulouse-Area/Multi-Sensor-Data-Fusion-Designer--f-m-_JR10420173",
+    "/job/Mnchen-Area/AI-Solutions-Engineer--d-f-m-_JR10389772",
     "/job/Marseille-Area/Human-Resources-Business-Partner--f-m-_JR10421174",
     "/job/Toulouse-Area/Manufacturing-Assembly-Line-Architect--m-f-x-_JR10424583-1",
     "/job/Marseille-Area/ET-20-Certification-Qualification-Engineer---NH90-qualification-step--f-m-_JR10425466-1",
@@ -36,10 +39,7 @@
     "/job/Toulouse-Area/Buyer-for-Cabin-Aftermarket--f-m-_JR10417659-1",
     "/job/Toulouse-Area/Operations-modelling-project-Manager--F-M-_JR10404965",
     "/job/Toulouse-Area/ATR---ALT-Technician-operating-and-maintaining--f-m-_JR10406567",
-    "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
-    "/job/Marseille-Area/Export-Control-Support-Manager--h-f-_JR10388084",
-    "/job/Toulouse-Area/Supply-Chain---Quality-Manager--f-h-_JR10399465",
-    "/job/Toulouse-Area/Standardisation-Engineer--m-f-_JR10363653-1"
+    "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568"
   ],
   "Safran CDI": [
     "171530",
@@ -66,7 +66,6 @@
     "181556",
     "180369",
     "179800",
-    "183072",
     "172628",
     "171484",
     "172344",
@@ -136,7 +135,6 @@
     "53333",
     "51327",
     "53452",
-    "51599",
     "52862",
     "52810",
     "50965",
@@ -200,7 +198,6 @@
     "52216",
     "50957",
     "53100",
-    "52723",
     "50139",
     "52791",
     "51484",
@@ -343,6 +340,7 @@
     "243876",
     "243863",
     "243801",
+    "244282",
     "243871",
     "243862",
     "243856",
@@ -367,6 +365,7 @@
     "243731",
     "240149",
     "244273",
+    "243253",
     "244135",
     "243758",
     "243737",

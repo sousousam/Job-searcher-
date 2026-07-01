@@ -1,22 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-01T14:47",
+  "generatedAt": "2026-07-01T20:14",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/Human-Resources-Business-Partner--f-m-_JR10421174",
-      "title": "Human Resources Business Partner (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Human-Resources-Business-Partner--f-m-_JR10421174",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Manufacturing-Assembly-Line-Architect--m-f-x-_JR10424583-1",
-      "title": "Manufacturing Assembly Line Architect (m/f/x)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Manufacturing-Assembly-Line-Architect--m-f-x-_JR10424583-1",
+      "id": "/job/Toulouse-Area/Primary-Flight-Control-System-Designer--m-f-_JR10423719",
+      "title": "Primary Flight Control System Designer",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Primary-Flight-Control-System-Designer--m-f-_JR10423719",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,20 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/ET-20-Certification-Qualification-Engineer---NH90-qualification-step--f-m-_JR10425466-1",
-      "title": "Ingénieur qualification certification - étape de qualification NH90 (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/ET-20-Certification-Qualification-Engineer---NH90-qualification-step--f-m-_JR10425466-1",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Structure-Design-Engineer-Close-to-Aircraft-Product--m-f-_JR10379978-1",
-      "title": "Structure Design Engineer Close to Aircraft Product (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Structure-Design-Engineer-Close-to-Aircraft-Product--m-f-_JR10379978-1",
+      "id": "/job/Toulouse-Area/Multi-Sensor-Data-Fusion-Designer--f-m-_JR10420173",
+      "title": "Concepteur en fusion de données multi-capteurs (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Multi-Sensor-Data-Fusion-Designer--f-m-_JR10420173",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -47,77 +25,44 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Software-Design-Assurance-Engineer--F-M-_JR10419827-1",
-      "title": "Software Design Assurance Engineer (F/M)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Software-Design-Assurance-Engineer--F-M-_JR10419827-1",
+      "id": "/job/Mnchen-Area/AI-Solutions-Engineer--d-f-m-_JR10389772",
+      "title": "AI Solutions Engineer (d/f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Mnchen-Area/AI-Solutions-Engineer--d-f-m-_JR10389772",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "5 sites",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "180755",
-      "title": "Inspecteur-rice Qualité Fabrication F-H F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/toulouse/inspecteur-rice-qualite-fabrication-fh-fh-180755",
-      "company": "Safran",
-      "location": "",
-      "contract": "CDI",
-      "date": "",
-      "source": "Safran CDI",
-      "is_new": true
-    },
-    {
-      "id": "171162",
-      "title": "Agent Cabine F.A.L. Airbus F-H F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/colomiers/agent-cabine-fal-airbus-fh-fh-171162",
-      "company": "Safran",
-      "location": "",
-      "contract": "CDI",
-      "date": "",
-      "source": "Safran CDI",
-      "is_new": true
-    },
-    {
-      "id": "53356",
-      "title": "CDI –  Responsable Système Cloud Infrastructures Numériques Embarquées H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-systeme-cloud-infrastructures-numeriques-embarquees-h-f_53356.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "244277",
-      "title": "Sales Representative Vietnam (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244277",
-      "company": "BRIDOR",
-      "location": "HANOI, VIET NAM",
+      "id": "244282",
+      "title": "Accounting and Sales Administrator (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/244282",
+      "company": "WITBE",
+      "location": "NEW-YORK  -NY-, ETATS-UNIS",
       "contract": "VIE",
-      "date": "2026-07-01T12:03:09Z",
+      "date": "2026-07-01T15:25:15Z",
       "source": "VIE",
       "is_new": true
     },
     {
-      "id": "244269",
-      "title": "Chargé(e) de développement commercial (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244269",
-      "company": "EURIAL INTERNATIONAL",
-      "location": "HO CHI MINH, VIET NAM",
+      "id": "243253",
+      "title": "TECH/SALES RESERVOIR SIMULATION SOFTWARE SOLUTIONS (H/F)",
+      "url": "https://mon-vie-via.businessfrance.fr/offre/243253",
+      "company": "AMARILE",
+      "location": "DOHA, QATAR",
       "contract": "VIE",
-      "date": "2026-07-01T09:36:47Z",
+      "date": "2026-05-22T12:18:45Z",
       "source": "VIE",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
-    "Safran CDI": 68,
-    "Naval Group": 125,
-    "VIE": 188,
+    "Safran CDI": 67,
+    "Naval Group": 123,
+    "VIE": 190,
     "Airbus VIE": 21,
     "Safran VIE": 15
   }
