@@ -1,5 +1,6 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Structure-Stress-Engineer-close-to-Aircraft-Product--f-m-_JR10379953-1",
     "/job/Toulouse-Area/Comptable-fournisseurs_JR10419419",
     "/job/Marseille-Area/Agent-de-fabrication-et-maintenance-outillages---H-F_JR10420217-1",
     "/job/Toulouse-Area/SA---LR-Fuselage-Structure-Customer-Support---Static-stress-engineer-on-NCF--f-m-_JR10401161",
@@ -38,8 +39,7 @@
     "/job/Marseille-Area/Technical-Data-Engineering-for-GOV-A-C--H-F-_JR10372750-1",
     "/job/Toulouse-Area/Principal-Product-Manager_JR10401890",
     "/job/Toulouse-Area/Business-Support-Manager-F-M_JR10405100",
-    "/job/Marseille-Area/NHI-Management---HR-Assistant--f-m-_JR10411690",
-    "/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831"
+    "/job/Marseille-Area/NHI-Management---HR-Assistant--f-m-_JR10411690"
   ],
   "Safran CDI": [
     "172344",
@@ -50,6 +50,8 @@
     "174975",
     "171162",
     "167400",
+    "181882",
+    "182717",
     "171530",
     "177465",
     "174976",
@@ -81,7 +83,6 @@
     "178303",
     "179691",
     "180035",
-    "182717",
     "182169",
     "163286",
     "181372",
@@ -109,6 +110,8 @@
     "163278"
   ],
   "Naval Group": [
+    "53418",
+    "53417",
     "53356",
     "53462",
     "53461",
@@ -209,7 +212,6 @@
     "52861",
     "52703",
     "51390",
-    "52724",
     "52596",
     "52758",
     "51309",
@@ -252,7 +254,6 @@
     "244044",
     "243592",
     "243493",
-    "244242",
     "244229",
     "244215",
     "244213",
@@ -354,6 +355,7 @@
     "243512",
     "242590",
     "244160",
+    "243253",
     "243764",
     "243760",
     "243759",
@@ -363,7 +365,6 @@
     "240149",
     "244292",
     "244273",
-    "243253",
     "244135",
     "243758",
     "243737",
@@ -383,6 +384,7 @@
     "243651",
     "243649",
     "243637",
+    "243252",
     "243689",
     "243665",
     "243662",
@@ -392,7 +394,6 @@
     "242859",
     "242858",
     "242833",
-    "243252",
     "243629",
     "243614",
     "243609",
@@ -435,7 +436,6 @@
     "/job/Donauwrth/VIE---H135-H145-Value-Stream-Management--d-f-m-_JR10409700",
     "/job/Washington-DC/VIE---Cyber-project-manager---USA-region--F-M-X-_JR10403880",
     "/job/Zhuhai/VIE-2026---China---Marketing-Officer----m-f-_JR10406728",
-    "/job/Montreal-Area/VIE-2026---Canada---Junior-Technology-Scouting---H-F_JR10407712",
     "/job/Tianjin-Area/VIE-2026--HR-Transversal-Management--m-f-_JR10396273",
     "/job/Lodz/VIE-2026---Poland---Stress-Engineer-H-F_JR10410140",
     "/job/Donauwrth/VIE---Configuration-Digital-Performance--d-f-m-_JR10380342-1",
