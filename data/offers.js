@@ -1,19 +1,7 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-05T13:51",
+  "generatedAt": "2026-07-05T19:45",
   "firstRun": false,
-  "new": [
-    {
-      "id": "/job/Albacete/VIE-2026-Spain--Harness-designer--h-f-_JR10411168",
-      "title": "VIE 2026-Spain- Harness designer (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Albacete/VIE-2026-Spain--Harness-designer--h-f-_JR10411168",
-      "company": "Airbus",
-      "location": "Albacete",
-      "contract": "VIE",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus VIE",
-      "is_new": true
-    }
-  ],
+  "new": [],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 62,
