@@ -1,16 +1,16 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-05T09:29",
+  "generatedAt": "2026-07-05T13:51",
   "firstRun": false,
   "new": [
     {
-      "id": "244341",
-      "title": "Chargé(e) de mission scientifique (H/F)",
-      "url": "https://mon-vie-via.businessfrance.fr/offre/244341",
-      "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
-      "location": "OTTAWA, CANADA",
+      "id": "/job/Albacete/VIE-2026-Spain--Harness-designer--h-f-_JR10411168",
+      "title": "VIE 2026-Spain- Harness designer (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Albacete/VIE-2026-Spain--Harness-designer--h-f-_JR10411168",
+      "company": "Airbus",
+      "location": "Albacete",
       "contract": "VIE",
-      "date": "2026-07-04T21:49:46Z",
-      "source": "VIE",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus VIE",
       "is_new": true
     }
   ],
@@ -19,7 +19,7 @@ window.OFFERS = {
     "Safran CDI": 62,
     "Naval Group": 124,
     "VIE": 187,
-    "Airbus VIE": 21,
+    "Airbus VIE": 22,
     "Safran VIE": 15
   }
 };
