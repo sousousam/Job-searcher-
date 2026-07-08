@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Cyber-Security-Engineer--m-f----Airbus-CERT_JR10379442",
+    "/job/Toulouse-Area/Security-Engineer--m-f----Airbus-CERT_JR10368026",
+    "/job/Marseille-Area/Offer-Evaluation-Manager--H-F-_JR10410564-1",
+    "/job/Marseille-Area/Tour-de-Contrle-Tech-Data-Front-Office--H-F-_JR10416422",
     "/job/Marseille-Area/Korean-Cooperation---Transverse-Programme-Plateau-Assistant--f-m-_JR10416024",
     "/job/Marseille-Area/XMLNAME--CORE-Product-Manager-Windchill-CorePDM--d-f-m-_JR10424620",
     "/job/Toulouse-Area/Business-Analyst-3DEXperience---Urbanist-iDMU---Industrial-Means--m-f-_JR10376448-1",
@@ -35,14 +39,11 @@
     "/job/Toulouse-Area/ERP-Specialist-Manufacturing-S-4---M-F_JR10403332-1",
     "/job/Toulouse-Area/PhD-Cifre-Thesis---Robust-Aerodynamic-Shape-Optimisation-In-Early-Design-Phase-Phase--M-F-_JR10419918-1",
     "/job/Marseille-Area/XMLNAME--DIGITALCAMPUS-Platform-Engineer--Infrastructure---Automation-_JR10410368",
-    "/job/Toulouse-Area/Mcanicien-ne--Systmes--H-F-_JR10346471",
-    "/job/Salaunes/OPERATEUR-SUR-COMMANDE-NUMERIQUE_JR10419205",
-    "/job/Toulouse-Area/IT-Project-and-Product-Manager-for-Analytics-M-F_JR10380314",
-    "/job/Marseille-Area/XMLNAME--ET20R-Assistant-e--PMO--f-h-_JR10425152",
-    "/job/Toulouse-Area/Flight-Control-Testing-Engineer--M-F-_JR10314063-1"
+    "/job/Toulouse-Area/Mcanicien-ne--Systmes--H-F-_JR10346471"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "53446",
     "52858",
     "51059",
     "53153",
@@ -173,7 +174,6 @@
     "231468",
     "244450",
     "244416",
-    "244411",
     "244393",
     "244388",
     "244385",
@@ -355,14 +355,12 @@
     "243611",
     "243570",
     "242858",
-    "242833",
     "244380",
     "243614",
     "243609",
     "243597",
     "243596",
-    "243242",
-    "242926"
+    "243242"
   ],
   "Airbus VIE": [
     "/job/Vila-Nova-de-Famalico-Atlantic/VIE-2026-Airbus-Atlantic-Portugal--HR-analyst----project-manager_JR10403043",
