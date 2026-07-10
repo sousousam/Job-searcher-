@@ -1,5 +1,10 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Overall-Systems-V-V-Leader--m-f-_JR10393813",
+    "/job/Marseille-Area/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10427465",
+    "/job/Marseille-Area/Ingnieur-e--composants-d-installation-lectrique-et-rparation--f-h-_JR10404808",
+    "/job/Marseille-Area/Mcanicien-Piste-H160--H-F-_JR10428539",
+    "/job/Toulouse-Area/Testia-SAS---Alternante-en-Qualit----H-F----Toulouse_JR10428624",
     "/job/Toulouse-Area/Airbus-Transport-Operating-System-Digitalisation-Project-leader_JR10425070",
     "/job/Toulouse-Area/Acoustic-Test-Engineer--f-m-_JR10416016",
     "/job/Marseille-Area/AET-leader-peinture-MCA-et-pices-lmentaires-H-F_JR10417536-1",
@@ -34,15 +39,12 @@
     "/job/Marseille-Area/XMLNAME--ET21-Junior-Stress-Engineer--M-F----Early-Career_JR10423973",
     "/job/Marseille-Area/XMLNAME--CORE-Enterprise-Architect--M-F-_JR10393976-1",
     "/job/Marseille-Area/CIFRE-Dveloppement-d-une-mthode-probabiliste-pour-le-comportement-en-fatigue-de-pices-de-transmission-de-puissance-d-hlicoptres_JR10426791",
-    "/job/Marseille-Area/Ingnieur-e--composants-d-installation-lectrique-et-rparation--f-h-_JR10404808",
-    "/job/Marseille-Area/Transmission-System-Design-Responsible--f-m-_JR10425535",
-    "/job/Marseille-Area/Prparateur-Ajusteur-Monteur-Aronautique-Multi-Produits--Polyvalence-lectricit----H-F_JR10396656-1",
-    "/job/Marseille-Area/Head-of-Export-Control---Foreign-Regulations--Sanctions---Investigations--m-f-_JR10404658-1",
-    "/job/Marseille-Area/XMLNAME--CORE-IT-Operations-Specialist--M-F-_JR10378436-1",
-    "/job/Marseille-Area/Architecte-systmes-sur-le-primtre-Helionix--H-F-_JR10415684"
+    "/job/Marseille-Area/Transmission-System-Design-Responsible--f-m-_JR10425535"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "52216",
+    "53250",
     "52417",
     "53381",
     "53571",
@@ -55,7 +57,6 @@
     "51059",
     "53153",
     "53220",
-    "50139",
     "52593",
     "51323",
     "53490",
@@ -66,7 +67,6 @@
     "53356",
     "53461",
     "53022",
-    "53250",
     "53483",
     "53111",
     "53112",
@@ -132,7 +132,6 @@
     "52907",
     "53214",
     "52943",
-    "52216",
     "50957",
     "53100",
     "52791",
