@@ -1,5 +1,8 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Data-Governance---Compliance-Responsible--Business---Policy-Focus-----NGSA-_JR10412750-1",
+    "/job/Toulouse-Area/Specialist-Engine---Nacelle-Integration-in-service--f-m-_JR10408929-1",
+    "/job/Toulouse-Area/Procurement-Contract-Manager--m-f-_JR10418119",
     "/job/Toulouse---Palays/Supplier-Development-Manager--m-f-_JR10365612",
     "/job/Toulouse-Area/Airbus-Protect---Ingnieur-MAP-Powerplant--All-Gender-_JR10429016",
     "/job/Toulouse-Area/Ingnieur-Calcul-et-Dimensionnement-Structure---Single-Aisle--H-F-_JR10387735",
@@ -36,10 +39,7 @@
     "/job/Toulouse-Area/Point-Fixeur--Technicien-Avion-Vivant---Technicien-Essais-Pistes-au-sol--H-F-_JR10321136",
     "/job/Toulouse-Area/CyberSecurity-Architect_JR10417109",
     "/job/Toulouse-Area/Ingnieur-Safety-Systmes-Avioniques-Expriment-H-F_JR10392520-1",
-    "/job/Toulouse-Area/Testia-SAS---Technicienne-Ingnieur-e--Expriment-e--en-Contrle-par-Ultrasons----H-F----Toulouse_JR10427974",
-    "/job/Marseille-Area/Responsable-Contrle-des-Exportations--F-H-_JR10416899-1",
-    "/job/Toulouse-Area/AUTOFLIGHT-CERTIFICATION-ENGINEER--H-F-_JR10411805",
-    "/job/Paris-Area/Chief-Engineer-for-IRIS2-program--All-gender-_JR10354597-1"
+    "/job/Toulouse-Area/Testia-SAS---Technicienne-Ingnieur-e--Expriment-e--en-Contrle-par-Ultrasons----H-F----Toulouse_JR10427974"
   ],
   "Safran CDI": [
     "177465",
@@ -83,7 +83,6 @@
     "183443",
     "179691",
     "182169",
-    "183381",
     "183179",
     "180755",
     "163284",
@@ -231,6 +230,8 @@
   ],
   "VIE": [],
   "Airbus VIE": [
+    "/job/Donauwrth/VIE--d-f-m----Program-Management-Office_JR10426631",
+    "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
     "/job/Vila-Nova-de-Famalico-Atlantic/VIE-2026-Airbus-Atlantic-Portugal--HR-analyst----project-manager_JR10403043",
