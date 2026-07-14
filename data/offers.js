@@ -1,15 +1,15 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-14T08:34",
+  "generatedAt": "2026-07-14T13:55",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Testia-SAS---Technicienne-Ingnieur-e--Expriment-e--en-Contrle-par-Ultrasons----H-F----Toulouse_JR10427974",
-      "title": "Testia SAS - Technicien.ne/Ingénieur(e) Expérimenté(e) en Contrôle par Ultrasons - (H/F) - Toulouse",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Technicienne-Ingnieur-e--Expriment-e--en-Contrle-par-Ultrasons----H-F----Toulouse_JR10427974",
+      "id": "/job/Donauwrth/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10404789-1",
+      "title": "#CORE Solution & Data Architect (d/f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Donauwrth/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10404789-1",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "2 sites",
       "contract": "CDI",
-      "date": "Offre publiée il y a 6 jours",
+      "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     }
