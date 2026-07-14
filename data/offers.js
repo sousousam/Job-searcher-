@@ -1,16 +1,16 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-14T13:55",
+  "generatedAt": "2026-07-14T19:46",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Donauwrth/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10404789-1",
-      "title": "#CORE Solution & Data Architect (d/f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Donauwrth/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10404789-1",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
+      "id": "179274",
+      "title": "VIE Indirect Purchasing Americas F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/malakoff/vie-indirect-purchasing-americas-fh-179274",
+      "company": "Safran",
+      "location": "",
+      "contract": "VIE",
+      "date": "",
+      "source": "Safran VIE",
       "is_new": true
     }
   ],
@@ -20,6 +20,6 @@ window.OFFERS = {
     "Naval Group": 122,
     "VIE": 0,
     "Airbus VIE": 17,
-    "Safran VIE": 18
+    "Safran VIE": 19
   }
 };
