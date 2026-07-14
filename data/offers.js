@@ -1,15 +1,15 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-13T19:48",
+  "generatedAt": "2026-07-14T08:34",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Procurement-Sustainability-Officer---Substance-Transparency---Obsolescence-Management--M-F-_JR10419878-1",
-      "title": "Procurement Sustainability Officer – Substance Transparency & Obsolescence Management (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Procurement-Sustainability-Officer---Substance-Transparency---Obsolescence-Management--M-F-_JR10419878-1",
+      "id": "/job/Toulouse-Area/Testia-SAS---Technicienne-Ingnieur-e--Expriment-e--en-Contrle-par-Ultrasons----H-F----Toulouse_JR10427974",
+      "title": "Testia SAS - Technicien.ne/Ingénieur(e) Expérimenté(e) en Contrôle par Ultrasons - (H/F) - Toulouse",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Technicienne-Ingnieur-e--Expriment-e--en-Contrle-par-Ultrasons----H-F----Toulouse_JR10427974",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
+      "date": "Offre publiée il y a 6 jours",
       "source": "Airbus CDI",
       "is_new": true
     }
