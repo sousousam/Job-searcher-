@@ -1,5 +1,12 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/responsable-de-la-dfinition-des-moyens-d-essais--f-h-_JR10405847",
+    "/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
+    "/job/Marseille-Area/Airbus-Helicopters-Employment-Marketing-Manager--f-m-_JR10426960",
+    "/job/Toulouse-Area/Chef-de-Projet-Btiment---Etudes-de-Faisabilit--f-h-_JR10408495-1",
+    "/job/Toulouse-Area/Coordinateur-trice--de-Production--PAC-SL---h-f-_JR10375312-1",
+    "/job/Toulouse-Area/Autopilot-Testing-Engineer--m-f-_JR10424865-1",
+    "/job/Marseille-Area/Electrical-Design-and-Integration-Transformation-leader-H-F_JR10406251-1",
     "/job/Marseille-Area/IT-Product-Management-M-F_JR10424772",
     "/job/Marseille-Area/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10427465",
     "/job/Toulouse-Area/Procurement-Contract-Manager--m-f-_JR10418119",
@@ -32,20 +39,12 @@
     "/job/Toulouse-Area/Overall-Systems-V-V-Leader--m-f-_JR10393813",
     "/job/Marseille-Area/Ingnieur-e--composants-d-installation-lectrique-et-rparation--f-h-_JR10404808",
     "/job/Marseille-Area/Mcanicien-Piste-H160--H-F-_JR10428539",
-    "/job/Toulouse-Area/Testia-SAS---Alternante-en-Qualit----H-F----Toulouse_JR10428624",
-    "/job/Toulouse-Area/Airbus-Transport-Operating-System-Digitalisation-Project-leader_JR10425070",
-    "/job/Toulouse-Area/Acoustic-Test-Engineer--f-m-_JR10416016",
-    "/job/Marseille-Area/AET-leader-peinture-MCA-et-pices-lmentaires-H-F_JR10417536-1",
-    "/job/Toulouse-Area/WideBody-Development-Prevention-Manager-M-F_JR10426120",
-    "/job/Toulouse-Area/Airbus-Protect---R-T-Additive-Manufacturing-Process-Engineer--All-Gender-_JR10428461",
-    "/job/Marseille-Area/newERP--SAP-S-4-HANA--Cross-functional-Integration-Leader-for-Operations--H-F-_JR10421381",
-    "/job/Marignane/Lead-Data-Architect--M-F-_JR10416509"
+    "/job/Toulouse-Area/Testia-SAS---Alternante-en-Qualit----H-F----Toulouse_JR10428624"
   ],
   "Safran CDI": [
     "167400",
     "177853",
     "177847",
-    "182169",
     "183299",
     "177465",
     "184062",
@@ -107,6 +106,7 @@
     "163278"
   ],
   "Naval Group": [
+    "52362",
     "52723",
     "53524",
     "53264",
@@ -208,7 +208,6 @@
     "52823",
     "51405",
     "52746",
-    "52362",
     "49722",
     "52914",
     "51203",
