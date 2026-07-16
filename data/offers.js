@@ -1,33 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-15T19:32",
+  "generatedAt": "2026-07-16T08:37",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/responsable-de-la-dfinition-des-moyens-d-essais--f-h-_JR10405847",
-      "title": "responsable de la définition des moyens d'essais (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/responsable-de-la-dfinition-des-moyens-d-essais--f-h-_JR10405847",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
-      "title": "Ingénieur Navigabilité Systèmes Avioniques/Militaires (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Airbus-Helicopters-Employment-Marketing-Manager--f-m-_JR10426960",
-      "title": "Airbus Helicopters Employment Marketing Manager (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Airbus-Helicopters-Employment-Marketing-Manager--f-m-_JR10426960",
+      "id": "/job/Marseille-Area/MRO-Logistics-Business-Improver_JR10421796-1",
+      "title": "MRO Logistics Business Improver",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/MRO-Logistics-Business-Improver_JR10421796-1",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -36,54 +14,32 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Chef-de-Projet-Btiment---Etudes-de-Faisabilit--f-h-_JR10408495-1",
-      "title": "Chef de Projet Bâtiment - Etudes de Faisabilité (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Chef-de-Projet-Btiment---Etudes-de-Faisabilit--f-h-_JR10408495-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Coordinateur-trice--de-Production--PAC-SL---h-f-_JR10375312-1",
-      "title": "Coordinateur(trice) de Production (PAC-SL) (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Coordinateur-trice--de-Production--PAC-SL---h-f-_JR10375312-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Autopilot-Testing-Engineer--m-f-_JR10424865-1",
-      "title": "Autopilot Testing Engineer (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Autopilot-Testing-Engineer--m-f-_JR10424865-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Electrical-Design-and-Integration-Transformation-leader-H-F_JR10406251-1",
-      "title": "Electrical Design and Integration Transformation leader H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Electrical-Design-and-Integration-Transformation-leader-H-F_JR10406251-1",
+      "id": "/job/Marseille-Area/Responsable-Projets---Amlioration-continue-des-oprations-logistiques--h-f-_JR10411806-1",
+      "title": "Responsable Projets & Amélioration continue des opérations logistiques (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Responsable-Projets---Amlioration-continue-des-oprations-logistiques--h-f-_JR10411806-1",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "53614",
+      "title": "CDI - Electromécanicien (H/F)",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-electromecanicien-h-f-_53614.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
+      "contract": "CDI",
+      "date": "",
+      "source": "Naval Group",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 62,
-    "Naval Group": 126,
+    "Naval Group": 127,
     "VIE": 0,
     "Airbus VIE": 17,
     "Safran VIE": 19
