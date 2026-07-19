@@ -1,5 +1,5 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-18T19:25",
+  "generatedAt": "2026-07-19T08:39",
   "firstRun": false,
   "new": [],
   "counts": {
