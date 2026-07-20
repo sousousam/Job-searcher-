@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-20T09:39",
+  "generatedAt": "2026-07-20T14:15",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Ingnieur-Safety-Niveau-Avion--H-F-_JR10385895",
-      "title": "Ingénieur Safety Niveau Avion (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Safety-Niveau-Avion--H-F-_JR10385895",
+      "id": "/job/Toulouse-Area/AI-Program-Lead_JR10421362",
+      "title": "AI Program Lead",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AI-Program-Lead_JR10421362",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Airbus-Protect----Ingnieur-Safety-Systme-Propulsif--All-Gender-_JR10416538",
-      "title": "Airbus Protect -  Ingénieur Safety Système Propulsif (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect----Ingnieur-Safety-Systme-Propulsif--All-Gender-_JR10416538",
+      "id": "/job/Toulouse-Area/System-Safety-Engineer--d-f-m-_JR10379473",
+      "title": "System Safety Engineer (d/f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/System-Safety-Engineer--d-f-m-_JR10379473",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,31 +25,31 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Building-and-Construction-Project-Leader--M-F----Chef-de-projets-Constructions-Btiments--H-F-_JR10426911-1",
-      "title": "Building and Construction Project Leader (M/F) / Chef de projets Constructions Bâtiments (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Building-and-Construction-Project-Leader--M-F----Chef-de-projets-Constructions-Btiments--H-F-_JR10426911-1",
+      "id": "/job/Toulouse-Area/Expert-en-Airbus-Operating-System---Lean-Manufacturing---Systme-d-excellence----H-F-_JR10420034",
+      "title": "Expert Lean Manufacturing (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Expert-en-Airbus-Operating-System---Lean-Manufacturing---Systme-d-excellence----H-F-_JR10420034",
       "company": "Airbus",
-      "location": "Marseille Area",
+      "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "53515",
-      "title": "CDI – Responsable de l'intégration fonctionnelle Système de combat H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-de-l-integration-fonctionnelle-systeme-de-combat-h-f_53515.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "id": "184399",
+      "title": "Opérateur de Montage Turbomachine F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/toulouse/operateur-montage-turbomachine-fh-184399",
+      "company": "Safran",
+      "location": "",
       "contract": "CDI",
       "date": "",
-      "source": "Naval Group",
+      "source": "Safran CDI",
       "is_new": true
     },
     {
-      "id": "53509",
-      "title": "CDI –Intégrateur Vérification et Validation CMS H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-integrateur-verification-et-validation-cms-h-f_53509.aspx",
+      "id": "53707",
+      "title": "CDI - Data scientist R&D - H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-data-scientist-r-d-h-f_53707.aspx",
       "company": "Naval Group",
       "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
@@ -64,6 +64,6 @@ window.OFFERS = {
     "Naval Group": 127,
     "VIE": 0,
     "Airbus VIE": 17,
-    "Safran VIE": 17
+    "Safran VIE": 16
   }
 };
