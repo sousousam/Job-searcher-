@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-22T08:48",
+  "generatedAt": "2026-07-22T14:06",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Airbus-Beyond---Master-Project-Manager--M-F-_JR10431382-1",
-      "title": "Airbus Beyond - Master Project Manager (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Beyond---Master-Project-Manager--M-F-_JR10431382-1",
+      "id": "/job/Toulouse-Area/Airbus-Atlantic---Inspecteur-Qualit---Quality-Line-Side--All-Gender-_JR10428709",
+      "title": "Airbus Atlantic - Inspecteur Qualité - Quality Line Side (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---Inspecteur-Qualit---Quality-Line-Side--All-Gender-_JR10428709",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,20 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/HO-MANUF-ENG-NH90---TIGRE--h-f-_JR10397927",
-      "title": "Head Of Electrical Manufacturing Engineering NH90 / TIGRE (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/HO-MANUF-ENG-NH90---TIGRE--h-f-_JR10397927",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Airbus-Atlantic---Responsable-Conformit-POA-MOA---Production---Maintenance-Organisational-Approval----Reprsentant-dlgu-SMS--Safety-Management-System----All-Gender-_JR10428729",
-      "title": "Airbus Atlantic - Responsable Conformité POA/MOA  (Production / Maintenance Organisation Approval) & Représentant délégué SMS (Safety Management System)  (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---Responsable-Conformit-POA-MOA---Production---Maintenance-Organisational-Approval----Reprsentant-dlgu-SMS--Safety-Management-System----All-Gender-_JR10428729",
+      "id": "/job/Toulouse-Area/H-F-Buyer---Buyer-for-Marking---Decofilm_JR10412380-1",
+      "title": "H/F Buyer / Buyer for Marking & Decofilm",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/H-F-Buyer---Buyer-for-Marking---Decofilm_JR10412380-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,20 +25,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Program-Forecast-Officer---F-H_JR10403767",
-      "title": "Program Forecast Officer - F/H",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Program-Forecast-Officer---F-H_JR10403767",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Scurit-et-Fiabilit-Senior--F-H-_JR10415563",
-      "title": "Ingénieur Sûreté de fonctionnement et Fiabilité Senior (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Scurit-et-Fiabilit-Senior--F-H-_JR10415563",
+      "id": "/job/Marseille-Area/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10427465",
+      "title": "#DIGITAL CAMPUS - Solution & Data Architect (d/f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10427465",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -58,56 +36,133 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/XMLNAME--ET19-Ingnieur-Expriment-en-Militarisation--F-H-_JR10378897",
-      "title": "#ET19 Ingénieur Confirmé en Furtivité Radar et SER (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET19-Ingnieur-Expriment-en-Militarisation--F-H-_JR10378897",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Conception-Systme---Contrle-et-Surveillance-Moteur-H140--F-H-_JR10424177-1",
-      "title": "#ET20 Ingénieur Conception Système - Contrôle et Surveillance Moteur H140 (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Conception-Systme---Contrle-et-Surveillance-Moteur-H140--F-H-_JR10424177-1",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Approvals---QMS-Manager--f-m-_JR10420389",
-      "title": "Responsable Qualité et Homologations F/H",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Approvals---QMS-Manager--f-m-_JR10420389",
+      "id": "/job/Toulouse-Area/Data-Governance---Compliance-Responsible--Business---Policy-Focus-----NGSA-_JR10412750-1",
+      "title": "Data Governance & Compliance Responsible (Business & Policy Focus) - (NGSA)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Data-Governance---Compliance-Responsible--Business---Policy-Focus-----NGSA-_JR10412750-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée hier",
+      "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "184269",
-      "title": "Responsable Programme R&T F-H F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/blagnac/responsable-programme-rt-fh-fh-184269",
+      "id": "/job/Toulouse-Area/Aircraft-Control-Digital-Solutions---End-to-end-Toolchain-Integration-Engineer---m-f-_JR10427018-1",
+      "title": "Aircraft Control Digital Solutions - End-to-end Toolchain Integration Engineer  (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Aircraft-Control-Digital-Solutions---End-to-end-Toolchain-Integration-Engineer---m-f-_JR10427018-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Ingnieur-e--composants-d-installation-lectrique-et-rparation--f-h-_JR10404808",
+      "title": "Ingénieur(e) composants d’installation électrique et réparation (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Ingnieur-e--composants-d-installation-lectrique-et-rparation--f-h-_JR10404808",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/XMLNAME-3DExperience---Chief-Scrum-Master--RTE---m-f-_JR10404239-1",
+      "title": "Chef de projet Agile (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/XMLNAME-3DExperience---Chief-Scrum-Master--RTE---m-f-_JR10404239-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Quality-Configuration---Conformity--QCC-_JR10421556-1",
+      "title": "Quality Configuration & Conformity (QCC)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Quality-Configuration---Conformity--QCC-_JR10421556-1",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/XMLNAME--CORE-Database-Administrator--m-f-d-_JR10388168-1",
+      "title": "#DIGITALCAMPUS Database Administrator (m/f/d)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--CORE-Database-Administrator--m-f-d-_JR10388168-1",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "184631",
+      "title": "Ingénieur-e CEM F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/blagnac/ingenieur-e-cem-fh-184631",
       "company": "Safran",
       "location": "",
       "contract": "CDI",
       "date": "",
       "source": "Safran CDI",
       "is_new": true
+    },
+    {
+      "id": "53748",
+      "title": "CDI - Responsable département Architecte Système de Drones H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-departement-architecte-systeme-de-drones-h-f_53748.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "contract": "CDI",
+      "date": "",
+      "source": "Naval Group",
+      "is_new": true
+    },
+    {
+      "id": "53746",
+      "title": "Ingénieur Prévention Nucléaire (IPN) environnement navires et armes H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-ingenieur-prevention-nucleaire-ipn-environnement-navires-et-armes-h-f-_53746.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
+      "contract": "CDI",
+      "date": "",
+      "source": "Naval Group",
+      "is_new": true
+    },
+    {
+      "id": "53750",
+      "title": "CDI - Planificateur des activités industrielles de production H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-planificateur-des-activites-industrielles-de-production-h-f_53750.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Saint-Tropez",
+      "contract": "CDI",
+      "date": "",
+      "source": "Naval Group",
+      "is_new": true
+    },
+    {
+      "id": "184620",
+      "title": "Méthodes Industrielles Intégration & Peinture - V.I.E. en Chine F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/gonfreville-orcher/methodes-industrielles-integration-peinture-vie-chine-fh-184620",
+      "company": "Safran",
+      "location": "",
+      "contract": "VIE",
+      "date": "",
+      "source": "Safran VIE",
+      "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
-    "Safran CDI": 61,
-    "Naval Group": 123,
+    "Safran CDI": 62,
+    "Naval Group": 122,
     "VIE": 0,
-    "Airbus VIE": 16,
+    "Airbus VIE": 14,
     "Safran VIE": 18
   }
 };
