@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/Assistant-to-Corporate-Secretary--f-m-_JR10424740",
+    "/job/Marseille-Area/Ingnieur-systme-FCS--F-H-_JR10431992",
+    "/job/Marseille-Area/Design-Office-Controller--Finance----m-f-_JR10427606-1",
+    "/job/Toulouse-Area/Operations-Leader---Responsable-de-Production--F-H-_JR10377617",
     "/job/Marseille-Area/XMLNAME--QLS-Main-Dynamics-Assembly---Inspecteur-qualit-assemblage-H-F_JR10431381-1",
     "/job/Toulouse-Area/AOS-Leader-en-FAL-A350--H-F-_JR10385649-1",
     "/job/Toulouse-Area/LEAN-Management-Leader-en-Ligne-d-Assemblage-Finale-A350--f-h-_JR10410623",
@@ -35,11 +39,7 @@
     "/job/Toulouse-Area/Approvals---QMS-Manager--f-m-_JR10420389",
     "/job/Toulouse-Area/ERP-Change-Engineer-for-S-4-Projects--M-F-_JR10419412",
     "/job/Toulouse-Area/Technicien-Maintenance-Oprationnelle--H-F-_JR10387321-1",
-    "/job/Toulouse-Area/Cabin---Cargo-Mechanical-Equipment--M-F----In-Service-Engineering_JR10406970-1",
-    "/job/Toulouse-Area/Ingnieur-e--Systmes-Effets-lectromagntiques--h-f-_JR10385589",
-    "/job/Toulouse-Area/Airbus-Protect---Acheteur-se----All-Gender_JR10431270",
-    "/job/Toulouse-Area/Ingnieur-Produit-Simulation-H-F_JR10422368",
-    "/job/Toulouse-Area/Responsable-Amlioration-OSS--f-h-_JR10410415"
+    "/job/Toulouse-Area/Cabin---Cargo-Mechanical-Equipment--M-F----In-Service-Engineering_JR10406970-1"
   ],
   "Safran CDI": [
     "173829",
@@ -109,6 +109,7 @@
     "163278"
   ],
   "Naval Group": [
+    "52861",
     "52414",
     "52562",
     "53729",
@@ -153,7 +154,6 @@
     "52638",
     "51195",
     "53420",
-    "52216",
     "53250",
     "52417",
     "53571",
@@ -214,7 +214,6 @@
     "52914",
     "51203",
     "52734",
-    "52861",
     "52703",
     "51390",
     "52758",
