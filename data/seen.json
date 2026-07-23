@@ -1,5 +1,15 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/XMLNAME--QLS-Main-Dynamics-Assembly---Inspecteur-qualit-assemblage-H-F_JR10431381-1",
+    "/job/Toulouse-Area/AOS-Leader-en-FAL-A350--H-F-_JR10385649-1",
+    "/job/Toulouse-Area/LEAN-Management-Leader-en-Ligne-d-Assemblage-Finale-A350--f-h-_JR10410623",
+    "/job/Toulouse-Area/A220-Quality-Doc-Release-Manager-H-F_JR10425694",
+    "/job/Marseille-Area/Extended-Enterprise-Product-Manager--m-f-_JR10428867-1",
+    "/job/Toulouse-Area/Full-Time-Auditor--M-F-_JR10427801",
+    "/job/Toulouse-Area/Assistant-to-Heads-of-Propulsion-Systems-Procurement-M-F_JR10423762",
+    "/job/Toulouse-Area/Sub-Commodity-Buyer----Facility-Mangement-Services---France_JR10424964-1",
+    "/job/Marseille-Area/XMLNAME--ET18---Experienced-Weight---Balance-Engineer---Shape-the-Future-of-Airbus-Helicopters--F-H-_JR10361820",
+    "/job/Marseille-Area/IT-Product-Management-M-F_JR10424772",
     "/job/Marseille-Area/Qualiticien-pices-lmentaire_JR10425158-1",
     "/job/Marseille-Area/Finance-Specialist-SAP---Financial-Accounting--f-m-_JR10393586",
     "/job/Toulouse-Area/Software-Engineering-for-Avionics---Methods-and-Tools--f-h-_JR10428283",
@@ -29,17 +39,7 @@
     "/job/Toulouse-Area/Ingnieur-e--Systmes-Effets-lectromagntiques--h-f-_JR10385589",
     "/job/Toulouse-Area/Airbus-Protect---Acheteur-se----All-Gender_JR10431270",
     "/job/Toulouse-Area/Ingnieur-Produit-Simulation-H-F_JR10422368",
-    "/job/Toulouse-Area/Responsable-Amlioration-OSS--f-h-_JR10410415",
-    "/job/Toulouse-Area/PI-Inventory-Manager--m-f-_JR10408406",
-    "/job/Toulouse-Area/Charg-e--de-Missions-Oprations-et-Leader-du-Bureau-Accs-et-Oprations-H-F_JR10421655-1",
-    "/job/Toulouse-Area/Officier-de-Scurit-Adjoint-en-charge-des-projets-sensibles-et-appui-transverses-H-F_JR10423400-1",
-    "/job/Marseille-Area/Technicien-Programmation-Commande-Numrique-sur-pices-mcaniques--h-f-_JR10423354-1",
-    "/job/Toulouse-Area/Production-Scheduler---Pilote-de-production--H-F-_JR10424296-1",
-    "/job/Marseille-Area/Extended-Enterprise-Product-Manager--m-f-_JR10428867-1",
-    "/job/Toulouse-Area/System-Designer-for-Shared-Resources-Avionic-Platform--F-M-_JR10410044-1",
-    "/job/Toulouse-Area/POA-DOA-Control-improvement-manager-for-Suppliers-of-non-flying-services-and-products_JR10415293-1",
-    "/job/Toulouse-Area/Solution-Manager---Satcom-Services--m-f-_JR10422800",
-    "/job/Marseille-Area/Reprsentant-e--Assistance-technique-missions-courtes-licenci-e--B2--H-F-_JR10419925-2"
+    "/job/Toulouse-Area/Responsable-Amlioration-OSS--f-h-_JR10410415"
   ],
   "Safran CDI": [
     "173829",
@@ -109,10 +109,8 @@
     "163278"
   ],
   "Naval Group": [
-    "53581",
     "52414",
     "52562",
-    "51969",
     "53729",
     "53467",
     "52970",
@@ -179,7 +177,6 @@
     "53108",
     "53109",
     "52591",
-    "53159",
     "52756",
     "53333",
     "53452",
@@ -205,7 +202,6 @@
     "51276",
     "52119",
     "52401",
-    "53195",
     "52241",
     "52907",
     "53214",
