@@ -42,6 +42,10 @@
     "/job/Marseille-Area/Quality-Configuration---Conformity--QCC-_JR10421556-1"
   ],
   "Safran CDI": [
+    "167400",
+    "181688",
+    "183048",
+    "173829",
     "177847",
     "171530",
     "177853",
@@ -63,7 +67,6 @@
     "183299",
     "184806",
     "184529",
-    "173829",
     "175029",
     "184631",
     "163286",
@@ -74,10 +77,7 @@
     "172628",
     "171952",
     "165845",
-    "167400",
     "179691",
-    "181688",
-    "183048",
     "171484",
     "182128",
     "183003",
@@ -109,6 +109,7 @@
     "163278"
   ],
   "Naval Group": [
+    "53220",
     "53420",
     "52119",
     "53768",
@@ -173,7 +174,6 @@
     "53357",
     "51059",
     "53153",
-    "53220",
     "53490",
     "53521",
     "53418",
@@ -235,7 +235,6 @@
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
     "/job/Tianjin-Area/VIE-2026--HR-Transversal-Management--m-f-_JR10396273",
-    "/job/Albacete/VIE-2026-Spain--Harness-designer--h-f-_JR10411168",
     "/job/Roma-Area/VIE-2026---ITALY---TECHNICAL-SUPPORT---AIRWORTHINESS-DATA-SPECIALIST--H-F-_JR10411073",
     "/job/Donauwrth/VIE-within-Avionics-Architecture--d-f-m-_JR10421508",
     "/job/Bristol-Area/VIE-2026-United-Kingdom-Transfers-of-Work-and-Business-Improvement-Manager_JR10402512",
