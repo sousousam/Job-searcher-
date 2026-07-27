@@ -1,5 +1,13 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/MS-L-Operations-Part-modification-impact-manager-for-all-programs--m-f-_JR10407053-1",
+    "/job/Waterloo/SKYWISE---HO-Enterprise-AI---Business-Applications_JR10432581",
+    "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
+    "/job/Marseille-Area/Mdecin-du-travail--h-f-_JR10378477",
+    "/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1",
+    "/job/Toulouse-Area/Testia-SAS---Charge-d-Ethique---Conformit--H-F----Toulouse_JR10432522",
+    "/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Fonction-USAGE-pour-la-surveillance-Hlicoptre--F-H-_JR10429211-2",
+    "/job/Marseille-Area/Line-Manager-Supply-Chain---MRO----All-Gender-_JR10432309-1",
     "/job/Marseille-Area/DOA-Supplier-Control-Manager----H-F-_JR10331565",
     "/job/Toulouse-Area/Ingnieur-d-Essais-Radiofrquences-Satellites--h-f-_JR10369271",
     "/job/Toulouse-Area/Approvals---QMS-Manager--f-m-_JR10420389",
@@ -31,15 +39,7 @@
     "/job/Marseille-Area/Finance-Specialist-SAP---Financial-Accounting--f-m-_JR10393586",
     "/job/Toulouse-Area/Software-Engineering-for-Avionics---Methods-and-Tools--f-h-_JR10428283",
     "/job/Marseille-Area/Head-of-Transformation-and-Digital-Perfo-Management--f-m-_JR10425321",
-    "/job/Toulouse-Area/X-Sites-Digital-Operation-Leader--f-m-_JR10418438",
-    "/job/Toulouse-Area/Airbus-Atlantic---Inspecteur-Qualit---Quality-Line-Side--All-Gender-_JR10427441-1",
-    "/job/Toulouse-Area/Configuration-Management-Functional-IT-Architect--m-f-_JR10419637",
-    "/job/Toulouse-Area/H-F-Buyer---Buyer-for-Marking---Decofilm_JR10412380-1",
-    "/job/Marseille-Area/XMLNAME--CORE-Solution---Data-Architect--d-f-m-_JR10427465",
-    "/job/Toulouse-Area/Data-Governance---Compliance-Responsible--Business---Policy-Focus-----NGSA-_JR10412750-1",
-    "/job/Toulouse-Area/Aircraft-Control-Digital-Solutions---End-to-end-Toolchain-Integration-Engineer---m-f-_JR10427018-1",
-    "/job/Marseille-Area/Ingnieur-e--composants-d-installation-lectrique-et-rparation--f-h-_JR10404808",
-    "/job/Toulouse-Area/XMLNAME-3DExperience---Chief-Scrum-Master--RTE---m-f-_JR10404239-1"
+    "/job/Toulouse-Area/X-Sites-Digital-Operation-Leader--f-m-_JR10418438"
   ],
   "Safran CDI": [
     "182128",
@@ -69,7 +69,6 @@
     "174976",
     "180751",
     "174975",
-    "183761",
     "183299",
     "184806",
     "184529",
@@ -110,6 +109,7 @@
     "163278"
   ],
   "Naval Group": [
+    "53521",
     "53452",
     "53220",
     "53420",
@@ -177,7 +177,6 @@
     "51059",
     "53153",
     "53490",
-    "53521",
     "53418",
     "53417",
     "53356",
@@ -230,6 +229,7 @@
   ],
   "VIE": [],
   "Airbus VIE": [
+    "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
     "/job/Donauwrth/VIE--d-f-m----Program-Management-Office_JR10426631",
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
