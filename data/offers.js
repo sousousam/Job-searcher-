@@ -1,33 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-27T14:43",
+  "generatedAt": "2026-07-27T19:54",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/MS-L-Operations-Part-modification-impact-manager-for-all-programs--m-f-_JR10407053-1",
-      "title": "Responsable Gestion des Modifications & Obsolescence - Support Client (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/MS-L-Operations-Part-modification-impact-manager-for-all-programs--m-f-_JR10407053-1",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Waterloo/SKYWISE---HO-Enterprise-AI---Business-Applications_JR10432581",
-      "title": "SKYWISE - HO Enterprise AI & Business Applications",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Waterloo/SKYWISE---HO-Enterprise-AI---Business-Applications_JR10432581",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
-      "title": "Chef(fe) d'équipe / Team leader (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
+      "id": "/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
+      "title": "Space Systems Schedule Deployment & Unified Planning Leader",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,31 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Mdecin-du-travail--h-f-_JR10378477",
-      "title": "Médecin du travail (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Mdecin-du-travail--h-f-_JR10378477",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1",
-      "title": "Technical License Manager for Engineering Solutions (d/f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1",
-      "company": "Airbus",
-      "location": "4 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Testia-SAS---Charge-d-Ethique---Conformit--H-F----Toulouse_JR10432522",
-      "title": "Testia SAS – Chargé.e d’Ethique & Conformité (H/F) - Toulouse",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Charge-d-Ethique---Conformit--H-F----Toulouse_JR10432522",
+      "id": "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
+      "title": "Digital IT Product Manager for Resolve Fleet Issues",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -69,36 +25,25 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Fonction-USAGE-pour-la-surveillance-Hlicoptre--F-H-_JR10429211-2",
-      "title": "#ET21 Ingénieur Fonction USAGE pour la surveillance Hélicoptère (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Fonction-USAGE-pour-la-surveillance-Hlicoptre--F-H-_JR10429211-2",
+      "id": "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication--Navigation---Surveillance-_JR10410818-1",
+      "title": "Purchasing Manager in Avionics Systems (Communication, Navigation & Surveillance)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication--Navigation---Surveillance-_JR10410818-1",
       "company": "Airbus",
-      "location": "Marseille Area",
+      "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Line-Manager-Supply-Chain---MRO----All-Gender-_JR10432309-1",
-      "title": "Line Manager Supply Chain & MRO - (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Line-Manager-Supply-Chain---MRO----All-Gender-_JR10432309-1",
+      "id": "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1",
+      "title": "Purchasing Manager in Avionics Systems (Communication & Surveillance)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1",
       "company": "Airbus",
-      "location": "Marseille Area",
+      "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
-      "title": "VIE 2026 - Espagne - Export control - H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
-      "company": "Airbus",
-      "location": "Getafe Area",
-      "contract": "VIE",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus VIE",
       "is_new": true
     }
   ],
