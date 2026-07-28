@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-27T19:54",
+  "generatedAt": "2026-07-28T08:54",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
-      "title": "Space Systems Schedule Deployment & Unified Planning Leader",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
+      "id": "/job/Toulouse-Area/Procurement-Sustainability-Officer---Substance-Transparency---Obsolescence-Management--M-F-_JR10419878-1",
+      "title": "Procurement Sustainability Officer – Substance Transparency & Obsolescence Management (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Procurement-Sustainability-Officer---Substance-Transparency---Obsolescence-Management--M-F-_JR10419878-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
-      "title": "Digital IT Product Manager for Resolve Fleet Issues",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
+      "id": "/job/Toulouse-Area/Airbus-Beyond---Master-Project-Manager--M-F-_JR10431382-1",
+      "title": "Airbus Beyond - Master Project Manager (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Beyond---Master-Project-Manager--M-F-_JR10431382-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,20 +25,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication--Navigation---Surveillance-_JR10410818-1",
-      "title": "Purchasing Manager in Avionics Systems (Communication, Navigation & Surveillance)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication--Navigation---Surveillance-_JR10410818-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1",
-      "title": "Purchasing Manager in Avionics Systems (Communication & Surveillance)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1",
+      "id": "/job/Toulouse-Area/Supply-Chain-and-Quality-Specialist-SCQS_JR10414431",
+      "title": "Spécialiste Supply Chain & Qualité (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Supply-Chain-and-Quality-Specialist-SCQS_JR10414431",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
