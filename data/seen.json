@@ -1,5 +1,12 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Technology-Specialist-Collaboration-Solutions-M-F_JR10402369-1",
+    "/job/Toulouse-Area/Test-Management-Product-Owner--m-f-_JR10393682-1",
+    "/job/Toulouse-Area/Head-of-OneSat-Programme-Ground-Segment_JR10423718-1",
+    "/job/Toulouse-Area/Testia-SAS---Assistante-Ressources-Humaines--H-F----Toulouse_JR10425958",
+    "/job/Marseille-Area/Strategic-Buyer-Avionics_JR10419920-1",
+    "/job/Marseille-Area/Virtual-Desktop-Infrastructure-Technology--VDI--Specialist--h-f-_JR10358831",
+    "/job/Marseille-Area/Solution-Architect-in-the-context-of-Extended-Enterprise-Solutions--h-f-_JR10358805-1",
     "/job/Toulouse-Area/Technology-Specialist---Integration-Lead--M-F-_JR10403708-1",
     "/job/Marseille-Area/MOA-PART-145-Compliance-Monitoring-Manager-M-F_JR10410602-1",
     "/job/Toulouse-Area/ATR---Stage-Administration-des-Ventes_JR10428648",
@@ -29,17 +36,10 @@
     "/job/Toulouse-Area/Procurement-officer-Electrical-Assembly_JR10424616-1",
     "/job/Toulouse-Area/Aircraft-Retrofit-Services---Offer-Manage--F-M-_JR10419451",
     "/job/Marseille-Area/Dynamics-Raw-Material-and-Blanks-Supply-Officer--M-W-_JR10415080-1",
-    "/job/Marseille-Area/Assistant-to-Corporate-Secretary--f-m-_JR10424740",
     "/job/Marseille-Area/Ingnieur-systme-FCS--F-H-_JR10431992",
     "/job/Marseille-Area/Design-Office-Controller--Finance----m-f-_JR10427606-1",
     "/job/Toulouse-Area/Operations-Leader---Responsable-de-Production--F-H-_JR10377617",
-    "/job/Marseille-Area/XMLNAME--QLS-Main-Dynamics-Assembly---Inspecteur-qualit-assemblage-H-F_JR10431381-1",
-    "/job/Toulouse-Area/AOS-Leader-en-FAL-A350--H-F-_JR10385649-1",
-    "/job/Toulouse-Area/LEAN-Management-Leader-en-Ligne-d-Assemblage-Finale-A350--f-h-_JR10410623",
-    "/job/Toulouse-Area/A220-Quality-Doc-Release-Manager-H-F_JR10425694",
-    "/job/Marseille-Area/Extended-Enterprise-Product-Manager--m-f-_JR10428867-1",
-    "/job/Toulouse-Area/Full-Time-Auditor--M-F-_JR10427801",
-    "/job/Toulouse-Area/Assistant-to-Heads-of-Propulsion-Systems-Procurement-M-F_JR10423762"
+    "/job/Marseille-Area/XMLNAME--QLS-Main-Dynamics-Assembly---Inspecteur-qualit-assemblage-H-F_JR10431381-1"
   ],
   "Safran CDI": [
     "184885",
@@ -54,6 +54,8 @@
     "185005",
     "183048",
     "178883",
+    "184636",
+    "184635",
     "182128",
     "171484",
     "174262",
@@ -110,6 +112,7 @@
     "163278"
   ],
   "Naval Group": [
+    "53765",
     "53571",
     "52417",
     "53521",
