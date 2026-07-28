@@ -1,7 +1,10 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Technology-Specialist---Integration-Lead--M-F-_JR10403708-1",
+    "/job/Marseille-Area/MOA-PART-145-Compliance-Monitoring-Manager-M-F_JR10410602-1",
+    "/job/Toulouse-Area/ATR---Stage-Administration-des-Ventes_JR10428648",
+    "/job/Marseille-Area/XMLNAME--DIGITALCAMPUS-Scrum-Master---M-F-_JR10427507-1",
     "/job/Toulouse-Area/Procurement-Sustainability-Officer---Substance-Transparency---Obsolescence-Management--M-F-_JR10419878-1",
-    "/job/Toulouse-Area/Airbus-Beyond---Master-Project-Manager--M-F-_JR10431382-1",
     "/job/Toulouse-Area/Supply-Chain-and-Quality-Specialist-SCQS_JR10414431",
     "/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
     "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
@@ -12,7 +15,6 @@
     "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
     "/job/Marseille-Area/Mdecin-du-travail--h-f-_JR10378477",
     "/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1",
-    "/job/Toulouse-Area/Testia-SAS---Charge-d-Ethique---Conformit--H-F----Toulouse_JR10432522",
     "/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Fonction-USAGE-pour-la-surveillance-Hlicoptre--F-H-_JR10429211-2",
     "/job/Marseille-Area/Line-Manager-Supply-Chain---MRO----All-Gender-_JR10432309-1",
     "/job/Marseille-Area/DOA-Supplier-Control-Manager----H-F-_JR10331565",
@@ -37,9 +39,7 @@
     "/job/Toulouse-Area/A220-Quality-Doc-Release-Manager-H-F_JR10425694",
     "/job/Marseille-Area/Extended-Enterprise-Product-Manager--m-f-_JR10428867-1",
     "/job/Toulouse-Area/Full-Time-Auditor--M-F-_JR10427801",
-    "/job/Toulouse-Area/Assistant-to-Heads-of-Propulsion-Systems-Procurement-M-F_JR10423762",
-    "/job/Toulouse-Area/Sub-Commodity-Buyer----Facility-Mangement-Services---France_JR10424964-1",
-    "/job/Marseille-Area/XMLNAME--ET18---Experienced-Weight---Balance-Engineer---Shape-the-Future-of-Airbus-Helicopters--F-H-_JR10361820"
+    "/job/Toulouse-Area/Assistant-to-Heads-of-Propulsion-Systems-Procurement-M-F_JR10423762"
   ],
   "Safran CDI": [
     "184885",
@@ -51,6 +51,9 @@
     "179800",
     "165845",
     "171530",
+    "185005",
+    "183048",
+    "178883",
     "182128",
     "171484",
     "174262",
@@ -59,7 +62,6 @@
     "177016",
     "167400",
     "181688",
-    "183048",
     "173829",
     "177847",
     "177853",
@@ -97,7 +99,6 @@
     "163284",
     "168717",
     "180823",
-    "178883",
     "173252",
     "179502",
     "171443",
