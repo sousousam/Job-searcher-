@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-29T19:44",
+  "generatedAt": "2026-07-30T08:51",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/ET-20---Multiprogram---Hazmat-ECPFs-and-MRO-Certification-Qualification-Engineer--f-m-_JR10432346",
-      "title": "ET#20 - Multiprogram / Hazmat ECPFs and MRO Certification Qualification Engineer (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/ET-20---Multiprogram---Hazmat-ECPFs-and-MRO-Certification-Qualification-Engineer--f-m-_JR10432346",
+      "id": "/job/Marseille-Area/Mcanicien-Piste-H160--H-F-_JR10428539",
+      "title": "Mécanicien Piste H160 (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Mcanicien-Piste-H160--H-F-_JR10428539",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -14,20 +14,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Overall-Systems-Requirement--V-V-and-Integration-leader-for-A350--m-f-_JR10409919",
-      "title": "Leader Intégration Vérification & Validation Systèmes A350 (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Overall-Systems-Requirement--V-V-and-Integration-leader-for-A350--m-f-_JR10409919",
+      "id": "/job/Paris-Area/Ingnieur-Transmission-et-Stations-Sol-de-Communication-par-Satellite--h-f-_JR10398641-1",
+      "title": "Ingénieur Transmission et Stations Sol de Communication par Satellite (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Paris-Area/Ingnieur-Transmission-et-Stations-Sol-de-Communication-par-Satellite--h-f-_JR10398641-1",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "2 sites",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/ATR---Logistics-Operation-Manager_JR10418138",
-      "title": "ATR - Logistics Operation Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ATR---Logistics-Operation-Manager_JR10418138",
+      "id": "/job/Toulouse-Area/Legal-Counsel---Product-Liability--F-M-_JR10431112-1",
+      "title": "Conseiller Juridique (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Legal-Counsel---Product-Liability--F-M-_JR10431112-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -41,7 +41,7 @@ window.OFFERS = {
     "Safran CDI": 65,
     "Naval Group": 118,
     "VIE": 0,
-    "Airbus VIE": 13,
+    "Airbus VIE": 12,
     "Safran VIE": 16
   }
 };

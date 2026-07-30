@@ -1,5 +1,8 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/Mcanicien-Piste-H160--H-F-_JR10428539",
+    "/job/Paris-Area/Ingnieur-Transmission-et-Stations-Sol-de-Communication-par-Satellite--h-f-_JR10398641-1",
+    "/job/Toulouse-Area/Legal-Counsel---Product-Liability--F-M-_JR10431112-1",
     "/job/Marseille-Area/ET-20---Multiprogram---Hazmat-ECPFs-and-MRO-Certification-Qualification-Engineer--f-m-_JR10432346",
     "/job/Toulouse-Area/Overall-Systems-Requirement--V-V-and-Integration-leader-for-A350--m-f-_JR10409919",
     "/job/Toulouse-Area/ATR---Logistics-Operation-Manager_JR10418138",
@@ -29,7 +32,6 @@
     "/job/Marseille-Area/XMLNAME--DIGITALCAMPUS-Scrum-Master---M-F-_JR10427507-1",
     "/job/Toulouse-Area/Procurement-Sustainability-Officer---Substance-Transparency---Obsolescence-Management--M-F-_JR10419878-1",
     "/job/Toulouse-Area/Supply-Chain-and-Quality-Specialist-SCQS_JR10414431",
-    "/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
     "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
     "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication--Navigation---Surveillance-_JR10410818-1",
     "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1",
@@ -37,24 +39,22 @@
     "/job/Waterloo/SKYWISE---HO-Enterprise-AI---Business-Applications_JR10432581",
     "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
     "/job/Marseille-Area/Mdecin-du-travail--h-f-_JR10378477",
-    "/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1",
-    "/job/Marseille-Area/XMLNAME--ET21-Ingnieur-Fonction-USAGE-pour-la-surveillance-Hlicoptre--F-H-_JR10429211-2",
-    "/job/Marseille-Area/Line-Manager-Supply-Chain---MRO----All-Gender-_JR10432309-1"
+    "/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1"
   ],
   "Safran CDI": [
     "174976",
     "173829",
     "181688",
     "180751",
-    "185095",
-    "183289",
-    "174262",
     "176435",
     "183745",
     "167400",
     "183491",
     "183048",
     "176082",
+    "185095",
+    "183289",
+    "174262",
     "184885",
     "184165",
     "172344",
@@ -109,6 +109,7 @@
     "163278"
   ],
   "Naval Group": [
+    "51327",
     "53835",
     "52457",
     "52823",
@@ -165,7 +166,6 @@
     "53386",
     "53022",
     "53362",
-    "51327",
     "53519",
     "53614",
     "53478",
@@ -230,7 +230,6 @@
   ],
   "VIE": [],
   "Airbus VIE": [
-    "/job/Getafe-Area/VIE-2026---Spain---Project-Manager-Officer-in-Military-Aero-Connectivity_JR10396931-1",
     "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
