@@ -1,5 +1,10 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Supply-Chain---Quality-Manager--f-h-_JR10399465",
+    "/job/Toulouse-Area/Purchasing-Manager---Buyer-for-Primary-Flight-Controls--m-f-_JR10405028",
+    "/job/Toulouse-Area/ERP-Solution-manager---A220-Pylon-St-Eloi-France_JR10400652-1",
+    "/job/Toulouse-Area/Solution-manager-Business-lead-for-S4-Template-definition_JR10425878",
+    "/job/Toulouse-Area/Project-Leader---Deployment-Manager-ER-S-4-projects---M-F_JR10423577",
     "/job/Marseille-Area/Mcanicien-Piste-H160--H-F-_JR10428539",
     "/job/Paris-Area/Ingnieur-Transmission-et-Stations-Sol-de-Communication-par-Satellite--h-f-_JR10398641-1",
     "/job/Toulouse-Area/Legal-Counsel---Product-Liability--F-M-_JR10431112-1",
@@ -34,14 +39,10 @@
     "/job/Toulouse-Area/Supply-Chain-and-Quality-Specialist-SCQS_JR10414431",
     "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
     "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication--Navigation---Surveillance-_JR10410818-1",
-    "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1",
-    "/job/Marseille-Area/MS-L-Operations-Part-modification-impact-manager-for-all-programs--m-f-_JR10407053-1",
-    "/job/Waterloo/SKYWISE---HO-Enterprise-AI---Business-Applications_JR10432581",
-    "/job/Toulouse-Area/Chef-d-quipe---Team-leader--H-F-_JR10377568",
-    "/job/Marseille-Area/Mdecin-du-travail--h-f-_JR10378477",
-    "/job/Donauwrth/Technical-License-Manager-for-Engineering-Solutions--d-f-m-_JR10405490-1"
+    "/job/Toulouse-Area/Purchasing-Manager-in-Avionics-Systems--Communication---Surveillance-_JR10410799-1"
   ],
   "Safran CDI": [
+    "183761",
     "174976",
     "173829",
     "181688",
@@ -109,6 +110,7 @@
     "163278"
   ],
   "Naval Group": [
+    "53837",
     "51327",
     "53835",
     "52457",
@@ -232,10 +234,8 @@
   "Airbus VIE": [
     "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
-    "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
     "/job/Tianjin-Area/VIE-2026--HR-Transversal-Management--m-f-_JR10396273",
-    "/job/Roma-Area/VIE-2026---ITALY---TECHNICAL-SUPPORT---AIRWORTHINESS-DATA-SPECIALIST--H-F-_JR10411073",
     "/job/Donauwrth/VIE-within-Avionics-Architecture--d-f-m-_JR10421508",
     "/job/Bristol-Area/VIE-2026-United-Kingdom-Transfers-of-Work-and-Business-Improvement-Manager_JR10402512",
     "/job/Lodz/VIE-2026---Poland---Stress-Engineer-H-F_JR10410140",
