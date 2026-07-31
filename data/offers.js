@@ -1,11 +1,44 @@
 window.OFFERS = {
-  "generatedAt": "2026-07-31T09:20",
+  "generatedAt": "2026-07-31T14:17",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/ATR---Legal-Counsel_JR10431902",
-      "title": "ATR - Legal Counsel",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ATR---Legal-Counsel_JR10431902",
+      "id": "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Mcanique-Conception-d-outillages-de-maintenance-sur-Hlicoptre--f-h-_JR10432287",
+      "title": "#ET20A Ingénieur Mécanique Conception d’outillages de maintenance sur Hélicoptère (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Mcanique-Conception-d-outillages-de-maintenance-sur-Hlicoptre--f-h-_JR10432287",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
+      "title": "#ET20R Ingénieur développement CND Aéronautique - Niveau 2 et 3 (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
+      "title": "National Security Program Leader (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/ERP-Solution-manager---Migration-strategist---M-F_JR10419280",
+      "title": "Responsable de Solutions / Ingénieur Intégration (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ERP-Solution-manager---Migration-strategist---M-F_JR10419280",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,9 +47,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
-      "title": "Ingénieur Navigabilité Systèmes Avioniques/Militaires (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
+      "id": "/job/Toulouse-Area/ERP-Logistics-Manager-M-F_JR10403330-1",
+      "title": "Responsable Logistique ERP (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ERP-Logistics-Manager-M-F_JR10403330-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,9 +58,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/HO-Qualit-Assurance-Produit-Space-Product-Toulouse-H-F_JR10406261",
-      "title": "HO Qualité Assurance Produit Space Product Toulouse H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/HO-Qualit-Assurance-Produit-Space-Product-Toulouse-H-F_JR10406261",
+      "id": "/job/Toulouse-Area/Airbus-Protect---CDD-Local-Facility-Manager--All-Gender-_JR10433835",
+      "title": "Airbus Protect - CDD Local Facility Manager (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---CDD-Local-Facility-Manager--All-Gender-_JR10433835",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,69 +69,25 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "53709",
-      "title": "CDI – Architecte Système d'Information INDS( H/F)",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-architecte-systeme-d-information-inds-h-f-_53709.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "id": "/job/Toulouse-Area/Quality-Line-Side-Inspecteurs-Qualit---Customer-Line--H-F-_JR10122566",
+      "title": "QLS Inspecteurs Qualité Pistes - Customer Line Airbus A350-330 (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Quality-Line-Side-Inspecteurs-Qualit---Customer-Line--H-F-_JR10122566",
+      "company": "Airbus",
+      "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "53704",
-      "title": "CDI - Work Package Manager - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-work-package-manager-h-f_53704.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
+      "id": "/job/Toulouse-Area/Airbus-Protect---Electrical---Optical-Systems-Supply-Chain-Resilience-Engineer----All-Gender-_JR10433818",
+      "title": "Airbus Protect - Electrical & Optical Systems Supply Chain Resilience Engineer - (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---Electrical---Optical-Systems-Supply-Chain-Resilience-Engineer----All-Gender-_JR10433818",
+      "company": "Airbus",
+      "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "53708",
-      "title": "CDI – Ingénieur Système – IaaS/PaaS navire H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-ingenieur-systeme-iaas-paas-navire-h-f_53708.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "53329",
-      "title": "Mécanicien monteur H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-mecanicien-monteur-h-f_53329.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "49974",
-      "title": "CDI - Technicien Méthodes Electronique H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-technicien-methodes-electronique-h-f-_49974.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "53786",
-      "title": "CDI - Ingénieur mécanique spécialisation acoustique et vibratoire H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-ingenieur-mecanique-specialisation-acoustique-et-vibratoire-h-f_53786.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
       "is_new": true
     }
   ],
@@ -107,7 +96,7 @@ window.OFFERS = {
     "Safran CDI": 66,
     "Naval Group": 125,
     "VIE": 0,
-    "Airbus VIE": 10,
+    "Airbus VIE": 9,
     "Safran VIE": 16
   }
 };
