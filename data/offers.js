@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-03T10:09",
+  "generatedAt": "2026-08-03T14:48",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Airbus-Protect---Acheteur-se----All-Gender_JR10431270",
-      "title": "Airbus Protect - Acheteur(se) - All Gender",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---Acheteur-se----All-Gender_JR10431270",
+      "id": "/job/Toulouse-Area/Cabin---Cargo-Mechanical-Equipment--M-F----In-Service-Engineering_JR10406970-1",
+      "title": "Cabin & Cargo Mechanical Equipment (M/F) - In-Service Engineering",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Cabin---Cargo-Mechanical-Equipment--M-F----In-Service-Engineering_JR10406970-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Contrleur-financier-de-projets-dans-le-domaine-spatial-H-F_JR10423006-1",
-      "title": "Contrôleur financier de projets dans le domaine spatial H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Contrleur-financier-de-projets-dans-le-domaine-spatial-H-F_JR10423006-1",
+      "id": "/job/Toulouse-Area/Responsable-des-services-de-transport--H-F-_JR10425479-1",
+      "title": "Responsable des services de transport (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Responsable-des-services-de-transport--H-F-_JR10425479-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -27,10 +27,10 @@ window.OFFERS = {
   ],
   "counts": {
     "Airbus CDI": 40,
-    "Safran CDI": 63,
+    "Safran CDI": 61,
     "Naval Group": 123,
     "VIE": 0,
-    "Airbus VIE": 9,
+    "Airbus VIE": 8,
     "Safran VIE": 15
   }
 };

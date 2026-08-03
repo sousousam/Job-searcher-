@@ -1,5 +1,7 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Cabin---Cargo-Mechanical-Equipment--M-F----In-Service-Engineering_JR10406970-1",
+    "/job/Toulouse-Area/Responsable-des-services-de-transport--H-F-_JR10425479-1",
     "/job/Toulouse-Area/Airbus-Protect---Acheteur-se----All-Gender_JR10431270",
     "/job/Toulouse-Area/Contrleur-financier-de-projets-dans-le-domaine-spatial-H-F_JR10423006-1",
     "/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
@@ -30,7 +32,6 @@
     "/job/Toulouse-Area/Overall-Systems-Requirement--V-V-and-Integration-leader-for-A350--m-f-_JR10409919",
     "/job/Toulouse-Area/ATR---Logistics-Operation-Manager_JR10418138",
     "/job/Hamburg-Area/Senior-Legal-Counsel--d-f-m----Legal-Affairs-Intellectual-Property_JR10419183",
-    "/job/Toulouse-Area/Cockpit-Displays-System-Designer--F-M-_JR10428114-1",
     "/job/Toulouse-Area/Acoustic-Test-Engineer--f-m-_JR10416016",
     "/job/Toulouse-Area/Quality-Conformance-Manager-Leader-H---F_JR10425459",
     "/job/Marseille-Area/Transformation-Financial-Controller--f-m-_JR10424384",
@@ -38,8 +39,7 @@
     "/job/Marseille-Area/Airbus-Protect---Ingnieur-Traitement-de-surface----H-F-_JR10433196",
     "/job/Toulouse-Area/BUSINESS-ANALYST-FOR-LOGISTICS-CONTRACT-MANAGEMENT--M-F-_JR10417092",
     "/job/Bristol-Area/Senior-Functional-Lead----Industrial-Planning-Digital-Transformation--ERP-CoE--M-F_JR10381811-1",
-    "/job/Toulouse-Area/JUNIOR-SUSTAINABILITY-OFFICER---SAF---CDR--H-F-_JR10427268-1",
-    "/job/Toulouse-Area/Technology-Specialist-Collaboration-Solutions-M-F_JR10402369-1"
+    "/job/Toulouse-Area/JUNIOR-SUSTAINABILITY-OFFICER---SAF---CDR--H-F-_JR10427268-1"
   ],
   "Safran CDI": [
     "179800",
@@ -68,7 +68,6 @@
     "179691",
     "183003",
     "184158",
-    "183761",
     "180751",
     "176435",
     "183745",
@@ -85,7 +84,6 @@
     "184631",
     "163286",
     "181375",
-    "184269",
     "171952",
     "184399",
     "181197",
@@ -107,8 +105,8 @@
     "163278"
   ],
   "Naval Group": [
-    "53709",
     "53704",
+    "53709",
     "53708",
     "53329",
     "49974",
@@ -236,7 +234,6 @@
     "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
-    "/job/Tianjin-Area/VIE-2026--HR-Transversal-Management--m-f-_JR10396273",
     "/job/Bristol-Area/VIE-2026-United-Kingdom-Transfers-of-Work-and-Business-Improvement-Manager_JR10402512",
     "/job/Lodz/VIE-2026---Poland---Stress-Engineer-H-F_JR10410140",
     "/job/Donauwrth/VIE-for-Design-Management-System--d-f-m-_JR10395508",
