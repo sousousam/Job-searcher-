@@ -1,15 +1,37 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-03T19:56",
+  "generatedAt": "2026-08-04T08:58",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
-      "title": "Space Systems Schedule Deployment & Unified Planning Leader",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
+      "id": "/job/Toulouse-Area/JUNIOR-SUSTAINABILITY-OFFICER---SAF---CDR--H-F-_JR10427268-1",
+      "title": "JUNIOR SUSTAINABILITY OFFICER - SAF & CDR (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/JUNIOR-SUSTAINABILITY-OFFICER---SAF---CDR--H-F-_JR10427268-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
+      "date": "Offre publiée il y a 6 jours",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Technology-Specialist-Collaboration-Solutions-M-F_JR10402369-1",
+      "title": "Technology Specialist Collaboration Solutions M/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Technology-Specialist-Collaboration-Solutions-M-F_JR10402369-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée il y a 7 jours",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Test-Management-Product-Owner--m-f-_JR10393682-1",
+      "title": "Test Management Product Owner (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Test-Management-Product-Owner--m-f-_JR10393682-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée il y a 7 jours",
       "source": "Airbus CDI",
       "is_new": true
     }
