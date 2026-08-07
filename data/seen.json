@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/XMLNAME--Join-the-Finance-Management-Program-at-Airbus--f-m-_JR10423980",
+    "/job/Toulouse-Area/Principal-Product-Manager-for-Skywise-Core-for-Airlines_JR10434434-1",
+    "/job/Toulouse-Area/SKYWISE-Customer-Success-Manager_JR10434666",
+    "/job/Toulouse---Saint-Martin/Line-balancing-Expert_JR10425180-1",
     "/job/Toulouse-Area/Business-Digital-leader-of-Strategic-Sourcing-Solutions--F-M-_JR10425806",
     "/job/Toulouse-Area/Airbus-UpNext---Flight-Test-Coordinator--m-f-_JR10434633",
     "/job/Toulouse-Area/Digital---Business-Architect---ERP-Transformation--H-M-_JR10427585",
@@ -35,11 +39,7 @@
     "/job/Toulouse-Area/XMLNAME-3DEXperience-Transverse-Architect-M-F_JR10381206",
     "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Mcanique-Conception-d-outillages-de-maintenance-sur-Hlicoptre--f-h-_JR10432287",
     "/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
-    "/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
-    "/job/Toulouse-Area/ERP-Solution-manager---Migration-strategist---M-F_JR10419280",
-    "/job/Toulouse-Area/ERP-Logistics-Manager-M-F_JR10403330-1",
-    "/job/Toulouse-Area/Airbus-Protect---CDD-Local-Facility-Manager--All-Gender-_JR10433835",
-    "/job/Toulouse-Area/Quality-Line-Side-Inspecteurs-Qualit---Customer-Line--H-F-_JR10122566"
+    "/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1"
   ],
   "Safran CDI": [],
   "Naval Group": [
@@ -62,7 +62,6 @@
     "51327",
     "53835",
     "52457",
-    "52823",
     "53446",
     "53765",
     "52417",
@@ -176,7 +175,7 @@
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
     "/job/Bristol-Area/VIE-2026-United-Kingdom-Transfers-of-Work-and-Business-Improvement-Manager_JR10402512",
-    "/job/Lodz/VIE-2026---Poland---Stress-Engineer-H-F_JR10410140",
+    "JR10410140",
     "/job/Donauwrth/VIE-for-Design-Management-System--d-f-m-_JR10395508",
     "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896",
     "/job/Donauwrth/VIE-Connected-Services-Expert--d-f-m-_JR10399174"
