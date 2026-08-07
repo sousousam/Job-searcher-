@@ -1,44 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-07T13:13",
+  "generatedAt": "2026-08-07T19:15",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/XMLNAME--Join-the-Finance-Management-Program-at-Airbus--f-m-_JR10423980",
-      "title": "#Rejoignez le Finance Management Program d'Airbus (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/XMLNAME--Join-the-Finance-Management-Program-at-Airbus--f-m-_JR10423980",
-      "company": "Airbus",
-      "location": "3 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Principal-Product-Manager-for-Skywise-Core-for-Airlines_JR10434434-1",
-      "title": "Principal Product Manager for Skywise Core for Airlines",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Principal-Product-Manager-for-Skywise-Core-for-Airlines_JR10434434-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/SKYWISE-Customer-Success-Manager_JR10434666",
-      "title": "SKYWISE Customer Success Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/SKYWISE-Customer-Success-Manager_JR10434666",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse---Saint-Martin/Line-balancing-Expert_JR10425180-1",
-      "title": "Line balancing Expert",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse---Saint-Martin/Line-balancing-Expert_JR10425180-1",
+      "id": "/job/Paris-Area/IAM-Operations-Specialist--M-F-_JR10423328-1",
+      "title": "IAM Operations Specialist (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Paris-Area/IAM-Operations-Specialist--M-F-_JR10423328-1",
       "company": "Airbus",
       "location": "2 sites",
       "contract": "CDI",
@@ -47,23 +14,45 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "JR10410140",
-      "title": "",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus",
+      "id": "/job/Toulouse-Area/Ingnieur-dploiement-intgration-SATCOM---h-f-_JR10396862",
+      "title": "Ingénieur déploiement intégration SATCOM  (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-dploiement-intgration-SATCOM---h-f-_JR10396862",
       "company": "Airbus",
-      "location": "",
-      "contract": "VIE",
-      "date": "",
-      "source": "Airbus VIE",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Technicien-ne--opration-drone--tlpilote---F-H-_JR10418149",
+      "title": "Technicien(ne) opération drone (télépilote) (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Technicien-ne--opration-drone--tlpilote---F-H-_JR10418149",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Airbus-UpNext--Human-Resources-Business-Partner--m-f-_JR10434777-1",
+      "title": "Airbus UpNext: Human Resources Business Partner (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext--Human-Resources-Business-Partner--m-f-_JR10434777-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
-    "Naval Group": 125,
+    "Naval Group": 124,
     "VIE": 0,
-    "Airbus VIE": 8,
+    "Airbus VIE": 7,
     "Safran VIE": 0
   }
 };
