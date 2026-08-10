@@ -1,5 +1,6 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/ARP-Release-Train-Engineer-M-F---ART-USA_JR10401633-1",
     "/job/Paris-Area/IAM-Operations-Specialist--M-F-_JR10423328-1",
     "/job/Toulouse-Area/Ingnieur-dploiement-intgration-SATCOM---h-f-_JR10396862",
     "/job/Marseille-Area/Technicien-ne--opration-drone--tlpilote---F-H-_JR10418149",
@@ -17,7 +18,6 @@
     "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
     "/job/Toulouse-Area/Supplier-Development-Manager_JR10396737-1",
     "/job/Toulouse-Area/A320-Family-Programme-Procurement-New-Development-Manager--M-F-_JR10425901",
-    "JR10425070",
     "/job/Toulouse-Area/Conformity---Attestation-SAP-IT-Architect--d-m-f-_JR10430720",
     "/job/Toulouse-Area/Surveillance-and-POA-compliance-manager--m-f-_JR10393162-1",
     "/job/Toulouse-Area/Coordinateur-d-Activits-Qualit-Transverse_JR10426689",
@@ -31,7 +31,6 @@
     "/job/Marseille-Area/Technical-Maintenance-Analyst--H-F-_JR10434170",
     "/job/Marseille-Area/Avionic-System-Design-Responsible--H-F-_JR10295288-1",
     "/job/Marseille-Area/Airbus-Protect---Obsolescence-Case-Manager----All-Gender-_JR10434161",
-    "/job/Toulouse-Area/Space-Systems-Schedule-Deployment---Unified-Planning-Leader_JR10431095-1",
     "/job/Toulouse-Area/Cabin---Cargo-Mechanical-Equipment--M-F----In-Service-Engineering_JR10406970-1",
     "/job/Toulouse-Area/Responsable-des-services-de-transport--H-F-_JR10425479-1",
     "/job/Toulouse-Area/Airbus-Protect---Acheteur-se----All-Gender_JR10431270",
@@ -39,7 +38,8 @@
     "/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
     "/job/Toulouse-Area/Testia-SAS---Assistante-Ressources-Humaines--H-F----Toulouse_JR10425958",
     "/job/Toulouse-Area/Technicien-Essai-H-F_JR10194245",
-    "/job/Toulouse-Area/XMLNAME-3DEXperience-Transverse-Architect-M-F_JR10381206"
+    "/job/Toulouse-Area/XMLNAME-3DEXperience-Transverse-Architect-M-F_JR10381206",
+    "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Mcanique-Conception-d-outillages-de-maintenance-sur-Hlicoptre--f-h-_JR10432287"
   ],
   "Safran CDI": [],
   "Naval Group": [
