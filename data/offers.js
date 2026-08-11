@@ -1,27 +1,71 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-11T07:31",
+  "generatedAt": "2026-08-11T13:14",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
-      "title": "#Propulsion - Pylon Engineering Continuous Development- Design Structure experienced Engineer - (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
+      "id": "/job/Toulouse-Area/Business-Analyst---Performance---Advanced-Analytics--NGSA---m-f-_JR10425082-1",
+      "title": "Business Analyst - Performance & Advanced Analytics (NGSA) (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Business-Analyst---Performance---Advanced-Analytics--NGSA---m-f-_JR10425082-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée il y a 9 jours",
+      "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "53849",
-      "title": "CDI - Acheteur prestations intellectuelles et développement logiciel - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-acheteur-prestations-intellectuelles-et-developpement-logiciel-h-f-_53849.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "id": "/job/Toulouse-Area/Lead-Supply-Officer--m-f-_JR10409238-1",
+      "title": "Lead Supply Officer (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Lead-Supply-Officer--m-f-_JR10409238-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/ATR---Apprenticeship---Aerostructure-buyer_JR10434982",
+      "title": "ATR - Apprenticeship - Aerostructure buyer",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ATR---Apprenticeship---Aerostructure-buyer_JR10434982",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Head-of-Airbus-Group-Aviation-Insurance-m-f_JR10404268-1",
+      "title": "Responsable Groupe Assurance Aéronautique (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Head-of-Airbus-Group-Aviation-Insurance-m-f_JR10404268-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Blagnac---Wings-Campus/FS-Logistics-Quality-Manager_JR10426476",
+      "title": "FS Logistics Quality Manager (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Blagnac---Wings-Campus/FS-Logistics-Quality-Manager_JR10426476",
+      "company": "Airbus",
+      "location": "Blagnac - Wings Campus",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Senior-Purchasing-Manager-Fasteners--m-f-_JR10430689",
+      "title": "Senior Purchasing Manager Fasteners (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Senior-Purchasing-Manager-Fasteners--m-f-_JR10430689",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
       "is_new": true
     }
   ],
