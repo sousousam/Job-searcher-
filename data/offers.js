@@ -1,69 +1,36 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-10T19:16",
+  "generatedAt": "2026-08-11T07:31",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Export-Control-Compliance-Manager_JR10430117",
-      "title": "JR10430129 Responsable Conformité en matière de Contrôle des Exportations Junior - France (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Export-Control-Compliance-Manager_JR10430117",
+      "id": "/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
+      "title": "#Propulsion - Pylon Engineering Continuous Development- Design Structure experienced Engineer - (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Conception-Structure--f-h-_JR10408831",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
+      "date": "Offre publiée il y a 9 jours",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Export-Control-Compliance-Manager--F-M-_JR10430129",
-      "title": "Responsable Conformité en matière de Contrôle des Exportations - France (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Export-Control-Compliance-Manager--F-M-_JR10430129",
-      "company": "Airbus",
-      "location": "Toulouse Area",
+      "id": "53849",
+      "title": "CDI - Acheteur prestations intellectuelles et développement logiciel - H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-acheteur-prestations-intellectuelles-et-developpement-logiciel-h-f-_53849.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Testia-SAS---Responsable-Assurance-Qualit-Produit----H-F-----Toulouse_JR10426622",
-      "title": "Testia SAS - Responsable Assurance Qualité Produit - (H/F)  - Toulouse",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Responsable-Assurance-Qualit-Produit----H-F-----Toulouse_JR10426622",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Transport---Logistics-Performance-and-Data-Manager---f-m-_JR10434757-1",
-      "title": "Transport & Logistics Performance and Data Manager​ (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Transport---Logistics-Performance-and-Data-Manager---f-m-_JR10434757-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Business-Analyst-IAM--f-h-_JR10378268",
-      "title": "Business Analyst IAM (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Business-Analyst-IAM--f-h-_JR10378268",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
+      "date": "",
+      "source": "Naval Group",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
-    "Naval Group": 124,
+    "Naval Group": 125,
     "VIE": 0,
-    "Airbus VIE": 7,
+    "Airbus VIE": 6,
     "Safran VIE": 0
   }
 };
