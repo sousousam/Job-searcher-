@@ -1,23 +1,25 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Handling-Qualities-Engineer--m-f-_JR10432335-1",
+    "/job/Toulouse-Area/Spcialiste-IT-en-OT--Technologies-Oprationnelles---f-h-_JR10423876-1",
+    "/job/Toulouse-Area/Certification-Specialist--m-f-_JR10424633-1",
+    "/job/Toulouse-Area/WideBody-Development-Prevention-Manager-M-F_JR10426120",
+    "/job/Toulouse-Area/Flight-Control-Laws-designer--f-m-_JR10431697",
     "/job/Toulouse-Area/Responsable-Qualit-Customer-Line---Manager-QFP----all-genders--_JR10431453",
     "/job/Toulouse-Area/Cabin-FAL-Interface-OSS-Manager_JR10410401-1",
     "/job/Toulouse-Area/Embedded---Simulation-Software-Architect-Engineer--f-m_JR10426081-1",
-    "/job/Toulouse-Area/Flight-Control-Laws-designer--f-m-_JR10431697",
     "/job/Toulouse-Area/Customer-Services----Production-Interface-Engineer--m-f-d-_JR10421884",
     "/job/Toulouse-Area/FHS----Inventory--Account-manager--F-H-_JR10423183",
     "/job/Marseille-Area/Architecte-Cyberscurit-d-entreprise-Senior----H-F-_JR10377416",
     "/job/Marseille-Area/Airbus-Protect---Ingnieur-Safety-Aronautique----All-Gender-_JR10435086",
     "/job/Blagnac---Wings-Campus/Buyer-for-Customer-Services-of-STC-Solutions-H-F_JR10429732",
     "/job/Blagnac---Wings-Campus/Buyer-for-Aftersales-H-F_JR10430359-1",
-    "/job/Toulouse-Area/Business-and-Digital-Operations---Improvement--M-F-_JR10431921-1",
     "/job/Toulouse-Area/Data-Product-Specialist-F-M_JR10425078",
     "/job/Toulouse-Area/Business-Analyst---Performance---Advanced-Analytics--NGSA---m-f-_JR10425082-1",
     "/job/Toulouse-Area/ATR---Apprenticeship---Aerostructure-buyer_JR10434982",
     "/job/Toulouse-Area/Head-of-Airbus-Group-Aviation-Insurance-m-f_JR10404268-1",
     "/job/Blagnac---Wings-Campus/FS-Logistics-Quality-Manager_JR10426476",
     "/job/Toulouse-Area/Senior-Purchasing-Manager-Fasteners--m-f-_JR10430689",
-    "/job/Toulouse-Area/Export-Control-Compliance-Manager_JR10430117",
     "/job/Toulouse-Area/Export-Control-Compliance-Manager--F-M-_JR10430129",
     "/job/Toulouse-Area/Testia-SAS---Responsable-Assurance-Qualit-Produit----H-F-----Toulouse_JR10426622",
     "/job/Toulouse-Area/Transport---Logistics-Performance-and-Data-Manager---f-m-_JR10434757-1",
@@ -37,9 +39,7 @@
     "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
     "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
     "/job/Toulouse-Area/Supplier-Development-Manager_JR10396737-1",
-    "/job/Toulouse-Area/A320-Family-Programme-Procurement-New-Development-Manager--M-F-_JR10425901",
-    "/job/Toulouse-Area/Conformity---Attestation-SAP-IT-Architect--d-m-f-_JR10430720",
-    "/job/Toulouse-Area/Surveillance-and-POA-compliance-manager--m-f-_JR10393162-1"
+    "/job/Toulouse-Area/A320-Family-Programme-Procurement-New-Development-Manager--M-F-_JR10425901"
   ],
   "Safran CDI": [],
   "Naval Group": [
@@ -175,8 +175,7 @@
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
     "/job/Bristol-Area/VIE-2026-United-Kingdom-Transfers-of-Work-and-Business-Improvement-Manager_JR10402512",
-    "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896",
-    "/job/Donauwrth/VIE-Connected-Services-Expert--d-f-m-_JR10399174"
+    "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896"
   ],
   "Safran VIE": []
 }
