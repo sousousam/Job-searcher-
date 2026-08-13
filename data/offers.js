@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-13T13:19",
+  "generatedAt": "2026-08-13T19:21",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Support-Technique-Green-Cabin-FAL-A350--F-H-_JR10418800",
-      "title": "Support Technique Green/Cabin FAL A350 (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Support-Technique-Green-Cabin-FAL-A350--F-H-_JR10418800",
+      "id": "/job/Toulouse-Area/Repair-Program-Manager--F-H-_JR10425788",
+      "title": "Repair Program Manager (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Repair-Program-Manager--F-H-_JR10425788",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Ingnieur-e--Systmes-Effets-lectromagntiques--h-f-_JR10385589",
-      "title": "Ingénieur(e) Systèmes Effets Électromagnétiques (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-e--Systmes-Effets-lectromagntiques--h-f-_JR10385589",
+      "id": "/job/Toulouse-Area/Airbus-UpNext---Project-Manager-Support--m-f-_JR10435441",
+      "title": "Airbus UpNext - Project Manager Support (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Project-Manager-Support--m-f-_JR10435441",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,25 +25,14 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Support-Technique-CUP-FAL-A350--F-H-_JR10418808",
-      "title": "Support Technique CUP FAL A350 (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Support-Technique-CUP-FAL-A350--F-H-_JR10418808",
+      "id": "/job/Toulouse-Area/SA---LR---Fuselage-Structure-In-Service-Customer-Support---Fatigue---DT-Engineer-on-NCF--m-f-_JR10378381",
+      "title": "SA & LR - Fuselage Structure In-Service Customer Support - Fatigue & DT Engineer on NCF (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/SA---LR---Fuselage-Structure-In-Service-Customer-Support---Fatigue---DT-Engineer-on-NCF--m-f-_JR10378381",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Fort-Erie/VIE-2026---Canada---Material-Support---Logistics-project-manager---H-F_JR10417984",
-      "title": "VIE 2026 - Canada - Material Support & Logistics project manager - H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Fort-Erie/VIE-2026---Canada---Material-Support---Logistics-project-manager---H-F_JR10417984",
-      "company": "Airbus",
-      "location": "Fort Erie",
-      "contract": "VIE",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus VIE",
       "is_new": true
     }
   ],
