@@ -1,7 +1,19 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-12T19:21",
+  "generatedAt": "2026-08-13T07:55",
   "firstRun": false,
-  "new": [],
+  "new": [
+    {
+      "id": "/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
+      "title": "H/F - Customer Care Centre - Customer Support Engineer (ATA24 - ATA33-4x)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    }
+  ],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,

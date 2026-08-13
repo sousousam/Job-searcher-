@@ -1,5 +1,6 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
     "/job/Toulouse-Area/Handling-Qualities-Engineer--m-f-_JR10432335-1",
     "/job/Toulouse-Area/Spcialiste-IT-en-OT--Technologies-Oprationnelles---f-h-_JR10423876-1",
     "/job/Toulouse-Area/Certification-Specialist--m-f-_JR10424633-1",
@@ -38,11 +39,11 @@
     "/job/Toulouse-Area/XMLNAME-3DX-Release-Manager--M-F-_JR10406089",
     "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
     "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
-    "/job/Toulouse-Area/Supplier-Development-Manager_JR10396737-1",
-    "/job/Toulouse-Area/A320-Family-Programme-Procurement-New-Development-Manager--M-F-_JR10425901"
+    "/job/Toulouse-Area/Supplier-Development-Manager_JR10396737-1"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "53220",
     "49974",
     "53704",
     "53446",
@@ -75,7 +76,6 @@
     "53765",
     "53521",
     "53452",
-    "53220",
     "53420",
     "53768",
     "53724",
