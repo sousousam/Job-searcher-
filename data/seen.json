@@ -1,5 +1,8 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Support-Technique-Green-Cabin-FAL-A350--F-H-_JR10418800",
+    "/job/Toulouse-Area/Ingnieur-e--Systmes-Effets-lectromagntiques--h-f-_JR10385589",
+    "/job/Toulouse-Area/Support-Technique-CUP-FAL-A350--F-H-_JR10418808",
     "/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
     "/job/Toulouse-Area/Handling-Qualities-Engineer--m-f-_JR10432335-1",
     "/job/Toulouse-Area/Spcialiste-IT-en-OT--Technologies-Oprationnelles---f-h-_JR10423876-1",
@@ -26,7 +29,6 @@
     "/job/Toulouse-Area/Transport---Logistics-Performance-and-Data-Manager---f-m-_JR10434757-1",
     "/job/Toulouse-Area/Business-Analyst-IAM--f-h-_JR10378268",
     "/job/Toulouse-Area/ARP-Release-Train-Engineer-M-F---ART-USA_JR10401633-1",
-    "/job/Paris-Area/IAM-Operations-Specialist--M-F-_JR10423328-1",
     "/job/Toulouse-Area/Ingnieur-dploiement-intgration-SATCOM---h-f-_JR10396862",
     "/job/Toulouse-Area/Airbus-UpNext--Human-Resources-Business-Partner--m-f-_JR10434777-1",
     "/job/Toulouse-Area/Principal-Product-Manager-for-Skywise-Core-for-Airlines_JR10434434-1",
@@ -37,9 +39,7 @@
     "/job/Toulouse-Area/Digital---Business-Architect---ERP-Transformation--H-M-_JR10427585",
     "/job/Toulouse-Area/Head-Of-Digital-Software-Engineering-M-F_JR10386665-1",
     "/job/Toulouse-Area/XMLNAME-3DX-Release-Manager--M-F-_JR10406089",
-    "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
-    "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
-    "/job/Toulouse-Area/Supplier-Development-Manager_JR10396737-1"
+    "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531"
   ],
   "Safran CDI": [],
   "Naval Group": [
@@ -171,6 +171,7 @@
   ],
   "VIE": [],
   "Airbus VIE": [
+    "/job/Fort-Erie/VIE-2026---Canada---Material-Support---Logistics-project-manager---H-F_JR10417984",
     "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
     "/job/Trento/VIE-2026-Italy-Aeronautical-Compliance---SMS-Support-H-F_JR10410615",
     "/job/Lodz/VIE-2026-Poland-H-F-ingnieur-amnagement-intrieur_JR10408330",
