@@ -1,33 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-13T19:21",
+  "generatedAt": "2026-08-14T07:52",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Repair-Program-Manager--F-H-_JR10425788",
-      "title": "Repair Program Manager (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Repair-Program-Manager--F-H-_JR10425788",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Airbus-UpNext---Project-Manager-Support--m-f-_JR10435441",
-      "title": "Airbus UpNext - Project Manager Support (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Project-Manager-Support--m-f-_JR10435441",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/SA---LR---Fuselage-Structure-In-Service-Customer-Support---Fatigue---DT-Engineer-on-NCF--m-f-_JR10378381",
-      "title": "SA & LR - Fuselage Structure In-Service Customer Support - Fatigue & DT Engineer on NCF (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/SA---LR---Fuselage-Structure-In-Service-Customer-Support---Fatigue---DT-Engineer-on-NCF--m-f-_JR10378381",
+      "id": "/job/Toulouse-Area/Lead-Supply-Officer--m-f-_JR10409238-1",
+      "title": "Lead Supply Officer (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Lead-Supply-Officer--m-f-_JR10409238-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
