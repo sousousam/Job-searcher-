@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-14T07:52",
+  "generatedAt": "2026-08-14T13:15",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Lead-Supply-Officer--m-f-_JR10409238-1",
-      "title": "Lead Supply Officer (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Lead-Supply-Officer--m-f-_JR10409238-1",
+      "id": "/job/Toulouse-Area/Category-Buyer-for-Systems-Engineering--m-f-_JR10430275-1",
+      "title": "Acheteur de catégorie pour l'ingénierie (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Category-Buyer-for-Systems-Engineering--m-f-_JR10430275-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
