@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-18T12:54",
+  "generatedAt": "2026-08-18T18:57",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/H-F-POA-Requirements-Management_JR10426134-1",
-      "title": "H/F POA Requirements Management",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/H-F-POA-Requirements-Management_JR10426134-1",
+      "id": "/job/Toulouse-Area/ATR---Lighting---Cabin-Systems-Specialist--h-f-_JR10421358-2",
+      "title": "ATR - Lighting & Cabin Systems Specialist (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ATR---Lighting---Cabin-Systems-Specialist--h-f-_JR10421358-2",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,9 +14,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Supply-Officer-M-F_JR10416480-1",
-      "title": "Supply Officer M/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Supply-Officer-M-F_JR10416480-1",
+      "id": "/job/Hamburg-Area/Toolchain-Standards---AI-Manager---M-F-D_JR10425441",
+      "title": "Toolchain Standards & AI Manager - M/F/D",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Hamburg-Area/Toolchain-Standards---AI-Manager---M-F-D_JR10425441",
+      "company": "Airbus",
+      "location": "2 sites",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
+      "title": "Airbus UpNext – Flight Control Actuator Specialist (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,9 +36,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/WB-Customer-Acceptance-Quality-Manager--all-gender-_JR10392077",
-      "title": "Airbus Protect - WB Customer Acceptance Quality Manager (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/WB-Customer-Acceptance-Quality-Manager--all-gender-_JR10392077",
+      "id": "/job/Toulouse-Area/Application-Manager-for-SE_JR10426904",
+      "title": "Application Manager for SE",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Application-Manager-for-SE_JR10426904",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,9 +47,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Airbus-Protect---Ingnieure-Qualit-Production--all-gender-_JR10414555",
-      "title": "Airbus Protect - Ingénieur(e) Qualité Production (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---Ingnieure-Qualit-Production--all-gender-_JR10414555",
+      "id": "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
+      "title": "Airbus UpNext – Flight Control System Designer (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -47,58 +58,14 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Ground-Segment-Engineer--m-f-_JR10435170",
-      "title": "Ground Segment Engineer (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ground-Segment-Engineer--m-f-_JR10435170",
+      "id": "/job/Toulouse-Area/H-F-FAL-A330-Leader-Plants-Coordination_JR10404702-1",
+      "title": "H/F FAL A330 Leader Plants Coordination",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/H-F-FAL-A330-Leader-Plants-Coordination_JR10404702-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Embedded-Software-Development-Engineer--f-m-_JR10418104-1",
-      "title": "Ingénieur Logiciel Embarqué (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Embedded-Software-Development-Engineer--f-m-_JR10418104-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Earth-Observation-Ground-Segment-Maintenance-Engineer--m-f-_JR10435417",
-      "title": "Earth Observation Ground Segment Maintenance Engineer (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Earth-Observation-Ground-Segment-Maintenance-Engineer--m-f-_JR10435417",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "53609",
-      "title": "CDI - Responsable Management des Opérations - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-management-des-operations-h-f_53609.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "51151",
-      "title": "Chef de projet confirmé en Cybersécurité - F/H",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-chef-de-projet-confirme-en-cybersecurite-f-h_51151.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
       "is_new": true
     }
   ],
