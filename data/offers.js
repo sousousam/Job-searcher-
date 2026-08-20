@@ -1,15 +1,59 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-20T07:10",
+  "generatedAt": "2026-08-20T12:58",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Responsable-Qualit-Customer-Line---Manager-QFP----all-genders--_JR10431453",
-      "title": "Responsable Qualité Customer Line / Manager QFP  ( all genders )",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Responsable-Qualit-Customer-Line---Manager-QFP----all-genders--_JR10431453",
+      "id": "/job/Toulouse-Area/Application-Manager-for-SE_JR10426904",
+      "title": "Application Manager for SE",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Application-Manager-for-SE_JR10426904",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
-      "date": "Offre publiée il y a 9 jours",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse---Palays/Ingnieur-e--Infrastructure-IT-Securise---Administrateur-e--Systme-et-Reseau--m-f-_JR10433979",
+      "title": "Ingénieur(e) Infrastructure IT Securisée - Administrateur(e) Système et Reseau (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse---Palays/Ingnieur-e--Infrastructure-IT-Securise---Administrateur-e--Systme-et-Reseau--m-f-_JR10433979",
+      "company": "Airbus",
+      "location": "Toulouse - Palays",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Junior-Data-Scientist---AI-engineer---m-w-d--in-the-field-of-Data-Processing---Analytics_JR10433316",
+      "title": "Junior Data Scientist / AI engineer  (m/w/d) in the field of Data Processing & Analytics",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Junior-Data-Scientist---AI-engineer---m-w-d--in-the-field-of-Data-Processing---Analytics_JR10433316",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Blagnac-Airbus-Protect/Project-Manager-Cyber-Toulouse--H-F-_JR10431588",
+      "title": "Project Manager Cyber Toulouse (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Blagnac-Airbus-Protect/Project-Manager-Cyber-Toulouse--H-F-_JR10431588",
+      "company": "Airbus",
+      "location": "Blagnac (Airbus Protect)",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/AI-Software-Developer--M-F-_JR10432748-1",
+      "title": "AI Software Developer (M,F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AI-Software-Developer--M-F-_JR10432748-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     }
