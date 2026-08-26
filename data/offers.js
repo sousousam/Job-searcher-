@@ -1,33 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-26T13:00",
+  "generatedAt": "2026-08-26T20:02",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/MRO-Repair-Vendor-Performance-Manager--m-f-_JR10432438",
-      "title": "MRO Repair Vendor Performance Manager (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/MRO-Repair-Vendor-Performance-Manager--m-f-_JR10432438",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Architecte-lectrique--F-H-_JR10418144",
-      "title": "Responsable UAS Intégration Électrique & EWIS (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Architecte-lectrique--F-H-_JR10418144",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Digital--Data---AI-Transformation-Lead-for-Materials---Parts-Procurement--F-M-_JR10430004",
-      "title": "Digital, Data & AI Transformation Lead for Materials & Parts Procurement (F/M)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital--Data---AI-Transformation-Lead-for-Materials---Parts-Procurement--F-M-_JR10430004",
+      "id": "/job/Toulouse-Area/Airbus-Atlantic---Inspecteur-Qualit---Quality-Line-Side--All-Gender-_JR10427441-1",
+      "title": "Airbus Atlantic - Inspecteur Qualité - Quality Line Side (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---Inspecteur-Qualit---Quality-Line-Side--All-Gender-_JR10427441-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,20 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Paris-Area/Ingnieur-Transmission-et-Stations-Sol-de-Communication-par-Satellite--h-f-_JR10398641-1",
-      "title": "Ingénieur Transmission et Stations Sol de Communication par Satellite (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Paris-Area/Ingnieur-Transmission-et-Stations-Sol-de-Communication-par-Satellite--h-f-_JR10398641-1",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Airbus-Atlantic---HSE-Local-Oprationnel--All-gender-_JR10424741",
-      "title": "Airbus Atlantic - HSE Local Opérationnel (All gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---HSE-Local-Oprationnel--All-gender-_JR10424741",
+      "id": "/job/Toulouse-Area/Airbus-Atlantic---Responsable-Conformit-POA-MOA---Production---Maintenance-Organisational-Approval----Reprsentant-dlgu-SMS--Safety-Management-System----All-Gender-_JR10428729",
+      "title": "Airbus Atlantic - Responsable Conformité POA/MOA  (Production / Maintenance Organisation Approval) & Représentant délégué SMS (Safety Management System)  (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---Responsable-Conformit-POA-MOA---Production---Maintenance-Organisational-Approval----Reprsentant-dlgu-SMS--Safety-Management-System----All-Gender-_JR10428729",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -58,9 +25,31 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Digital-Project-Portfolio-Manager--M-F-_JR10418221",
-      "title": "Digital Project Portfolio Manager (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital-Project-Portfolio-Manager--M-F-_JR10418221",
+      "id": "/job/Marseille-Area/Instructeur-trice--hlicoptres--f-h-_JR10404843-1",
+      "title": "Instructeur(trice) hélicoptères TKI (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Instructeur-trice--hlicoptres--f-h-_JR10404843-1",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Vendor-Support-Manager-H-F_JR10427227-1",
+      "title": "Vendor Support Manager H/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Vendor-Support-Manager-H-F_JR10427227-1",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Testia-SAS---Alternante-en-Comptabilit--H-F----Toulouse_JR10437333",
+      "title": "Testia SAS – Alternant.e en Comptabilité (H/F) – Toulouse",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Alternante-en-Comptabilit--H-F----Toulouse_JR10437333",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -69,9 +58,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Ingnieur-systme-FCS--F-H-_JR10431992",
-      "title": "Ingénieur conduite et contrôle du vol drone (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Ingnieur-systme-FCS--F-H-_JR10431992",
+      "id": "/job/Marseille-Area/Virtual-Desktop-Infrastructure-Technology--VDI--Specialist--h-f-_JR10437219",
+      "title": "Virtual Desktop Infrastructure Technology (VDI) Specialist (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Virtual-Desktop-Infrastructure-Technology--VDI--Specialist--h-f-_JR10437219",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -80,53 +69,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/XMLNAME--ET19-Ingnieur-Expriment-en-Militarisation--F-H-_JR10378897",
-      "title": "#ET19 Ingénieur Confirmé en Furtivité Radar et SER (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET19-Ingnieur-Expriment-en-Militarisation--F-H-_JR10378897",
+      "id": "/job/Toulouse-Area/Testia-SAS---Stage-Comptabilit--H-F----Toulouse_JR10437292",
+      "title": "Testia SAS – Stage Comptabilité (H/F) – Toulouse",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Stage-Comptabilit--H-F----Toulouse_JR10437292",
       "company": "Airbus",
-      "location": "Marseille Area",
+      "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "186380",
-      "title": "Chef-fe de groupe Marques Industrielles Propulseurs F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/toulouse/chef-fe-groupe-marques-industrielles-propulseurs-fh-186380",
-      "company": "Safran",
-      "location": "",
-      "contract": "CDI",
-      "date": "",
-      "source": "Safran CDI",
-      "is_new": true
-    },
-    {
-      "id": "186371",
-      "title": "Ajusteur équilibreur F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/toulouse/ajusteur-equilibreur-fh-186371",
-      "company": "Safran",
-      "location": "",
-      "contract": "CDI",
-      "date": "",
-      "source": "Safran CDI",
-      "is_new": true
-    },
-    {
-      "id": "181556",
-      "title": "Ingénieur-e Recherche et Technologies F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/blagnac/ingenieur-recherche-technologies-fh-181556",
-      "company": "Safran",
-      "location": "",
-      "contract": "CDI",
-      "date": "",
-      "source": "Safran CDI",
-      "is_new": true
-    },
-    {
-      "id": "186435",
-      "title": "Coordinateur-rice Supply Chain F-H",
-      "url": "https://www.safran-group.com/fr/offres/france/toulouse/coordinateur-rice-supply-chain-fh-186435",
+      "id": "183691",
+      "title": "Contrôleur de gestion Consolidation & Reporting Division F-H",
+      "url": "https://www.safran-group.com/fr/offres/france/blagnac/controleur-gestion-consolidation-reporting-division-fh-183691",
       "company": "Safran",
       "location": "",
       "contract": "CDI",
@@ -137,10 +93,10 @@ window.OFFERS = {
   ],
   "counts": {
     "Airbus CDI": 40,
-    "Safran CDI": 65,
+    "Safran CDI": 66,
     "Naval Group": 126,
     "VIE": 0,
-    "Airbus VIE": 5,
+    "Airbus VIE": 4,
     "Safran VIE": 14
   }
 };
