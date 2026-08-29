@@ -1,13 +1,13 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-29T16:26",
+  "generatedAt": "2026-08-29T20:58",
   "firstRun": false,
   "new": [],
   "counts": {
     "Airbus CDI": 40,
-    "Safran CDI": 77,
+    "Safran CDI": 0,
     "Naval Group": 128,
     "VIE": 0,
     "Airbus VIE": 3,
-    "Safran VIE": 16
+    "Safran VIE": 0
   }
 };
