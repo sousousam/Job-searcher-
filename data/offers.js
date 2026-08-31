@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-08-31T13:42",
+  "generatedAt": "2026-08-31T19:00",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/Supplier-Development-Management--H-F-_JR10371833-1",
-      "title": "Supplier Development Management (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Supplier-Development-Management--H-F-_JR10371833-1",
+      "id": "/job/Marseille-Area/Aircraft-Technical-Services-PMO-F-H_JR10427531-1",
+      "title": "Aircraft Technical Services PMO F/H",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Aircraft-Technical-Services-PMO-F-H_JR10427531-1",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -14,20 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Project-Leader---Industrial---Customization-center_JR10432623-1",
-      "title": "Project Leader - Industrial & Customization center",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Project-Leader---Industrial---Customization-center_JR10432623-1",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Testia-SAS---Ingnieur-en-Contrle-Non-Destructif---UT-et-ET--H-F----Toulouse_JR10437938",
-      "title": "Testia SAS - Ingénieur en Contrôle Non Destructif - UT et ET (H/F) – Toulouse",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Ingnieur-en-Contrle-Non-Destructif---UT-et-ET--H-F----Toulouse_JR10437938",
+      "id": "/job/Toulouse-Area/Airbus-Protect---Export-Control-Officer---Data-Protection-Manager--All-Gender-_JR10434380-1",
+      "title": "Airbus Protect - Export Control Officer & Data Protection Manager (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---Export-Control-Officer---Data-Protection-Manager--All-Gender-_JR10434380-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,9 +25,42 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "53890",
-      "title": "CDI - Responsable Ingénierie Système et Intégration/Vérification/Validation/Qualification (IVVQ) - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-ingenierie-systeme-et-integration-verification-validation-qualification-ivvq-h-f_53890.aspx",
+      "id": "/job/Toulouse-Area/Helicopters-Certification---Qualification-Engineer--M-F-_JR10370459-1",
+      "title": "Helicopters Certification & Qualification Engineer (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Helicopters-Certification---Qualification-Engineer--M-F-_JR10370459-1",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/XMLNAME--CORE-Enterprise-Architect--M-F-_JR10393976-1",
+      "title": "#DIGITAL CAMPUS - Enterprise Architect (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--CORE-Enterprise-Architect--M-F-_JR10393976-1",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Blagnac---Wings-Campus/Procurement-manager-Cockpit-Systems--Avionics-Platforms---Connectivity--M-F-_JR10433353-1",
+      "title": "Procurement manager Cockpit Systems, Avionics Platforms & Connectivity (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Blagnac---Wings-Campus/Procurement-manager-Cockpit-Systems--Avionics-Platforms---Connectivity--M-F-_JR10433353-1",
+      "company": "Airbus",
+      "location": "Blagnac - Wings Campus",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "53891",
+      "title": "CDI – Responsable développement calculs scientifiques/simulations - H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-developpement-calculs-scientifiques-simulations-h-f_53891.aspx",
       "company": "Naval Group",
       "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
