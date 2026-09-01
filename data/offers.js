@@ -1,33 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-09-01T11:41",
+  "generatedAt": "2026-09-01T16:19",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/SENIOR-LEGAL-COUNSEL-FOR-MERGERS---ACQUISITIONS--M-F-_JR10423882-1",
-      "title": "Juriste senior en fusions et acquisitions (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/SENIOR-LEGAL-COUNSEL-FOR-MERGERS---ACQUISITIONS--M-F-_JR10423882-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Operations-modelling-project-Manager--F-M-_JR10404965",
-      "title": "Supply Chain Project Manager (F/M)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Operations-modelling-project-Manager--F-M-_JR10404965",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Industrial-Architect-for-H160M-Development-m-f_JR10425001-1",
-      "title": "Industrial Architect for H160M Development m/f",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Industrial-Architect-for-H160M-Development-m-f_JR10425001-1",
+      "id": "/job/Marseille-Area/XMLNAME--ET19A-Responsable-Dveloppement-Systmes-lectroniques-Complexes--F-H-_JR10400105",
+      "title": "Ingénieur expérimenté en électronique aéronautique (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET19A-Responsable-Dveloppement-Systmes-lectroniques-Complexes--F-H-_JR10400105",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -36,20 +14,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Testia-SAS---Oprateur-de-Production----H-F----Toulouse_JR10438198",
-      "title": "Testia SAS – Opérateur de Production - (H/F) – Toulouse",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Testia-SAS---Oprateur-de-Production----H-F----Toulouse_JR10438198",
+      "id": "/job/Salaunes/Stage-Peintre-Aro---Oprateur-trice--matriau-composite-H-F_JR10438249",
+      "title": "Stage Peintre Aéro / Opérateur(trice) matériau composite H/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Salaunes/Stage-Peintre-Aro---Oprateur-trice--matriau-composite-H-F_JR10438249",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "Salaunes",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/AGGP2027---Graduate-Airbus-Helicopters-Support---Services-Strategy---Transformation-Specialist_JR10428580",
-      "title": "AGGP2027 – Graduate Airbus Helicopters Support & Services Strategy & Transformation Specialist",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/AGGP2027---Graduate-Airbus-Helicopters-Support---Services-Strategy---Transformation-Specialist_JR10428580",
+      "id": "/job/Marseille-Area/Technical-Maintenance-Analyst--H-F-_JR10434170",
+      "title": "Technical Maintenance Analyst (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Technical-Maintenance-Analyst--H-F-_JR10434170",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -58,64 +36,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/AGGP2027---Graduate-Customer-Acceptance-Manager_JR10427331",
-      "title": "AGGP2027 – Graduate Customer Acceptance Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Customer-Acceptance-Manager_JR10427331",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/AGGP2027---Graduate-Financial-Controller_JR10428940",
-      "title": "AGGP2027 - Graduate Financial Controller",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Financial-Controller_JR10428940",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/AGGP2027---Graduate-Intelligence-Analyst_JR10428842",
-      "title": "AGGP2027 – Graduate Intelligence Analyst",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Intelligence-Analyst_JR10428842",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/AGGP2027---Graduate-Junior-Sustainability-Officer---Sustainable-Aviation-Fuel_JR10427701",
-      "title": "AGGP2027 – Graduate Junior Sustainability Officer - Sustainable Aviation Fuel",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Junior-Sustainability-Officer---Sustainable-Aviation-Fuel_JR10427701",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/AGGP2027---Graduate-Program-in-Quality-Department_JR10432249",
-      "title": "AGGP2027 – Graduate Program in Quality Department",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Program-in-Quality-Department_JR10432249",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/AGGP2027---Graduate-Support---Services-Business---Program-performance-manager_JR10427544",
-      "title": "AGGP2027 – Graduate Support & Services Business & Program performance manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/AGGP2027---Graduate-Support---Services-Business---Program-performance-manager_JR10427544",
+      "id": "/job/Marseille-Area/Ingnieur-conception-systme-de-navigation--F-H-_JR10438371-1",
+      "title": "Ingénieur conception système de navigation (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Ingnieur-conception-systme-de-navigation--F-H-_JR10438371-1",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -124,25 +47,47 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/AGGP2027---Graduated-Geospatial-Sales-Manager_JR10428865",
-      "title": "AGGP2027 - Graduated Geospatial Sales Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduated-Geospatial-Sales-Manager_JR10428865",
+      "id": "/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
+      "title": "National Security Program Leader (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "Marseille Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/AGGP2027-Graduate-Technical-Data-Wiring-Engineer_JR10428311",
-      "title": "AGGP2027 - Graduate Technical Data Wiring Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027-Graduate-Technical-Data-Wiring-Engineer_JR10428311",
+      "id": "/job/Marseille-Area/Head-Of-Quality-Procurement-Processes--H-F-_JR10405318",
+      "title": "Head Of Quality Procurement Processes (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Head-Of-Quality-Procurement-Processes--H-F-_JR10405318",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "Marseille Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/XMLNAME--ET21-Responsable-Conception-Fonctionnelle-et-Systmes---Systmes-Radar-et-Surveillance--F-H-_JR10432398",
+      "title": "Responsable de conception fonctionnelle et système pour les systèmes radar et de surveillance (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET21-Responsable-Conception-Fonctionnelle-et-Systmes---Systmes-Radar-et-Surveillance--F-H-_JR10432398",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
+      "title": "VIE - Data Analyst/Data Scientist within production (d/f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
+      "company": "Airbus",
+      "location": "Donauwörth",
+      "contract": "VIE",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus VIE",
       "is_new": true
     }
   ],
@@ -151,7 +96,7 @@ window.OFFERS = {
     "Safran CDI": 0,
     "Naval Group": 127,
     "VIE": 0,
-    "Airbus VIE": 3,
+    "Airbus VIE": 4,
     "Safran VIE": 0
   }
 };
