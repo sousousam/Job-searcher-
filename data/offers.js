@@ -1,22 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-09-02T11:17",
+  "generatedAt": "2026-09-02T16:15",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/FWC---IFCC-Module-Integration-Manager_JR10407192",
-      "title": "Responsable de l'intégration du module FWC & IFCC",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/FWC---IFCC-Module-Integration-Manager_JR10407192",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
-      "title": "#ET20R Ingénieur développement CND Aéronautique - Niveau 2 et 3 (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
+      "id": "/job/Marseille-Area/XMLNAME--ET18-Transmission-System-Stress-Engineer--m-f-_JR10421180-2",
+      "title": "Ingénieur Calcul Système de Transmission (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET18-Transmission-System-Stress-Engineer--m-f-_JR10421180-2",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -25,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Support-Local-de-Scurit--SLS---F-H-_JR10410561-1",
-      "title": "Support Local de Sécurité (SLS) (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Support-Local-de-Scurit--SLS---F-H-_JR10410561-1",
+      "id": "/job/Toulouse-Area/Project---Improvement-Leader--m-f-_JR10430753",
+      "title": "Responsable projets Amélioration Continue f/h",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Project---Improvement-Leader--m-f-_JR10430753",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,20 +25,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/XMLNAME--ET19A-EMC-Test-Engineer---Engineering-Ground-Test-on-Aircraft--F-M-_JR10360475",
-      "title": "#ET19A EMC Test Engineer - Engineering Ground Test on Aircraft (F/M)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET19A-EMC-Test-Engineer---Engineering-Ground-Test-on-Aircraft--F-M-_JR10360475",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Chauffeure-de-direction-H-F---Executive-driver-M-F_JR10433507",
-      "title": "Chauffeur.e de direction H/F / Executive driver M/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Chauffeure-de-direction-H-F---Executive-driver-M-F_JR10433507",
+      "id": "/job/Toulouse-Area/Transport-Service-Manager-France-M-F_JR10429906",
+      "title": "Transport Service Manager France M/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Transport-Service-Manager-France-M-F_JR10429906",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -58,9 +36,42 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/M-F-Tech-Data-Delivery-Ecosystem-Leader_JR10387459",
-      "title": "Tech Data Delivery Ecosystem Leader - H/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/M-F-Tech-Data-Delivery-Ecosystem-Leader_JR10387459",
+      "id": "/job/Marseille-Area/Ajusteur-Composite--H-F-_JR10428993",
+      "title": "Ajusteur Composite (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Ajusteur-Composite--H-F-_JR10428993",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Ajusteur-Composite--H-F-_JR10433337",
+      "title": "Ajusteur Composite (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Ajusteur-Composite--H-F-_JR10433337",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Agent-d-Etude-du-Travail-Pice-lmentaire-Tlerie-Composite_JR10438012",
+      "title": "Agent d'Etude du Travail Pièce élémentaire Tôlerie/Composite",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Agent-d-Etude-du-Travail-Pice-lmentaire-Tlerie-Composite_JR10438012",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Supplier-Quality-Specialist--f-m--Spcialiste-Qualit-Fournisseur--f-h-_JR10430546",
+      "title": "Spécialiste Qualité Fournisseur (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Supplier-Quality-Specialist--f-m--Spcialiste-Qualit-Fournisseur--f-h-_JR10430546",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -69,42 +80,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Promoteur-Oprationnel---segment-Combat-sur-hlicoptres-militaires--H-F-_JR10432351",
-      "title": "Promoteur Opérationnel / segment Combat sur hélicoptères militaires (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Promoteur-Oprationnel---segment-Combat-sur-hlicoptres-militaires--H-F-_JR10432351",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Business-Analyst-Logistics--H-F-_JR10435072",
-      "title": "Business Analyst Logistics (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Business-Analyst-Logistics--H-F-_JR10435072",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/XMLNAME--ET20A-Flight-Test-Instrumentation--FTI--Project-Manager-h-f_JR10414125",
-      "title": "#ET20A Flight Test Instrumentation (FTI) Project Manager h/f",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20A-Flight-Test-Instrumentation--FTI--Project-Manager-h-f_JR10414125",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Architecte-Cyberscurit-d-Entreprise-Senior--H-F-_JR10372935-1",
-      "title": "Airbus Protect - Architecte Cybersécurité d'Entreprise Senior - Toulouse (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Architecte-Cyberscurit-d-Entreprise-Senior--H-F-_JR10372935-1",
+      "id": "/job/Toulouse-Area/SE-MBSE-Capabilities-Leader--m-f-_JR10432034",
+      "title": "Leader Capabilities SE/MBSE (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/SE-MBSE-Capabilities-Leader--m-f-_JR10432034",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -113,31 +91,86 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Blagnac-Airbus-Protect/Airbus-Protect-Architecte-Cyberscurit-Produit--All-Gender-_JR10415996",
-      "title": "Airbus Protect Architecte Cybersécurité Produit (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Blagnac-Airbus-Protect/Airbus-Protect-Architecte-Cyberscurit-Produit--All-Gender-_JR10415996",
+      "id": "/job/Toulouse-Area/XMLNAME-1AFSK6---Experienced-Metal-Static-Engineer--M-F-_JR10360157-1",
+      "title": "1AFSK6 - Experienced Metal Static Engineer (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/XMLNAME-1AFSK6---Experienced-Metal-Static-Engineer--M-F-_JR10360157-1",
       "company": "Airbus",
-      "location": "Blagnac (Airbus Protect)",
+      "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "53965",
-      "title": "Electronicien",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-electronicien_53965.aspx",
+      "id": "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Essais-Laboratoire-Matriaux-Metalliques--f-h-_JR10431829",
+      "title": "#ET20A Ingénieur Essais Laboratoire Matériaux Metalliques (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Essais-Laboratoire-Matriaux-Metalliques--f-h-_JR10431829",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/AGGP2027---Graduate-Purchasing-Manager--buyer--in-Equipment-and-System_JR10428554",
+      "title": "AGGP2027 – Graduate Purchasing Manager (buyer) in Equipment and System",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Purchasing-Manager--buyer--in-Equipment-and-System_JR10428554",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Senior-Purchasing-Manager-Fasteners--m-f-_JR10430689",
+      "title": "Acheteur Équipements / Fasteners Senior (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Senior-Purchasing-Manager-Fasteners--m-f-_JR10430689",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "53900",
+      "title": "CDI - Architecte Système - H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-architecte-systeme-h-f_53900.aspx",
       "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
       "date": "",
       "source": "Naval Group",
       "is_new": true
     },
     {
-      "id": "53990",
-      "title": "Technicien planificateur ATM3 PACDG H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-technicien-planificateur-atm3-pacdg-h-f_53990.aspx",
+      "id": "53757",
+      "title": "CDI – Responsable développement logiciel frameworks H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-developpement-logiciel-frameworks-h-f_53757.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "contract": "CDI",
+      "date": "",
+      "source": "Naval Group",
+      "is_new": true
+    },
+    {
+      "id": "53742",
+      "title": "CDI - Ingénieur Système Détection Sous-Marine (H/F)",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-ingenieur-systeme-detection-sous-marine-h-f-_53742.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "contract": "CDI",
+      "date": "",
+      "source": "Naval Group",
+      "is_new": true
+    },
+    {
+      "id": "53905",
+      "title": "CDI - Responsable Gestion de Configuration H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-gestion-de-configuration-h-f_53905.aspx",
       "company": "Naval Group",
       "location": "Europe, France, Provence-Cote d'Azur, Toulon",
       "contract": "CDI",
@@ -149,7 +182,7 @@ window.OFFERS = {
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
-    "Naval Group": 129,
+    "Naval Group": 132,
     "VIE": 0,
     "Airbus VIE": 4,
     "Safran VIE": 0
