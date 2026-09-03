@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/Reprsentant-e--Assistance-technique-missions-courtes-licenci-e--B2--H-F-_JR10419925-2",
+    "/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
+    "/job/Marseille-Area/Design-Integration-Process--DIP--Business-Experienced-Analyst--m-f-_JR10410918-1",
+    "/job/Marseille-Area/EC-175-Rotor-System-Design-Engineer--m-f-_JR10418228-1",
     "/job/Toulouse-Area/Airbus-Atlantic---Ajusteur-Monteur-aronautique-OSW--All-gender-_JR10244064",
     "/job/Toulouse-Area/IM-Cybersecurity-Internal-Auditor-F-M_JR10437961",
     "/job/Toulouse-Area/Digital--Data---AI-Transformation-Lead-for-Materials---Parts-Procurement--F-M-_JR10430004",
@@ -35,14 +39,11 @@
     "/job/Marseille-Area/Ingnieur-conception-systme-de-navigation--F-H-_JR10438371-1",
     "/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
     "/job/Marseille-Area/Head-Of-Quality-Procurement-Processes--H-F-_JR10405318",
-    "/job/Marseille-Area/XMLNAME--ET21-Responsable-Conception-Fonctionnelle-et-Systmes---Systmes-Radar-et-Surveillance--F-H-_JR10432398",
-    "/job/Toulouse-Area/SENIOR-LEGAL-COUNSEL-FOR-MERGERS---ACQUISITIONS--M-F-_JR10423882-1",
-    "/job/Toulouse-Area/Operations-modelling-project-Manager--F-M-_JR10404965",
-    "/job/Marseille-Area/Industrial-Architect-for-H160M-Development-m-f_JR10425001-1",
-    "/job/Toulouse-Area/Testia-SAS---Oprateur-de-Production----H-F----Toulouse_JR10438198"
+    "/job/Marseille-Area/XMLNAME--ET21-Responsable-Conception-Fonctionnelle-et-Systmes---Systmes-Radar-et-Surveillance--F-H-_JR10432398"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "52861",
     "53989",
     "53895",
     "53900",
@@ -59,7 +60,6 @@
     "53508",
     "53220",
     "53891",
-    "52861",
     "53446",
     "53264",
     "53890",
@@ -160,7 +160,6 @@
     "52810",
     "50020",
     "53215",
-    "53283",
     "53370",
     "53083",
     "52967",
@@ -172,7 +171,6 @@
     "51484",
     "49722",
     "52914",
-    "52130",
     "51908",
     "49627",
     "49814"
@@ -180,7 +178,6 @@
   "VIE": [],
   "Airbus VIE": [
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
-    "/job/Montreal-Area/VIE-2026---CANADA---Prparateur-Mthodes--All-Gender-_JR10403915",
     "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
     "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896"
   ],

@@ -1,11 +1,22 @@
 window.OFFERS = {
-  "generatedAt": "2026-09-03T11:14",
+  "generatedAt": "2026-09-03T16:03",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Airbus-Atlantic---Ajusteur-Monteur-aronautique-OSW--All-gender-_JR10244064",
-      "title": "Airbus Atlantic - Mécanicien Structure Aéronautique (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---Ajusteur-Monteur-aronautique-OSW--All-gender-_JR10244064",
+      "id": "/job/Marseille-Area/Reprsentant-e--Assistance-technique-missions-courtes-licenci-e--B2--H-F-_JR10419925-2",
+      "title": "Représentant(e) Assistance technique missions courtes licencié(e) B2 (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Reprsentant-e--Assistance-technique-missions-courtes-licenci-e--B2--H-F-_JR10419925-2",
+      "company": "Airbus",
+      "location": "Marseille Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
+      "title": "H/F - Customer Care Centre - Customer Support Engineer (ATA24 - ATA33-4x)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,67 +25,34 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/IM-Cybersecurity-Internal-Auditor-F-M_JR10437961",
-      "title": "Auditeur(trice) Interne en Systèmes Informatiques et Cybersécurité/ (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/IM-Cybersecurity-Internal-Auditor-F-M_JR10437961",
+      "id": "/job/Marseille-Area/Design-Integration-Process--DIP--Business-Experienced-Analyst--m-f-_JR10410918-1",
+      "title": "Design Integration Process (DIP) Business Experienced Analyst (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Design-Integration-Process--DIP--Business-Experienced-Analyst--m-f-_JR10410918-1",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "Marseille Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Digital--Data---AI-Transformation-Lead-for-Materials---Parts-Procurement--F-M-_JR10430004",
-      "title": "Procurement Business Lead - Digital & Innovation (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital--Data---AI-Transformation-Lead-for-Materials---Parts-Procurement--F-M-_JR10430004",
+      "id": "/job/Marseille-Area/EC-175-Rotor-System-Design-Engineer--m-f-_JR10418228-1",
+      "title": "Ingénieur Conception Système Dynamique Rotor (H/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/EC-175-Rotor-System-Design-Engineer--m-f-_JR10418228-1",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "Marseille Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Airbus-Protect---Ingnieur-e--Qualit-Production--All-Gender-_JR10437016",
-      "title": "Airbus Protect - Ingénieur(e) Qualité Production (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---Ingnieur-e--Qualit-Production--All-Gender-_JR10437016",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "53989",
-      "title": "CDI - Responsable Qualité Clients plateforme - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-qualite-clients-plateforme-h-f_53989.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "53895",
-      "title": "Ingénieur Prévention Nucléaire d'ensemble chaufferies PACDG - C1.1 H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-ingenieur-prevention-nucleaire-d-ensemble-chaufferies-pacdg-c1-1-h-f_53895.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
-    "Naval Group": 133,
+    "Naval Group": 131,
     "VIE": 0,
-    "Airbus VIE": 4,
+    "Airbus VIE": 3,
     "Safran VIE": 0
   }
 };
