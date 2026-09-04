@@ -1,8 +1,15 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/SAP-Procurement-Business-Analyst--f-m-d-_JR10428545",
+    "/job/Toulouse-Area/Airbus-Atlantic---Tax-Manager--All-Gender-_JR10438400-1",
+    "/job/Toulouse-Area/Senior-Business-Analyst---SE--MBSE---AI--f-m-d-_JR10428113",
+    "/job/Toulouse-Area/Technical-Sales-Support---Environment-Solutions--M-F-_JR10422372",
+    "/job/Toulouse-Area/Senior-Internal-Strategy-Consultant-F-M_JR10424136",
+    "/job/Marseille-Area/Financial-Analyst---Cost-Accounting--f-m-_JR10428507",
+    "/job/Marseille-Area/Financial-analyst--f-m-_JR10438442",
+    "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
     "/job/Marseille-Area/Finance-Transformation-Specialist---Reporting---Planning--f-m-_JR10411788-1",
     "/job/Toulouse-Area/Supply-Chain-Quality-Specialist--m-f-_JR10428654",
-    "/job/Toulouse-Area/Technical-Sales-Support---Environment-Solutions--M-F-_JR10422372",
     "/job/Marseille-Area/Digital---AI-transformation-manager_JR10430375-1",
     "/job/Marseille-Area/XMLNAME-3DX-Elementary-Parts-Specialist_JR10424841-1",
     "/job/Marseille-Area/Reprsentant-e--Assistance-technique-missions-courtes-licenci-e--B2--H-F-_JR10419925-2",
@@ -26,23 +33,18 @@
     "/job/Toulouse-Area/XMLNAME-1AFSK6---Experienced-Metal-Static-Engineer--M-F-_JR10360157-1",
     "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-Essais-Laboratoire-Matriaux-Metalliques--f-h-_JR10431829",
     "/job/Toulouse-Area/AGGP2027---Graduate-Purchasing-Manager--buyer--in-Equipment-and-System_JR10428554",
-    "/job/Toulouse-Area/Senior-Purchasing-Manager-Fasteners--m-f-_JR10430689",
     "/job/Toulouse-Area/FWC---IFCC-Module-Integration-Manager_JR10407192",
     "/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
     "/job/Toulouse-Area/Support-Local-de-Scurit--SLS---F-H-_JR10410561-1",
     "/job/Marseille-Area/XMLNAME--ET19A-EMC-Test-Engineer---Engineering-Ground-Test-on-Aircraft--F-M-_JR10360475",
     "/job/Toulouse-Area/Chauffeure-de-direction-H-F---Executive-driver-M-F_JR10433507",
     "/job/Toulouse-Area/M-F-Tech-Data-Delivery-Ecosystem-Leader_JR10387459",
-    "/job/Marseille-Area/Promoteur-Oprationnel---segment-Combat-sur-hlicoptres-militaires--H-F-_JR10432351",
-    "/job/Marseille-Area/Business-Analyst-Logistics--H-F-_JR10435072",
-    "/job/Toulouse-Area/Architecte-Cyberscurit-d-Entreprise-Senior--H-F-_JR10372935-1",
-    "/job/Blagnac-Airbus-Protect/Airbus-Protect-Architecte-Cyberscurit-Produit--All-Gender-_JR10415996",
-    "/job/Marseille-Area/XMLNAME--ET19A-Responsable-Dveloppement-Systmes-lectroniques-Complexes--F-H-_JR10400105",
-    "/job/Salaunes/Stage-Peintre-Aro---Oprateur-trice--matriau-composite-H-F_JR10438249",
-    "/job/Marseille-Area/Technical-Maintenance-Analyst--H-F-_JR10434170"
+    "/job/Marseille-Area/Promoteur-Oprationnel---segment-Combat-sur-hlicoptres-militaires--H-F-_JR10432351"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "53526",
+    "53503",
     "52861",
     "53895",
     "53900",
@@ -84,7 +86,6 @@
     "53746",
     "52858",
     "52414",
-    "53526",
     "53860",
     "53270",
     "52729",
@@ -177,7 +178,6 @@
   "VIE": [],
   "Airbus VIE": [
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
-    "JR10402748",
     "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896"
   ],
   "Safran VIE": []

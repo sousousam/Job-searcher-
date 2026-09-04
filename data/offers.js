@@ -1,22 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-09-04T11:16",
+  "generatedAt": "2026-09-04T16:02",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Marseille-Area/Finance-Transformation-Specialist---Reporting---Planning--f-m-_JR10411788-1",
-      "title": "Finance Transformation Specialist - Reporting & Planning (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Finance-Transformation-Specialist---Reporting---Planning--f-m-_JR10411788-1",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Supply-Chain-Quality-Specialist--m-f-_JR10428654",
-      "title": "Supply Chain Quality Specialist (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Supply-Chain-Quality-Specialist--m-f-_JR10428654",
+      "id": "/job/Toulouse-Area/SAP-Procurement-Business-Analyst--f-m-d-_JR10428545",
+      "title": "SAP Procurement Business Analyst (f/m/d)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/SAP-Procurement-Business-Analyst--f-m-d-_JR10428545",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -25,9 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Technical-Sales-Support---Environment-Solutions--M-F-_JR10422372",
-      "title": "Technical Sales Support - Environment Solutions (M,F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Technical-Sales-Support---Environment-Solutions--M-F-_JR10422372",
+      "id": "/job/Toulouse-Area/Airbus-Atlantic---Tax-Manager--All-Gender-_JR10438400-1",
+      "title": "Airbus Atlantic - Tax Manager (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---Tax-Manager--All-Gender-_JR10438400-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,9 +25,31 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Digital---AI-transformation-manager_JR10430375-1",
-      "title": "Digital & AI transformation manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Digital---AI-transformation-manager_JR10430375-1",
+      "id": "/job/Toulouse-Area/Senior-Business-Analyst---SE--MBSE---AI--f-m-d-_JR10428113",
+      "title": "Senior Business Analyst - SE, MBSE & AI (f/m/d)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Senior-Business-Analyst---SE--MBSE---AI--f-m-d-_JR10428113",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Toulouse-Area/Senior-Internal-Strategy-Consultant-F-M_JR10424136",
+      "title": "Consultant(e) senior en stratégie interne (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Senior-Internal-Strategy-Consultant-F-M_JR10424136",
+      "company": "Airbus",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "/job/Marseille-Area/Financial-Analyst---Cost-Accounting--f-m-_JR10428507",
+      "title": "Financial Analyst - Cost Accounting (f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Financial-Analyst---Cost-Accounting--f-m-_JR10428507",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -47,9 +58,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/XMLNAME-3DX-Elementary-Parts-Specialist_JR10424841-1",
-      "title": "3DX Elementary Parts Specialist",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME-3DX-Elementary-Parts-Specialist_JR10424841-1",
+      "id": "/job/Marseille-Area/Financial-analyst--f-m-_JR10438442",
+      "title": "Financial analyst (f/m)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Financial-analyst--f-m-_JR10438442",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -58,23 +69,34 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "JR10402748",
-      "title": "",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus",
+      "id": "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
+      "title": "Digital IT Product Manager for Resolve Fleet Issues",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
       "company": "Airbus",
-      "location": "",
-      "contract": "VIE",
+      "location": "Toulouse Area",
+      "contract": "CDI",
+      "date": "Offre publiée aujourd'hui",
+      "source": "Airbus CDI",
+      "is_new": true
+    },
+    {
+      "id": "53503",
+      "title": "CDI - Gestionnaire de documentation - H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-gestionnaire-de-documentation-h-f_53503.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
+      "contract": "CDI",
       "date": "",
-      "source": "Airbus VIE",
+      "source": "Naval Group",
       "is_new": true
     }
   ],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
-    "Naval Group": 130,
+    "Naval Group": 131,
     "VIE": 0,
-    "Airbus VIE": 3,
+    "Airbus VIE": 2,
     "Safran VIE": 0
   }
 };
