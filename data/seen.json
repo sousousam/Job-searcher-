@@ -1,5 +1,10 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/Finance-Transformation-Specialist---Reporting---Planning--f-m-_JR10411788-1",
+    "/job/Toulouse-Area/Supply-Chain-Quality-Specialist--m-f-_JR10428654",
+    "/job/Toulouse-Area/Technical-Sales-Support---Environment-Solutions--M-F-_JR10422372",
+    "/job/Marseille-Area/Digital---AI-transformation-manager_JR10430375-1",
+    "/job/Marseille-Area/XMLNAME-3DX-Elementary-Parts-Specialist_JR10424841-1",
     "/job/Marseille-Area/Reprsentant-e--Assistance-technique-missions-courtes-licenci-e--B2--H-F-_JR10419925-2",
     "/job/Toulouse-Area/H-F---Customer-Care-Centre---Customer-Support-Engineer--ATA24---ATA33-4x-_JR10409596-1",
     "/job/Marseille-Area/Design-Integration-Process--DIP--Business-Experienced-Analyst--m-f-_JR10410918-1",
@@ -30,21 +35,15 @@
     "/job/Toulouse-Area/M-F-Tech-Data-Delivery-Ecosystem-Leader_JR10387459",
     "/job/Marseille-Area/Promoteur-Oprationnel---segment-Combat-sur-hlicoptres-militaires--H-F-_JR10432351",
     "/job/Marseille-Area/Business-Analyst-Logistics--H-F-_JR10435072",
-    "/job/Marseille-Area/XMLNAME--ET20A-Flight-Test-Instrumentation--FTI--Project-Manager-h-f_JR10414125",
     "/job/Toulouse-Area/Architecte-Cyberscurit-d-Entreprise-Senior--H-F-_JR10372935-1",
     "/job/Blagnac-Airbus-Protect/Airbus-Protect-Architecte-Cyberscurit-Produit--All-Gender-_JR10415996",
     "/job/Marseille-Area/XMLNAME--ET19A-Responsable-Dveloppement-Systmes-lectroniques-Complexes--F-H-_JR10400105",
     "/job/Salaunes/Stage-Peintre-Aro---Oprateur-trice--matriau-composite-H-F_JR10438249",
-    "/job/Marseille-Area/Technical-Maintenance-Analyst--H-F-_JR10434170",
-    "/job/Marseille-Area/Ingnieur-conception-systme-de-navigation--F-H-_JR10438371-1",
-    "/job/Marseille-Area/National-Security-Program-Leader--M-F-_JR10432548-1",
-    "/job/Marseille-Area/Head-Of-Quality-Procurement-Processes--H-F-_JR10405318",
-    "/job/Marseille-Area/XMLNAME--ET21-Responsable-Conception-Fonctionnelle-et-Systmes---Systmes-Radar-et-Surveillance--F-H-_JR10432398"
+    "/job/Marseille-Area/Technical-Maintenance-Analyst--H-F-_JR10434170"
   ],
   "Safran CDI": [],
   "Naval Group": [
     "52861",
-    "53989",
     "53895",
     "53900",
     "53757",
@@ -178,7 +177,7 @@
   "VIE": [],
   "Airbus VIE": [
     "/job/Donauwrth/VIE---Data-Analyst-Data-Scientist-within-production--d-f-m-_JR10402656",
-    "/job/Getafe-Area/VIE-2026---Espagne---Export-control---H-F_JR10402748",
+    "JR10402748",
     "/job/Sulzbach/VIE---Germany---Project-Management-Office--M-F-D-_JR10376896"
   ],
   "Safran VIE": []
