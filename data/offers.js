@@ -1,19 +1,7 @@
 window.OFFERS = {
-  "generatedAt": "2026-09-04T20:48",
+  "generatedAt": "2026-09-05T10:37",
   "firstRun": false,
-  "new": [
-    {
-      "id": "/job/Toulouse-Area/H-F-Connectivity---Communications-System-Engineer_JR10438030-1",
-      "title": "H/F Connectivity & Communications System Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/H-F-Connectivity---Communications-System-Engineer_JR10438030-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    }
-  ],
+  "new": [],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
