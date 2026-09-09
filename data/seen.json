@@ -1,7 +1,11 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Ingnieur-Systme-ATM---H-F-_JR10403160-1",
+    "/job/Toulouse-Area/ERP-Solution-manager--S4_JR10400649-1",
+    "/job/Le-Billone/MRO-operations-Business-Analyst-H-F_JR10428256-1",
+    "/job/Toulouse-Area/Lab-test-means-components-engineer--m-f-_JR10404081-1",
+    "/job/Marseille-Area/Strategic-Business-Partner-Manager--M-F-_JR10411868",
     "/job/Toulouse-Area/Technicien-d-intgration-logiciels-d-essais-en-vol--H-F-_JR10424454-1",
-    "/job/Toulouse-Area/Ingnieur-modlisation-et-simulation-pour-la-planification-des-satellites-d-observation-de-la-Terre_JR10438331-1",
     "/job/Toulouse-Area/Structural-Analysis-Method---Tools-Leader-for-Propulsion--M-F-_JR10403306",
     "/job/Toulouse-Area/Components-loads-integrator---Engine-dynamics-Engineer--m-f-_JR10419888-1",
     "/job/Toulouse-Area/Airborne-Cyber-Security-Evaluator--m-f-_JR10433942",
@@ -35,14 +39,12 @@
     "/job/Toulouse-Area/Project-controller-CI-Space-Digital----m-f-_JR10341809",
     "/job/Marseille-Area/MRO-Logistics-Business-Improver_JR10421796-1",
     "/job/Marseille-Area/Supply-Chain-Officer-pour-kits-et-chantiers-MRO--H-F-_JR10427148-1",
-    "/job/Toulouse-Area/H-F-Connectivity---Communications-System-Engineer_JR10438030-1",
-    "/job/Toulouse-Area/Airbus-Atlantic---Tax-Manager--All-Gender-_JR10438400-1",
-    "/job/Toulouse-Area/Technical-Sales-Support---Environment-Solutions--M-F-_JR10422372",
-    "/job/Toulouse-Area/Senior-Internal-Strategy-Consultant-F-M_JR10424136",
-    "/job/Marseille-Area/Financial-Analyst---Cost-Accounting--f-m-_JR10428507"
+    "/job/Toulouse-Area/H-F-Connectivity---Communications-System-Engineer_JR10438030-1"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "53917",
+    "52861",
     "50957",
     "54043",
     "53969",
@@ -54,7 +56,6 @@
     "51195",
     "53526",
     "53503",
-    "52861",
     "53895",
     "53900",
     "53757",
