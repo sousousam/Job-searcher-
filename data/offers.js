@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-09-10T16:06",
+  "generatedAt": "2026-09-10T20:53",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Junior-Data-Analyst-and-AI-Specialist--h-f-_JR10405135-1",
-      "title": "Junior Data Analyst and AI Specialist (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Junior-Data-Analyst-and-AI-Specialist--h-f-_JR10405135-1",
+      "id": "/job/Toulouse-Area/Supply-Chain-Quality-Specialist--f-m-_JR10437654",
+      "title": "Supply Chain and Quality Specialist - NPI/ToW for detail parts (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Supply-Chain-Quality-Specialist--f-m-_JR10437654",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,20 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/STAGE-2027--Stage-en-conception-de-structure-d-hlicoptre--F-H--_JR10437799",
-      "title": "STAGE 2027  en conception de structure d’hélicoptère (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027--Stage-en-conception-de-structure-d-hlicoptre--F-H--_JR10437799",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Industrial-Means-Engineer--f-m-_JR10424200",
-      "title": "Industrial Means Engineer (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Industrial-Means-Engineer--f-m-_JR10424200",
+      "id": "/job/Toulouse-Area/Metrology-Technician--f-m-_JR10437722",
+      "title": "Correspondant Fonction Métrologie (CFM) H/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Metrology-Technician--f-m-_JR10437722",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,20 +25,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/STAGE-2027---Gouvernance-RH---Amlioration-Continue--h-f-_JR10439008",
-      "title": "STAGE 2027 - Gouvernance RH & Amélioration Continue (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027---Gouvernance-RH---Amlioration-Continue--h-f-_JR10439008",
+      "id": "/job/Le-Billone/MRO-operations-Business-Analyst-H-F_JR10428256-1",
+      "title": "MRO operations Business Analyst H/F",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Le-Billone/MRO-operations-Business-Analyst-H-F_JR10428256-1",
       "company": "Airbus",
-      "location": "Marseille Area",
+      "location": "2 sites",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Business-Data-Modeler-for-Procurement---Supply-Chain--H-F-_JR10439143",
-      "title": "Modélisateur de données métier - Achats & Chaîne logistique (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Business-Data-Modeler-for-Procurement---Supply-Chain--H-F-_JR10439143",
+      "id": "/job/Toulouse-Area/Mechanical-Analyses-and-Tests-Engineer--M-F-_JR10423217-2",
+      "title": "Mechanical Analyses and Tests Engineer (M/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Mechanical-Analyses-and-Tests-Engineer--M-F-_JR10423217-2",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -58,53 +47,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Business-Methods-Engineer---Mixed-Reality--h-f-_JR10432489-1",
-      "title": "Business Methods Engineer - Mixed Reality (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Business-Methods-Engineer---Mixed-Reality--h-f-_JR10432489-1",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/STAGE-2027-en-Ergonomie-et-Modlisation-3D-de-cockpits--H-F-_JR10437614",
-      "title": "STAGE 2027 en Ergonomie et Modélisation 3D de cockpits (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027-en-Ergonomie-et-Modlisation-3D-de-cockpits--H-F-_JR10437614",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Electricien-Monteur-Cbleur--H-F-_JR10438593",
-      "title": "Electricien Monteur Câbleur (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Electricien-Monteur-Cbleur--H-F-_JR10438593",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Approvisionneur--F-H-_JR10440687",
-      "title": "Approvisionneur (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Approvisionneur--F-H-_JR10440687",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Aircraft-performance---Flight-Test-specialist--m-f-_JR10426958",
-      "title": "Ingénieur Essais en Vol (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Aircraft-performance---Flight-Test-specialist--m-f-_JR10426958",
+      "id": "/job/Toulouse-Area/Ingnieur-e--conception---vrification-FPGA--f-h-_JR10425076",
+      "title": "Ingénieur(e) conception & vérification FPGA (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-e--conception---vrification-FPGA--f-h-_JR10425076",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
