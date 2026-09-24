@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Supply-Officer--m-f-_JR10438376",
+    "/job/Toulouse-Area/Process-Owner-Delegate-Support-for-all-Test-Means-processes--m-f-_JR10410970-1",
+    "/job/Marseille-Area/Head-of-Transformation-and-Digital-Perfo-Management--f-m-_JR10425321",
+    "/job/Toulouse-Area/Embedded-Software-Development-Engineer--f-m-_JR10434661-1",
     "/job/Toulouse-Area/STAGE-2027---Optimisation---Prospective-Supply-Chain---Audits-Tierce-partie---H-F-_JR10443590",
     "/job/Toulouse-Area/STAGE-2027---Dveloppement-d-un-outil-de-modlisation-des-manuvres-de-roulage-avion--H-F-_JR10441512",
     "/job/Marseille-Area/STAGE-2027---Stage-en-conception-d-outils-pour-les-moyens-d-essais-systmes--H-F-_JR10443316",
@@ -35,11 +39,7 @@
     "/job/Toulouse-Area/STAGE-2027---Ingnieur-Mthodes-et-industrialisation--H-F-_JR10440061",
     "/job/Toulouse-Area/Stage-2027---Systmes-Embarqus---Automatisation-Bancs-d-Essais--H-F-_JR10442902",
     "/job/Toulouse-Area/Technicien-d-essai-Flight-Test-Installation---Operations---Maintenance--H-F-_JR10430193-2",
-    "/job/Toulouse-Area/Stage-2027-Dveloppeur-Fullstack---Refonte-et-Modernisation-d-une-Solution-Mtier--H-F-_JR10441724",
-    "/job/Marseille-Area/Prparateur-industrialisation-assemblage-et-maintenance-des-ensembles-dynamiques--Rotor---Transmission--F-H_JR10389292-1",
-    "/job/Toulouse-Area/Stage-2027-en-Contrle-de-gestion--h-f-_JR10441370",
-    "/job/Toulouse-Area/STAGE-2027-Extraction-et-validation-des-donnes--l-aide-de-LLMs-and-Machine-Learning-H-F_JR10441329",
-    "/job/Toulouse-Area/Ingnieur-RadioFrquences-et-dploiement--H-F-_JR10434248"
+    "/job/Toulouse-Area/Stage-2027-Dveloppeur-Fullstack---Refonte-et-Modernisation-d-une-Solution-Mtier--H-F-_JR10441724"
   ],
   "Safran CDI": [
     "188124",
@@ -65,10 +65,10 @@
     "187220",
     "181951",
     "167400",
-    "174974",
     "176435",
     "188279",
     "188357",
+    "174974",
     "187486",
     "187724",
     "186380",
@@ -89,8 +89,8 @@
     "186374",
     "186578",
     "186382",
-    "181423",
     "183003",
+    "181423",
     "183299",
     "184885",
     "181375",
