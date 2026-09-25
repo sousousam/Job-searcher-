@@ -1,5 +1,8 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/Calcul-de-Charges-et-Vibrations-Moteur--F-H-_JR10443659",
+    "/job/Toulouse-Area/Quality-Development-Architect-for-ME--M-F--QMDT_JR10442749",
+    "/job/Toulouse-Area/Multi-Sensor-Data-Fusion-Designer--f-m-_JR10420173",
     "/job/Toulouse-Area/Stage-2027---Ingnieur---recherche-et-valuation-micro-capteur-de-pression--F-H-_JR10441574",
     "/job/Toulouse-Area/Project-Leader-Building---Construction--M-F-_JR10440893",
     "/job/Toulouse-Area/Stage-2027--Ingnieur-mecanismes-spatiaux--F-H-_JR10437449",
@@ -36,10 +39,7 @@
     "/job/Toulouse-Area/Training-Standards---Flight-Ops-Policy-Specialist---Synthetic-Flight-Instructor_JR10358725-1",
     "/job/Marseille-Area/XMLNAME--ET20A-Ingnieur-d-essais-de-support-et-de-dveloppement--f-h-_JR10427659",
     "/job/Toulouse-Area/STAGE-2027---Gestion-de-Projet-IA---Innovation-Qualit--H-F-_JR10437550",
-    "/job/Toulouse-Area/Airbus-Protect---Consultant-Risk-Cyber--All-Gender-_JR10445491",
-    "/job/Toulouse-Area/STAGE-2027---Ingnieur-certification-Aronautique-Avions-Militaires--all-gender-_JR10443145",
-    "/job/Marseille-Area/STAGE-2027---Stage-en-IA-sur-la-3DEXP--h-f-_JR10442406",
-    "/job/Toulouse-Area/Flight-Test-Instrumentation-Engineer---Gas---Particle-Sensing-Systems--m-f-_JR10421433"
+    "/job/Toulouse-Area/Airbus-Protect---Consultant-Risk-Cyber--All-Gender-_JR10445491"
   ],
   "Safran CDI": [
     "186534",
@@ -264,7 +264,6 @@
     "183701",
     "172682",
     "181224",
-    "165601",
-    "165598"
+    "165601"
   ]
 }
