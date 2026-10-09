@@ -1,11 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-10-09T13:16",
+  "generatedAt": "2026-10-09T18:12",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/STAGE-2027---Stagiaire-en-Analyse-de-Tolrancement-Gomtrique-et-Arostructures--F-H-_JR10443956",
-      "title": "Analyste tolérancement (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Stagiaire-en-Analyse-de-Tolrancement-Gomtrique-et-Arostructures--F-H-_JR10443956",
+      "id": "/job/Toulouse-Area/STAGE-2027---Calcul-de-Structure-et-Automatisation---A320--ALL-GENDER-_JR10443661",
+      "title": "STAGE 2027 – Calcul de Structure et Automatisation - A320 (ALL GENDER)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Calcul-de-Structure-et-Automatisation---A320--ALL-GENDER-_JR10443661",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -14,20 +14,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Electrical-Design-Engineer--m-f-_JR10440500",
-      "title": "Ingénieur en Intégration Électrique (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Electrical-Design-Engineer--m-f-_JR10440500",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Stage-2027---Stagiaire-en-Data-analyst---Centre-de-rparation-des-systmes-lectriques-avion--F-H-_JR10443987",
-      "title": "Stage 2027 - Stagiaire en Data analyst - Centre de réparation des systèmes électriques avion (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Data-analyst---Centre-de-rparation-des-systmes-lectriques-avion--F-H-_JR10443987",
+      "id": "/job/Toulouse-Area/Airbus-UpNext---Active-Control-Functions---Artificial-IntelIigence--m-f-_JR10439981",
+      "title": "Airbus UpNext - Active Control Functions & Artificial IntelIigence (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Active-Control-Functions---Artificial-IntelIigence--m-f-_JR10439981",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -36,9 +25,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Electromagnetic-Hazards-Lightning-Direct-Effects-Engineer--f-m-_JR10444912",
-      "title": "Ingénieur en risques électromagnétiques et effets directs de la foudre (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Electromagnetic-Hazards-Lightning-Direct-Effects-Engineer--f-m-_JR10444912",
+      "id": "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
+      "title": "Airbus UpNext – Flight Control Actuator Specialist (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Flight-Control-Actuator-Specialist--m-f-_JR10434540-1",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -47,9 +36,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/STAGE-2027-Standardisation-IA-et-intgration-dans-nos-processus-logiciels--h-f-_JR10439182",
-      "title": "STAGE 2027 Standardisation IA et intégration dans nos processus logiciels (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027-Standardisation-IA-et-intgration-dans-nos-processus-logiciels--h-f-_JR10439182",
+      "id": "/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
+      "title": "Airbus UpNext – Flight Control System Designer (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-UpNext---Flight-Control-System-Designer--m-f-_JR10434531",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -58,9 +47,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Technicien-essais-sol-H-F-SUPER-PUMA_JR10430073-2",
-      "title": "Technicien essais sol H/F SUPER PUMA",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Technicien-essais-sol-H-F-SUPER-PUMA_JR10430073-2",
+      "id": "/job/Marseille-Area/HO-Production-Outstanding-Work-SP_JR10441306",
+      "title": "HO Production Outstanding Work SP",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/HO-Production-Outstanding-Work-SP_JR10441306",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -69,20 +58,20 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/ME-Business-Methods-Engineer--f-m-_JR10447979",
-      "title": "Ingénieur Méthode ME (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ME-Business-Methods-Engineer--f-m-_JR10447979",
+      "id": "/job/Toulouse-Area/STAGE-2027---Ingnieur-Support-Logistique---Lean-Management--ALL-GENDER-_JR10446599",
+      "title": "STAGE 2027 – Ingénieur Support Logistique & Lean Management (ALL GENDER)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Ingnieur-Support-Logistique---Lean-Management--ALL-GENDER-_JR10446599",
       "company": "Airbus",
-      "location": "2 sites",
+      "location": "Toulouse Area",
       "contract": "CDI",
       "date": "Offre publiée aujourd'hui",
       "source": "Airbus CDI",
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Stage-2027---Management-de-l-Obsolescence-Proactive--All-Gender-_JR10449571",
-      "title": "Stage 2027 - Management de l'Obsolescence Proactive (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Stage-2027---Management-de-l-Obsolescence-Proactive--All-Gender-_JR10449571",
+      "id": "/job/Marseille-Area/EC-175-Rotor-System-Design-Engineer--m-f-_JR10418228-1",
+      "title": "Ingénieur Conception Système Dynamique Rotor (H/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/EC-175-Rotor-System-Design-Engineer--m-f-_JR10418228-1",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -91,9 +80,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/STAGE-2027---Spcialiste-marketing-digital--H-F-_JR10444387",
-      "title": "STAGE 2027 - Spécialiste marketing digital (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Spcialiste-marketing-digital--H-F-_JR10444387",
+      "id": "/job/Toulouse-Area/Robotics-Supervision-SW-Engineer--f-m-_JR10441182",
+      "title": "Ingénieur Supervision Robotique (f/h)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Robotics-Supervision-SW-Engineer--f-m-_JR10441182",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -102,9 +91,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Marseille-Area/Stage-2027---Amlioration-du-traitement-de-l-obsolescence--All-Gender-_JR10449565",
-      "title": "Stage 2027 - Amélioration du traitement de l'obsolescence (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Stage-2027---Amlioration-du-traitement-de-l-obsolescence--All-Gender-_JR10449565",
+      "id": "/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Maintenance-Design--F-M-_JR10390082",
+      "title": "#ET19R System Engineer for Maintenance Design (F/M)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Maintenance-Design--F-M-_JR10390082",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -113,9 +102,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Stage-2027---High-Altitude-Debris-impact--All-Gender-_JR10449550",
-      "title": "Stage 2027 - High Altitude Debris impact (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2027---High-Altitude-Debris-impact--All-Gender-_JR10449550",
+      "id": "/job/Toulouse-Area/STAGE-2027---Optimisation-des-bords-de-lignes-de-production--F-H-_JR10445725",
+      "title": "STAGE 2027 - Optimisation des bords de lignes de production (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Optimisation-des-bords-de-lignes-de-production--F-H-_JR10445725",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -124,97 +113,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Belfast/Logistics-Transformation-Product-Owner--SAP-S-4-_JR10429218",
-      "title": "Logistics Transformation Product Owner (SAP S/4)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Belfast/Logistics-Transformation-Product-Owner--SAP-S-4-_JR10429218",
-      "company": "Airbus",
-      "location": "2 sites",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse---Palays/Safety-manager---M-F-_JR10445471",
-      "title": "Safety manager​ (M/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse---Palays/Safety-manager---M-F-_JR10445471",
-      "company": "Airbus",
-      "location": "Toulouse - Palays",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Gestion-de-la-conformit-qualit--f-h-_JR10444257",
-      "title": "STAGE 2027 - Gestion de la conformité qualité (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Gestion-de-la-conformit-qualit--f-h-_JR10444257",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027-AI---Digitalisation-for-Industrial-Assets-Acquisition--F-H-_JR10444652",
-      "title": "STAGE 2027 AI & Digitalisation for Industrial Assets Acquisition (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027-AI---Digitalisation-for-Industrial-Assets-Acquisition--F-H-_JR10444652",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Support-Client-pour-les-Systmes-Avioniques--H-F--_JR10442455",
-      "title": "STAGE 2027 - Support Client pour les Systèmes Avioniques (H/F))",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Support-Client-pour-les-Systmes-Avioniques--H-F--_JR10442455",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Matriaux-et-Procds---Caractrisation-de-l-Inconel-718--F-H-_JR10448635",
-      "title": "STAGE 2027 - Matériaux et Procédés : Caractérisation de l’Inconel 718 (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Matriaux-et-Procds---Caractrisation-de-l-Inconel-718--F-H-_JR10448635",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Airbus-Atlantic---HO-Technical-Architecture-and-Platform-Engineering--All-Gender-_JR10428227",
-      "title": "Airbus Atlantic - Responsable Architecture IT (All Gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Atlantic---HO-Technical-Architecture-and-Platform-Engineering--All-Gender-_JR10428227",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Optimisation-des-plans-d-approvisionnement--h-f-_JR10445130",
-      "title": "STAGE 2027 - Optimisation des plans d'approvisionnement (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Optimisation-des-plans-d-approvisionnement--h-f-_JR10445130",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/STAGE-2027---Modernisation-des-mthodes-et-moyens-d-essais-Radar-et-Contre-mesure--F-H-_JR10444799",
-      "title": "STAGE 2027 - Modernisation des méthodes et moyens d’essais Radar et Contre mesure (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027---Modernisation-des-mthodes-et-moyens-d-essais-Radar-et-Contre-mesure--F-H-_JR10444799",
+      "id": "/job/Marseille-Area/STAGE-2027---Conception-des-systmes-lectriques--H-F-_JR10444817",
+      "title": "STAGE 2027 - Conception des systèmes électriques (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027---Conception-des-systmes-lectriques--H-F-_JR10444817",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -223,9 +124,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Acoustics-Testing---Interior-Noise---Data--H-F-_JR10437946",
-      "title": "Acoustics Testing / Interior Noise & Data (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Acoustics-Testing---Interior-Noise---Data--H-F-_JR10437946",
+      "id": "/job/Toulouse-Area/Electronic-designer-flight-test--h-f-_JR10440924",
+      "title": "Electronic designer flight test (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Electronic-designer-flight-test--h-f-_JR10440924",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -234,53 +135,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/Stages-2027--Stage-en-Qualit-Support-Client---Digitalisation--h-f-_JR10445728",
-      "title": "Stages 2027 :Stage en Qualité Support Client & Digitalisation (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stages-2027--Stage-en-Qualit-Support-Client---Digitalisation--h-f-_JR10445728",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Explicabilit-des-rseaux-de-neurones-base-sur-les-concepts--F-H-_JR10444978",
-      "title": "STAGE 2027 - Explicabilité des réseaux de neurones basée sur les concepts (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Explicabilit-des-rseaux-de-neurones-base-sur-les-concepts--F-H-_JR10444978",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Stage-2027--Support-au-Management-de-l-Innovation_JR10444418",
-      "title": "Stage 2027- Support au Management de l'Innovation",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2027--Support-au-Management-de-l-Innovation_JR10444418",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/ERP-Plant-Maintenance-Product-Owner--H-F-_JR10425016",
-      "title": "ERP Plant Maintenance Product Owner (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ERP-Plant-Maintenance-Product-Owner--H-F-_JR10425016",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
-      "title": "#ET20R Ingénieur développement CND Aéronautique - Niveau 2 et 3 (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/XMLNAME--ET20R-Ingnieur-dveloppement-CND-Aronautique---Niveau-2-et-3--f-h-_JR10431659",
+      "id": "/job/Marseille-Area/STAGE-2027---Support-et-dveloppement-ingnieur--F-H-_JR10441060",
+      "title": "STAGE 2027 - Support et développement  : Installation d'essai en vol (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027---Support-et-dveloppement-ingnieur--F-H-_JR10441060",
       "company": "Airbus",
       "location": "Marseille Area",
       "contract": "CDI",
@@ -289,9 +146,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/STAGE-2027---Ingnieur-Gnie-Industriel--F-H-_JR10442685",
-      "title": "STAGE 2027 - Ingénieur Génie Industriel (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Ingnieur-Gnie-Industriel--F-H-_JR10442685",
+      "id": "/job/Toulouse-Area/Stage-2027---Rsilience-de-la-Supply-Chain-aronautique-face-au-changement-climatique--All-Gender-_JR10449613",
+      "title": "Stage 2027 - Résilience de la Supply Chain aéronautique face au changement climatique (All Gender)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2027---Rsilience-de-la-Supply-Chain-aronautique-face-au-changement-climatique--All-Gender-_JR10449613",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
@@ -300,163 +157,9 @@ window.OFFERS = {
       "is_new": true
     },
     {
-      "id": "/job/Toulouse-Area/STAGE-2027---Chef-de-projet-Conseill-Numrique--f-h-_JR10445395",
-      "title": "STAGE 2027 - Chef de projet Conseillé Numérique (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Chef-de-projet-Conseill-Numrique--f-h-_JR10445395",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027--Stage-en-gestion-de-projet-et-conseil-numrique---Data---analytics--f-h-_JR10444732",
-      "title": "STAGE 2027 -Stage en gestion de projet et conseil numérique - Data & analytics (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027--Stage-en-gestion-de-projet-et-conseil-numrique---Data---analytics--f-h-_JR10444732",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
-      "title": "Ingénieur Navigabilité Systèmes Avioniques/Militaires (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-Navigabilit-Systmes-Avioniques-Militaires--h-f-_JR10425775",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027-----Expert-en-Analyse-de-donnes-pour-la-cabine-d-achat-aprs-vente--F-H-_JR10445579",
-      "title": "STAGE 2027 -   Expert en Analyse de données pour la cabine d'achat après-vente (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027-----Expert-en-Analyse-de-donnes-pour-la-cabine-d-achat-aprs-vente--F-H-_JR10445579",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Contrle-des-exportations--F-H-_JR10444714",
-      "title": "STAGE 2027 - Contrôle des exportations (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Contrle-des-exportations--F-H-_JR10444714",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Ingnieur-de-Validation-Systmes-Satellites--f-h-_JR10396826",
-      "title": "Ingénieur de Validation Systèmes Satellites (f/h)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Ingnieur-de-Validation-Systmes-Satellites--f-h-_JR10396826",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Bureau-d-tudes-A350---Optimisation-Structure---Gestion-des-Interfaces--ALL-GENDER-_JR10444786",
-      "title": "STAGE 2027 — Bureau d'Études A350 : Optimisation Structure & Gestion des Interfaces (ALL GENDER)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Bureau-d-tudes-A350---Optimisation-Structure---Gestion-des-Interfaces--ALL-GENDER-_JR10444786",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/Composite-Structure-Elementary-Part-Manufacturing-Engineering--H-F-_JR10437782",
-      "title": "Composite Structure Elementary Part Manufacturing Engineering (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/Composite-Structure-Elementary-Part-Manufacturing-Engineering--H-F-_JR10437782",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Marseille-Area/STAGE-2027---Stage-en--Dveloppement-d-application-mobile--H-F-_JR10441232",
-      "title": "STAGE 2027 - Stage en  Développement d'application mobile (H/F)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027---Stage-en--Dveloppement-d-application-mobile--H-F-_JR10441232",
-      "company": "Airbus",
-      "location": "Marseille Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Airbus-Protect---Architecte-Module-Intgrateur--all-gender-_JR10394895",
-      "title": "Airbus Protect - Architecte Module Intégrateur (all gender)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Airbus-Protect---Architecte-Module-Intgrateur--all-gender-_JR10394895",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
-      "title": "Digital IT Product Manager for Resolve Fleet Issues",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Digital-IT-Product-Manager-for-Resolve-Fleet-Issues_JR10406167-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "54345",
-      "title": "CDI – Responsable Intégration Vérification Validation CMS - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-integration-verification-validation-cms-h-f_54345.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "54192",
-      "title": "CDI - Contrôleur de gestion lots de programmes systèmes - H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-controleur-de-gestion-lots-de-programmes-systemes-h-f-_54192.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "49974",
-      "title": "CDI - Technicien Méthodes Industrialisation Electricité H/F",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-technicien-methodes-industrialisation-electricite-h-f-_49974.aspx",
-      "company": "Naval Group",
-      "location": "Europe, France, Provence-Cote d'Azur, Toulon",
-      "contract": "CDI",
-      "date": "",
-      "source": "Naval Group",
-      "is_new": true
-    },
-    {
-      "id": "54701",
-      "title": "CDI - Chef de projet expérimenté développement logiciel (H/F)",
-      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-chef-de-projet-experimente-developpement-logiciel-h-f-_54701.aspx",
+      "id": "54506",
+      "title": "CDI - Architecte Logiciel - H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-architecte-logiciel-h-f_54506.aspx",
       "company": "Naval Group",
       "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
@@ -468,7 +171,7 @@ window.OFFERS = {
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
-    "Naval Group": 134,
+    "Naval Group": 135,
     "VIE": 0,
     "Airbus VIE": 1,
     "Safran VIE": 0
