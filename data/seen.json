@@ -1,5 +1,9 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/STAGE-2027---Modlisation-des-interfaces-lectriques-d-un-aronef-pour-la-Simulation-foudre--F-H-_JR10445372",
+    "/job/Marseille-Area/Sub-System-Responsible-Hydraulic-and-Flight-Control--M-F-_JR10437476",
+    "/job/Toulouse-Area/STAGE-2027-AI---Digitalisation-for-Industrial-Assets-Acquisition--F-H-_JR10444652",
+    "/job/Toulouse-Area/Customer---Department-Assistant-A320-Family-Acceptance---Delivery--F-M-_JR10439416",
     "/job/Toulouse-Area/Stage-2027-Bureau-d-tude---Modlisation-fonctionnelle-des-calculateurs-d-instruments-spatiaux--h-f-_JR10445345",
     "/job/Toulouse-Area/Avionics-System-Designer--f-m-_JR10450003",
     "/job/Toulouse-Area/STAGE-2027---Artificial-Intelligence-and-Digital-Workplace-Product-Developer---M-F-_JR10444995",
@@ -35,15 +39,10 @@
     "/job/Marseille-Area/XMLNAME---Internship---Offer-Evaluation-digitalization---Finance-BI-Analyst--m-f--_JR10443902",
     "/job/Salaunes/H-F-Stagiaire-Production-Aronautique_JR10448960",
     "/job/Toulouse-Area/Lead-Supply-Officer--F-M-_JR10443444-1",
-    "/job/Toulouse-Area/STAGE-2027---Amlioration-de-la-performance-visuelle-et-structurelle-de-la-FAL-A350--f-h-_JR10445898",
-    "/job/Marseille-Area/Stage-2027--Charg-e--de-digitalisation-et-support-technique--h-f-_JR10443232",
-    "/job/Toulouse-Area/Principal-Product-Manager_JR10401890",
-    "/job/Toulouse-Area/System-Safety-Engineer--d-f-m-_JR10379473",
-    "/job/Marseille-Area/STAGE-2027---Optimisation-de-la-certification-des-modifications-systmes-avioniques--h-f-_JR10441355"
+    "/job/Toulouse-Area/STAGE-2027---Amlioration-de-la-performance-visuelle-et-structurelle-de-la-FAL-A350--f-h-_JR10445898"
   ],
   "Safran CDI": [],
   "Naval Group": [
-    "51908",
     "54554",
     "53840",
     "54777",
@@ -176,7 +175,9 @@
     "51059",
     "53417",
     "53356",
-    "53112"
+    "53112",
+    "53108",
+    "53338"
   ],
   "VIE": [],
   "Airbus VIE": [
