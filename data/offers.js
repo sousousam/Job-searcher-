@@ -1,19 +1,7 @@
 window.OFFERS = {
-  "generatedAt": "2026-10-18T11:03",
+  "generatedAt": "2026-10-18T15:39",
   "firstRun": false,
-  "new": [
-    {
-      "id": "/job/Toulouse-Area/ATR---Internship---Flight-Data-Analysis-and-IA_JR10450784",
-      "title": "ATR - Internship - Flight Data Analysis and IA",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/ATR---Internship---Flight-Data-Analysis-and-IA_JR10450784",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée il y a 2 jours",
-      "source": "Airbus CDI",
-      "is_new": true
-    }
-  ],
+  "new": [],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
