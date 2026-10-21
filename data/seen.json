@@ -1,5 +1,12 @@
 {
   "Airbus CDI": [
+    "/job/Toulouse-Area/STAGE-2027-Consultant-Junior-Transformation-Digitale---Change-Management--NowAssist----h-f-_JR10444401",
+    "/job/Toulouse-Area/Stage-2027---Support-Stratgie---Gouvernance-Cyber--h-f-_JR10445158",
+    "/job/Toulouse-Area/Stage-2027---Ingnieur-Assemblage-Assist-par-la-Mesure--h-f-_JR10445795",
+    "/job/Toulouse-Area/STAGE-2027---Ingnieur-Industriel---Data-Analytics---BI--h-f-_JR10443666",
+    "/job/Toulouse-Area/STAGE-2027---Gestion-des-Donnes---Optimisation-des-Processus---Implmentation-des-MOD-Widebody--h-f-_JR10444748",
+    "/job/Toulouse-Area/Lead-Software-Developer--f-m-_JR10435122",
+    "/job/Toulouse-Area/Flight-Physics-MDAO-Developer--f-m-_JR10438568",
     "/job/Toulouse-Area/Concepteur-Systmes-Commande-de-Vol--f-h-_JR10446844",
     "/job/Toulouse-Area/stage-2027---PMTD-Leader---Ingnieur-Digitalisation---Amlioration-Continue--H-F-_JR10444647",
     "/job/Toulouse-Area/Primary-Flight-Control-System-Designer--f-h-_JR10446989",
@@ -32,17 +39,11 @@
     "/job/Marseille-Area/XMLNAME--ET22---Senior-AI---Engineering-Transformation-Lead--h-f-_JR10451530",
     "/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Maintenance-Design--F-M-_JR10390082",
     "/job/Marseille-Area/XMLNAME--ET22R-Industrial-Work-Package-Responsible--f-h-_JR10433089",
-    "/job/Marseille-Area/Information-Security-Manager-System-Manager--f-m-_JR10441295",
-    "/job/Toulouse-Area/STAGE-2027--Stage-Ingnieur-e--en-technologie-d-assemblage-de-cartes-lectronique--F-H-_JR10444207",
-    "/job/Toulouse-Area/Early-Career---Embedded-Software-Engineer--m-f-_JR10434088",
-    "/job/Toulouse-Area/STAGE-2027---IA-Physique---Cobotique--f-h-_JR10442506",
-    "/job/Toulouse-Area/Aftermarket---Supplier-Support-Manager---Cabin---Cargo-M-F_JR10427797",
-    "/job/Toulouse-Area/Primary-Flight-Control-System-Designer--m-f-_JR10423719",
-    "/job/Toulouse-Area/FWC---IFCC-Module-Integration-Manager_JR10407192",
-    "/job/Toulouse-Area/STAGE-2027---Stage-en-valuation-et-Analyse-Structurale-d-Architectures-Composites-Avances--h-f-_JR10442418"
+    "/job/Marseille-Area/Information-Security-Manager-System-Manager--f-m-_JR10441295"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "54938",
     "53742",
     "54112",
     "54889",
@@ -160,7 +161,8 @@
     "52401",
     "52810",
     "53083",
-    "53554"
+    "53554",
+    "53874"
   ],
   "VIE": [],
   "Airbus VIE": [
