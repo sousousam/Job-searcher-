@@ -1,5 +1,10 @@
 {
   "Airbus CDI": [
+    "/job/Marseille-Area/STAGE-2027---Stage-en-Bureau-d-Etudes-Transmission-Mcanique--h-f-_JR10443143",
+    "/job/Marseille-Area/STAGE-2027---Ingnieur-en-conception-mcanique---systmes-vhicule--h-f-_JR10445484",
+    "/job/Marseille-Area/STAGE-2027---Dveloppement-logiciel---ingnieur-en-simulation-de-systmes--h-f-_JR10445369",
+    "/job/Marseille-Area/STAGE-2027---Cblage---Intgration-Avionique--h-f-_JR10445309",
+    "/job/Marseille-Area/STAGE-2027----Gestion-de-projet---Transformation-du-systme-de-management--h-f-_JR10443976",
     "/job/Toulouse-Area/STAGE-2027---Gestion-de-Projet---Solutions-Digitales--f-h-_JR10444189",
     "/job/Marseille-Area/STAGE-2027---Ingenieur-Tests-d-integration-systme--h-f-_JR10445300",
     "/job/Marseille-Area/Head-of-Transformation-and-Digital-Perfo-Management--f-m-_JR10425321",
@@ -17,7 +22,6 @@
     "/job/Toulouse-Area/Auto-Flight-System-Design-Engineer--m-f-_JR10444736-1",
     "/job/Toulouse-Area/Quality-Line-Side---Pices-Elementaires---Activit-Tolerie-Delestage-H-F_JR10431683-1",
     "/job/Toulouse-Area/STAGE-2027-INGENIEUR-AMELIORATION-DU-TRAVAIL-F-M_JR10443072",
-    "/job/Marseille-Area/STAGE-2027---Cblage---Intgration-Avionique--h-f-_JR10445309",
     "/job/Toulouse-Area/STAGE-2027---Stage-en-robotique-spatiale-sur-la-planification-dynamique-de-trajectoire--f-h-_JR10441180",
     "/job/Marseille-Area/STAGE-2027---Production---amlioration-de-la-performance--F-H-_JR10442694",
     "/job/Toulouse-Area/Stage-2027-Performance-industrielle-et-rduction-des-lead-times-widebody_JR10442414",
@@ -35,11 +39,7 @@
     "/job/Toulouse-Area/Stage-2027--amlioration-de-procds-d-installation-sur-la-FAL-A350--h-f-_JR10444179",
     "/job/Toulouse-Area/STAGE-2027-Consultant-Junior-Transformation-Digitale---Change-Management--NowAssist----h-f-_JR10444401",
     "/job/Toulouse-Area/Stage-2027---Support-Stratgie---Gouvernance-Cyber--h-f-_JR10445158",
-    "/job/Toulouse-Area/Stage-2027---Ingnieur-Assemblage-Assist-par-la-Mesure--h-f-_JR10445795",
-    "/job/Toulouse-Area/STAGE-2027---Ingnieur-Industriel---Data-Analytics---BI--h-f-_JR10443666",
-    "/job/Toulouse-Area/STAGE-2027---Gestion-des-Donnes---Optimisation-des-Processus---Implmentation-des-MOD-Widebody--h-f-_JR10444748",
-    "/job/Toulouse-Area/Lead-Software-Developer--f-m-_JR10435122",
-    "/job/Toulouse-Area/Flight-Physics-MDAO-Developer--f-m-_JR10438568"
+    "/job/Toulouse-Area/Stage-2027---Ingnieur-Assemblage-Assist-par-la-Mesure--h-f-_JR10445795"
   ],
   "Safran CDI": [],
   "Naval Group": [
