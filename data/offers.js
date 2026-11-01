@@ -1,19 +1,7 @@
 window.OFFERS = {
-  "generatedAt": "2026-11-01T13:19",
+  "generatedAt": "2026-11-01T17:49",
   "firstRun": false,
-  "new": [
-    {
-      "id": "/job/Toulouse-Area/STAGE-2027---Gestion-des-Donnes---Optimisation-des-Processus---Implmentation-des-MOD-Widebody--h-f-_JR10444748",
-      "title": "STAGE 2027 - Gestion des Données & Optimisation des Processus - Implémentation des MOD Widebody (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/STAGE-2027---Gestion-des-Donnes---Optimisation-des-Processus---Implmentation-des-MOD-Widebody--h-f-_JR10444748",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    }
-  ],
+  "new": [],
   "counts": {
     "Airbus CDI": 40,
     "Safran CDI": 0,
