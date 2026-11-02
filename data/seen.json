@@ -1,5 +1,7 @@
 {
   "Airbus CDI": [
+    "/job/Blagnac---JL-Lagardere/STAGE-2027---Support-en-gestion-de-projet-sur-l-introduction-d-un-nouveau-standard-A320-en-FAL--H-F-_JR10443210",
+    "/job/Toulouse-Area/Repair-and-Design-Certification-Engineer--M-F-----working-on-7-7--shift-pattern_JR10388977",
     "/job/Toulouse-Area/Stage-2027---Dveloppeur---Ingnieur-IA-pour-les-RH--h-f-_JR10442820",
     "/job/Immenstaad-am-Bodensee/IT-Product-Manager---Digital-Workplace---IP-Telephony--d-f-m-_JR10427884",
     "/job/Toulouse-Area/Stage-2027---Optimisation-des-Mthodes-d-Essais-Mcaniques-Satellites--H-F-_JR10440981",
@@ -37,12 +39,12 @@
     "/job/Toulouse-Area/Supply-Chain-and-Quality-Manager--M-F-_JR10453930-1",
     "/job/Toulouse-Area/STAGE-2027---ACS-Intgrateur-lectrique-et-Architecte-Exprience-Numrique--H-F-_JR10444766",
     "/job/Marseille-Area/XMLNAME--ET22-Expert-en-Systmes-de-Communication--F-H-_JR10433861",
-    "/job/Marseille-Area/XMLNAME--ET22R-Ingnieur-Systmes-de-Commandes-de-Vol--F-H-_JR10453007",
-    "/job/Marseille-Area/XMLNAME--ET20-Ingnieur-Scurit-et-Fiabilit-Senior--F-H-_JR10415563",
-    "/job/Marseille-Area/XMLNAME--ET22-Ingnieur-Aronautique---Gnration--Conversion-et-Distribution-lectrique--F-H-_JR10450052"
+    "/job/Marseille-Area/XMLNAME--ET22R-Ingnieur-Systmes-de-Commandes-de-Vol--F-H-_JR10453007"
   ],
   "Safran CDI": [],
   "Naval Group": [
+    "54844",
+    "54943",
     "53724",
     "50957",
     "54633",
@@ -159,10 +161,7 @@
     "54274",
     "54275",
     "52858",
-    "52562",
-    "53490",
-    "49627",
-    "52729"
+    "52562"
   ],
   "VIE": [],
   "Airbus VIE": [
