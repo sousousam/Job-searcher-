@@ -1,22 +1,11 @@
 window.OFFERS = {
-  "generatedAt": "2026-11-10T23:17",
+  "generatedAt": "2026-11-11T14:12",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Stage-2026---Stagiaire-ingnieur-amlioration-continue--h-f-_JR10445681",
-      "title": "Stage 2027 - Stagiaire ingénieur amélioration continue (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2026---Stagiaire-ingnieur-amlioration-continue--h-f-_JR10445681",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Senior-Propulsion-Durability-and-Verification-Specialist--f-m-_JR10433962",
-      "title": "Senior Propulsion Durability and Verification Specialist (f/m)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Senior-Propulsion-Durability-and-Verification-Specialist--f-m-_JR10433962",
+      "id": "/job/Toulouse-Area/Stage-2027---Stagiaire-en-Gouvernance-et-organisation-des-donnes-de-gestion-des-sites--F-H-_JR10444970",
+      "title": "Stage 2027 - Stagiaire en Gouvernance et organisation des données de gestion des sites (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Gouvernance-et-organisation-des-donnes-de-gestion-des-sites--F-H-_JR10444970",
       "company": "Airbus",
       "location": "Toulouse Area",
       "contract": "CDI",
