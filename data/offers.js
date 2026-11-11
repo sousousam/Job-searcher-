@@ -1,15 +1,15 @@
 window.OFFERS = {
-  "generatedAt": "2026-11-11T14:12",
+  "generatedAt": "2026-11-11T19:27",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Stage-2027---Stagiaire-en-Gouvernance-et-organisation-des-donnes-de-gestion-des-sites--F-H-_JR10444970",
-      "title": "Stage 2027 - Stagiaire en Gouvernance et organisation des données de gestion des sites (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Gouvernance-et-organisation-des-donnes-de-gestion-des-sites--F-H-_JR10444970",
+      "id": "/job/Marseille-Area/STAGE-2027---Intelligence-Artificielle-AH-Operation-H-F-_JR10445490",
+      "title": "STAGE 2027 - Accompagnement au changement /support à la montée en compétences en IA (H/F)",
+      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Marseille-Area/STAGE-2027---Intelligence-Artificielle-AH-Operation-H-F-_JR10445490",
       "company": "Airbus",
-      "location": "Toulouse Area",
+      "location": "Marseille Area",
       "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
+      "date": "Offre publiée hier",
       "source": "Airbus CDI",
       "is_new": true
     }
