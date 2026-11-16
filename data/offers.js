@@ -1,36 +1,25 @@
 window.OFFERS = {
-  "generatedAt": "2026-11-15T22:51",
+  "generatedAt": "2026-11-16T15:42",
   "firstRun": false,
   "new": [
     {
-      "id": "/job/Toulouse-Area/Aircraft-Maintenance-and-Technical-Documentation-Engineer-on--Flight-control-and-Auto-Pilot-Systems--M-F_JR10440260",
-      "title": "Aircraft Maintenance and Technical Documentation Engineer on  Flight control and Auto-Pilot Systems  M/F",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Aircraft-Maintenance-and-Technical-Documentation-Engineer-on--Flight-control-and-Auto-Pilot-Systems--M-F_JR10440260",
-      "company": "Airbus",
-      "location": "Toulouse Area",
+      "id": "55115",
+      "title": "CDI – Responsable Méthode Outillée- H/F",
+      "url": "https://dcns-recrute.talent-soft.com/offre-de-emploi/emploi-cdi-responsable-methode-outillee-h-f_55115.aspx",
+      "company": "Naval Group",
+      "location": "Europe, France, Provence-Cote d'Azur, Ollioules",
       "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
-      "is_new": true
-    },
-    {
-      "id": "/job/Toulouse-Area/Process---Information-System-Manager_JR10440014-1",
-      "title": "Process & Information System Manager",
-      "url": "https://ag.wd3.myworkdayjobs.com/fr-FR/Airbus/job/Toulouse-Area/Process---Information-System-Manager_JR10440014-1",
-      "company": "Airbus",
-      "location": "Toulouse Area",
-      "contract": "CDI",
-      "date": "Offre publiée aujourd'hui",
-      "source": "Airbus CDI",
+      "date": "",
+      "source": "Naval Group",
       "is_new": true
     }
   ],
   "counts": {
-    "Airbus CDI": 40,
+    "Airbus CDI": 0,
     "Safran CDI": 0,
-    "Naval Group": 126,
+    "Naval Group": 125,
     "VIE": 0,
-    "Airbus VIE": 5,
+    "Airbus VIE": 0,
     "Safran VIE": 0
   }
 };
