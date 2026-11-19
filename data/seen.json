@@ -2,6 +2,8 @@
   "Airbus CDI": [],
   "Safran CDI": [],
   "Naval Group": [
+    "54888",
+    "54370",
     "54920",
     "54889",
     "51195",
@@ -26,13 +28,11 @@
     "55063",
     "54506",
     "54334",
-    "54370",
     "55048",
     "54697",
     "55047",
     "55015",
     "54948",
-    "54933",
     "54947",
     "55169",
     "53843",
@@ -125,9 +125,17 @@
     "53215",
     "54274",
     "54275",
-    "52858"
+    "52858",
+    "53490"
   ],
   "VIE": [],
-  "Airbus VIE": [],
+  "Airbus VIE": [
+    "/job/Singapore-ASAP/VIE-2027--Singapore--Finance-controlling-consolidation---Cross-functional-projects--m-f-_JR10456969",
+    "/job/Tianjin-Area/VIE-2027---CHINA---Industrial-Procurement----H-F_JR10437653",
+    "/job/Herndon-Area-VA/VIE-Finance-Transformation-Analyst--AI---Emerging-Tech_JR10456967",
+    "/job/Hamburg---Finkenwerder/XMLNAME--VIE-2027---Germany---Airbus-SAS---Quality-Procurement-Transverse-Project-Manager----H-F-_JR10444107",
+    "/job/Mnchen-Area/VIE--d-f-m----HR-Project-Manager---H-F_JR10451106",
+    "/job/Wichita-KS/VIE-2027--Airbus-Americas--Fuselage-Repair-Workflow-Manager_JR10425581"
+  ],
   "Safran VIE": []
 }
